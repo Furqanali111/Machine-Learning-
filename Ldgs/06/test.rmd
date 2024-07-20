@@ -1,0 +1,138 @@
+# Load necessary packages
+library(rvest)
+library(tidyverse)
+library(ggplot2)
+
+# Scraping forecast data
+url <- "https://www.timeanddate.com/weather/"
+city <- "your_selected_city"  # Replace with your selected city
+forecast_url <- paste0(url, city)
+
+forecast <- forecast_url %>%
+  read_html() %>%
+  html_nodes(xpath = '//*[@id="qlook"]/div[2]/table[2]') %>%
+  html_table()
+
+# Parsing forecast data
+forecast_summary <- forecast[[1]] %>%
+  as_tibble()
+
+# Selecting relevant columns (assuming columns 1, 2, and 3 represent temperature, wind, and humidity respectively)
+forecast_data <- forecast_summary %>%
+  select(Time, `Temp.`, Wind, Humidity) %>%
+  mutate(Time = as.POSIXct(Time, format = "%H:%M"))
+
+# Plotting temperature
+temperature_plot <- ggplot(data = forecast_data, aes(x = Time, y = `Temp.`)) +
+  geom_line() +
+  labs(title = "Temperature Forecast",
+       x = "Time",
+       y = "Temperature (°C)")
+
+# Plotting wind
+wind_plot <- ggplot(data = forecast_data, aes(x = Time, y = Wind)) +
+  geom_line() +
+  labs(title = "Wind Forecast",
+       x = "Time",
+       y = "Wind Speed (km/h)")
+
+# Plotting humidity
+humidity_plot <- ggplot(data = forecast_data, aes(x = Time, y = Humidity)) +
+  geom_line() +
+  labs(title = "Humidity Forecast",
+       x = "Time",
+       y = "Humidity (%)")
+
+# Arrange plots in a grid
+grid.arrange(temperature_plot, wind_plot, humidity_plot, ncol =
+# Scraping monthly weather averages
+climate_url <- paste0(url, city, "/climate")
+climate <- climate_url %>%
+  read_html() %>%
+  html_nodes(xpath = '//*[@id="climateTable"]') %>%
+  html_table()
+
+climate <- climate_url %>%
+  read_html() %>%
+  html_nodes(xpath = '//*[@id="climateTable"]') %>%
+  html_table()
+
+# Parsing climate data
+climate_data <- climate[[1]] %>%
+  as_tibble()
+
+# Extracting relevant columns (assuming columns 2, 3, 4 represent temperature and column 5 represents precipitation)
+temperature_data <- climate_data %>%
+  select(Month, `Avg. Min Temperature (°C)`, `Avg. Max Temperature (°C)`) %>%
+  rename(Month = `Month number`,
+         Min_Temperature = `Avg. Min Temperature (°C)`,
+         Max_Temperature = `Avg. Max Temperature (°C)`)
+
+precipitation_data <- climate_data %>%
+  select(Month, `Total Precipitation (mm)`) %>%
+  rename(Month = `Month number`,
+         Precipitation = `Total Precipitation (mm)`)
+
+# Summary statistics for temperature
+temperature_summary <- temperature_data %>%
+  summarise(
+    Annual_Minimum_Temperature = min(Min_Temperature, na.rm = TRUE),
+    Annual_Maximum_Temperature = max(Max_Temperature, na.rm = TRUE),
+    Annual_Mean_Temperature = mean(c(Min_Temperature, Max_Temperature), na.rm = TRUE)
+  )
+
+# Summary statistics for precipitation
+precipitation_summary <- precipitation_data %>%
+  summarise(
+    Annual_Mean_Precipitation = mean(Precipitation, na.rm = TRUE)
+  )
+
+# Print summary statistics
+print(temperature_summary)
+print(precipitation_summary)
+
+
+
+# Visualizing monthly values
+climate <- climate_url %>%
+  read_html() %>%
+  html_nodes(xpath = '//*[@id="climateTable"]') %>%
+  html_table()
+
+# Parsing climate data
+climate_data <- climate[[1]] %>%
+  as_tibble()
+
+# Extracting relevant columns (assuming columns 2, 3, 4 represent temperature and column 5 represents precipitation)
+temperature_data <- climate_data %>%
+  select(Month, `Avg. Min Temperature (°C)`, `Avg. Max Temperature (°C)`) %>%
+  rename(Month = `Month number`, 
+         Min_Temperature = `Avg. Min Temperature (°C)`, 
+         Max_Temperature = `Avg. Max Temperature (°C)`)
+
+precipitation_data <- climate_data %>%
+  select(Month, `Total Precipitation (mm)`) %>%
+  rename(Month = `Month number`, 
+         Precipitation = `Total Precipitation (mm)`)
+
+# Plotting monthly temperature values
+temperature_plot <- ggplot(data = temperature_data, aes(x = Month)) +
+  geom_line(aes(y = Min_Temperature), color = "blue", linetype = "dashed") +
+  geom_line(aes(y = Max_Temperature), color = "red", linetype = "solid") +
+  labs(title = "Monthly Temperature Averages",
+       x = "Month",
+       y = "Temperature (°C)") +
+  scale_x_continuous(breaks = seq(1, 12, by = 1),
+                      labels = month.abb)
+
+# Plotting monthly precipitation values
+precipitation_plot <- ggplot(data = precipitation_data, aes(x = Month, y = Precipitation)) +
+  geom_bar(stat = "identity", fill = "blue") +
+  labs(title = "Monthly Precipitation Averages",
+       x = "Month",
+       y = "Precipitation (mm)") +
+  scale_x_continuous(breaks = seq(1, 12, by = 1),
+                     labels = month.abb)
+
+# Arrange plots in a grid
+grid.arrange(temperature_plot, precipitation_plot, ncol = 1)

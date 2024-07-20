@@ -1,0 +1,3195 @@
+tv_channel,city,tvviewers,start_time,end_time,event_number,weekday
+ATN7,Sydney,69,14:00,14:14,1,5
+ATN7,Sydney,56,14:15,14:29,1,5
+ATN7,Sydney,51,14:30,14:44,1,5
+ATN7,Sydney,48,14:45,14:59,1,5
+ATN7,Sydney,48,15:00,15:14,1,5
+ATN7,Sydney,43,15:15,15:29,1,5
+ATN7,Sydney,50,15:30,15:44,1,5
+ATN7,Sydney,50,15:45,15:59,1,5
+ATN7,Sydney,50,16:00,16:14,1,5
+ATN7,Sydney,44,16:15,16:29,1,5
+ATN7,Sydney,48,16:30,16:44,1,5
+ATN7,Sydney,55,16:45,16:59,1,5
+BTQ7,Brisbane,41,14:00,14:14,1,5
+BTQ7,Brisbane,38,14:15,14:29,1,5
+BTQ7,Brisbane,31,14:30,14:44,1,5
+BTQ7,Brisbane,29,14:45,14:59,1,5
+BTQ7,Brisbane,33,15:00,15:14,1,5
+BTQ7,Brisbane,33,15:15,15:29,1,5
+BTQ7,Brisbane,36,15:30,15:44,1,5
+BTQ7,Brisbane,47,15:45,15:59,1,5
+BTQ7,Brisbane,57,16:00,16:14,1,5
+BTQ7,Brisbane,49,16:15,16:29,1,5
+BTQ7,Brisbane,50,16:30,16:44,1,5
+BTQ7,Brisbane,41,16:45,16:59,1,5
+HSV7,Melbourne,24,14:00,14:14,1,5
+HSV7,Melbourne,17,14:15,14:29,1,5
+HSV7,Melbourne,15,14:30,14:44,1,5
+HSV7,Melbourne,10,14:45,14:59,1,5
+HSV7,Melbourne,11,15:00,15:14,1,5
+HSV7,Melbourne,10,15:15,15:29,1,5
+HSV7,Melbourne,15,15:30,15:44,1,5
+HSV7,Melbourne,22,15:45,15:59,1,5
+HSV7,Melbourne,25,16:00,16:14,1,5
+HSV7,Melbourne,28,16:15,16:29,1,5
+HSV7,Melbourne,33,16:30,16:44,1,5
+HSV7,Melbourne,37,16:45,16:59,1,5
+SAS7,Adelaide,19,14:00,14:14,1,5
+SAS7,Adelaide,20,14:15,14:29,1,5
+SAS7,Adelaide,18,14:30,14:44,1,5
+SAS7,Adelaide,16,14:45,14:59,1,5
+SAS7,Adelaide,18,15:00,15:14,1,5
+SAS7,Adelaide,21,15:15,15:29,1,5
+SAS7,Adelaide,25,15:30,15:44,1,5
+SAS7,Adelaide,26,15:45,15:59,1,5
+SAS7,Adelaide,27,16:00,16:14,1,5
+SAS7,Adelaide,25,16:15,16:29,1,5
+SAS7,Adelaide,29,16:30,16:44,1,5
+SAS7,Adelaide,27,16:45,16:59,1,5
+Southern Cross Tasmania,Tasmania,4,14:00,14:14,1,5
+Southern Cross Tasmania,Tasmania,6,14:15,14:29,1,5
+Southern Cross Tasmania,Tasmania,4,14:30,14:44,1,5
+Southern Cross Tasmania,Tasmania,5,14:45,14:59,1,5
+Southern Cross Tasmania,Tasmania,9,15:00,15:14,1,5
+Southern Cross Tasmania,Tasmania,10,15:15,15:29,1,5
+Southern Cross Tasmania,Tasmania,11,15:30,15:44,1,5
+Southern Cross Tasmania,Tasmania,12,15:45,15:59,1,5
+Southern Cross Tasmania,Tasmania,11,16:00,16:14,1,5
+Southern Cross Tasmania,Tasmania,12,16:15,16:29,1,5
+Southern Cross Tasmania,Tasmania,15,16:30,16:44,1,5
+Southern Cross Tasmania,Tasmania,14,16:45,16:59,1,5
+TVW7,Perth,12,14:00,14:14,1,5
+TVW7,Perth,14,14:15,14:29,1,5
+TVW7,Perth,17,14:30,14:44,1,5
+TVW7,Perth,15,14:45,14:59,1,5
+TVW7,Perth,14,15:00,15:14,1,5
+TVW7,Perth,15,15:15,15:29,1,5
+TVW7,Perth,19,15:30,15:44,1,5
+TVW7,Perth,17,15:45,15:59,1,5
+TVW7,Perth,19,16:00,16:14,1,5
+TVW7,Perth,20,16:15,16:29,1,5
+TVW7,Perth,17,16:30,16:44,1,5
+TVW7,Perth,18,16:45,16:59,1,5
+7mate Ade,Adelaide,13,14:00,14:14,1,6
+7mate Ade,Adelaide,17,14:15,14:29,1,6
+7mate Ade,Adelaide,24,14:30,14:44,1,6
+7mate Ade,Adelaide,26,14:45,14:59,1,6
+7mate Ade,Adelaide,29,15:00,15:14,1,6
+7mate Ade,Adelaide,28,15:15,15:29,1,6
+7mate Ade,Adelaide,12,18:30,18:44,1,6
+7mate Ade,Adelaide,16,18:45,18:59,1,6
+7mate Bri,Brisbane,18,14:00,14:14,1,6
+7mate Bri,Brisbane,22,14:15,14:29,1,6
+7mate Bri,Brisbane,25,14:30,14:44,1,6
+7mate Bri,Brisbane,31,14:45,14:59,1,6
+7mate Bri,Brisbane,35,15:00,15:14,1,6
+7mate Bri,Brisbane,30,15:15,15:29,1,6
+7mate Bri,Brisbane,26,15:30,15:44,1,6
+7mate Bri,Brisbane,22,19:00,19:14,1,6
+7mate Bri,Brisbane,38,19:15,19:29,1,6
+7mate Mel,Melbourne,36,14:00,14:14,1,6
+7mate Mel,Melbourne,41,14:15,14:29,1,6
+7mate Mel,Melbourne,45,14:30,14:44,1,6
+7mate Mel,Melbourne,46,14:45,14:59,1,6
+7mate Mel,Melbourne,41,15:00,15:14,1,6
+7mate Mel,Melbourne,32,15:15,15:29,1,6
+7mate Mel,Melbourne,35,15:30,15:44,1,6
+7mate Mel,Melbourne,14,18:00,18:14,1,6
+7mate Mel,Melbourne,9,18:15,18:29,1,6
+7mate Per,Perth,9,14:00,14:14,1,6
+7mate Per,Perth,8,14:15,14:29,1,6
+7mate Per,Perth,8,14:30,14:44,1,6
+7mate Per,Perth,5,14:45,14:59,1,6
+7mate Per,Perth,6,15:00,15:14,1,6
+7mate Per,Perth,12,15:15,15:29,1,6
+7mate Per,Perth,4,15:30,15:44,1,6
+7mate Syd,Sydney,21,14:00,14:14,1,6
+7mate Syd,Sydney,32,14:15,14:29,1,6
+7mate Syd,Sydney,32,14:30,14:44,1,6
+7mate Syd,Sydney,34,14:45,14:59,1,6
+7mate Syd,Sydney,33,15:00,15:14,1,6
+7mate Syd,Sydney,37,15:15,15:29,1,6
+7mate Syd,Sydney,23,15:30,15:44,1,6
+7mate Syd,Sydney,7,18:00,18:14,1,6
+7mate Syd,Sydney,9,18:15,18:29,1,6
+7mate Tasmania,Tasmania,4,14:00,14:14,1,6
+7mate Tasmania,Tasmania,7,14:15,14:29,1,6
+7mate Tasmania,Tasmania,8,14:30,14:44,1,6
+7mate Tasmania,Tasmania,9,14:45,14:59,1,6
+7mate Tasmania,Tasmania,12,15:00,15:14,1,6
+7mate Tasmania,Tasmania,9,15:15,15:29,1,6
+7mate Tasmania,Tasmania,6,15:30,15:44,1,6
+7mate Tasmania,Tasmania,3,18:00,18:14,1,6
+7mate Tasmania,Tasmania,0,18:15,18:29,1,6
+"7mate Tasmania, Southern Cross Tasmania",Tasmania,29,17:45,17:59,1,6
+ATN7,Sydney,105,16:00,16:14,1,6
+ATN7,Sydney,104,16:15,16:29,1,6
+ATN7,Sydney,106,16:30,16:44,1,6
+ATN7,Sydney,128,16:45,16:59,1,6
+ATN7,Sydney,133,17:00,17:14,1,6
+ATN7,Sydney,143,17:15,17:29,1,6
+ATN7,Sydney,139,17:30,17:44,1,6
+ATN7,Sydney,118,18:30,18:44,1,6
+ATN7,Sydney,92,18:45,18:59,1,6
+ATN7,Sydney,107,19:00,19:14,1,6
+ATN7,Sydney,137,19:15,19:29,1,6
+ATN7,Sydney,130,19:30,19:44,1,6
+ATN7,Sydney,126,19:45,19:59,1,6
+ATN7,Sydney,134,20:00,20:14,1,6
+ATN7,Sydney,138,20:15,20:29,1,6
+ATN7,Sydney,107,20:30,20:44,1,6
+ATN7,Sydney,163,17:45,17:59,1,6
+BTQ7,Brisbane,64,16:00,16:14,1,6
+BTQ7,Brisbane,64,16:15,16:29,1,6
+BTQ7,Brisbane,64,16:30,16:44,1,6
+BTQ7,Brisbane,84,16:45,16:59,1,6
+BTQ7,Brisbane,89,17:00,17:14,1,6
+BTQ7,Brisbane,91,17:15,17:29,1,6
+BTQ7,Brisbane,98,17:30,17:44,1,6
+BTQ7,Brisbane,96,17:45,17:59,1,6
+BTQ7,Brisbane,70,18:00,18:14,1,6
+BTQ7,Brisbane,71,18:15,18:29,1,6
+BTQ7,Brisbane,80,18:30,18:44,1,6
+BTQ7,Brisbane,139,19:30,19:44,1,6
+BTQ7,Brisbane,123,19:45,19:59,1,6
+BTQ7,Brisbane,119,20:00,20:14,1,6
+BTQ7,Brisbane,123,20:15,20:29,1,6
+BTQ7,Brisbane,119,18:45,18:59,1,6
+HSV7,Melbourne,75,16:00,16:14,1,6
+HSV7,Melbourne,75,16:15,16:29,1,6
+HSV7,Melbourne,96,16:30,16:44,1,6
+HSV7,Melbourne,116,16:45,16:59,1,6
+HSV7,Melbourne,99,17:00,17:14,1,6
+HSV7,Melbourne,85,17:15,17:29,1,6
+HSV7,Melbourne,91,17:30,17:44,1,6
+HSV7,Melbourne,132,18:30,18:44,1,6
+HSV7,Melbourne,108,18:45,18:59,1,6
+HSV7,Melbourne,109,19:00,19:14,1,6
+HSV7,Melbourne,126,19:15,19:29,1,6
+HSV7,Melbourne,136,19:30,19:44,1,6
+HSV7,Melbourne,132,19:45,19:59,1,6
+HSV7,Melbourne,139,20:00,20:14,1,6
+HSV7,Melbourne,149,20:15,20:29,1,6
+HSV7,Melbourne,123,20:30,20:44,1,6
+HSV7,Melbourne,109,17:45,17:59,1,6
+SAS7,Adelaide,49,16:00,16:14,1,6
+SAS7,Adelaide,60,16:15,16:29,1,6
+SAS7,Adelaide,66,16:30,16:44,1,6
+SAS7,Adelaide,83,16:45,16:59,1,6
+SAS7,Adelaide,82,17:00,17:14,1,6
+SAS7,Adelaide,73,17:15,17:29,1,6
+SAS7,Adelaide,80,17:30,17:44,1,6
+SAS7,Adelaide,73,17:45,17:59,1,6
+SAS7,Adelaide,62,18:00,18:14,1,6
+SAS7,Adelaide,88,19:00,19:14,1,6
+SAS7,Adelaide,100,19:15,19:29,1,6
+SAS7,Adelaide,90,19:30,19:44,1,6
+SAS7,Adelaide,96,19:45,19:59,1,6
+SAS7,Adelaide,92,20:00,20:14,1,6
+SAS7,Adelaide,97,20:15,20:29,1,6
+SAS7,Adelaide,74,18:15,18:29,1,6
+Southern Cross Tasmania,Tasmania,11,16:00,16:14,1,6
+Southern Cross Tasmania,Tasmania,17,16:15,16:29,1,6
+Southern Cross Tasmania,Tasmania,20,16:30,16:44,1,6
+Southern Cross Tasmania,Tasmania,19,16:45,16:59,1,6
+Southern Cross Tasmania,Tasmania,26,17:00,17:14,1,6
+Southern Cross Tasmania,Tasmania,26,17:15,17:29,1,6
+Southern Cross Tasmania,Tasmania,29,17:30,17:44,1,6
+Southern Cross Tasmania,Tasmania,23,18:30,18:44,1,6
+Southern Cross Tasmania,Tasmania,20,18:45,18:59,1,6
+Southern Cross Tasmania,Tasmania,15,19:00,19:14,1,6
+Southern Cross Tasmania,Tasmania,16,19:15,19:29,1,6
+Southern Cross Tasmania,Tasmania,21,19:30,19:44,1,6
+Southern Cross Tasmania,Tasmania,25,19:45,19:59,1,6
+Southern Cross Tasmania,Tasmania,23,20:00,20:14,1,6
+Southern Cross Tasmania,Tasmania,20,20:15,20:29,1,6
+Southern Cross Tasmania,Tasmania,19,20:30,20:44,1,6
+TVW7,Perth,33,16:00,16:14,1,6
+TVW7,Perth,32,16:15,16:29,1,6
+TVW7,Perth,31,16:30,16:44,1,6
+TVW7,Perth,42,16:45,16:59,1,6
+TVW7,Perth,42,17:00,17:14,1,6
+TVW7,Perth,47,17:15,17:29,1,6
+TVW7,Perth,44,17:30,17:44,1,6
+TVW7,Perth,43,17:45,17:59,1,6
+TVW7,Perth,35,18:00,18:14,1,6
+TVW7,Perth,29,18:15,18:29,1,6
+TVW7,Perth,22,18:30,18:44,1,6
+TVW7,Perth,20,18:45,18:59,1,6
+TVW7,Perth,23,19:00,19:14,1,6
+TVW7,Perth,29,19:15,19:29,1,6
+TVW7,Perth,32,19:30,19:44,1,6
+TVW7,Perth,38,19:45,19:59,1,6
+TVW7,Perth,40,20:00,20:14,1,6
+TVW7,Perth,41,20:15,20:29,1,6
+7mate Ade,Adelaide,12,12:00,12:14,1,7
+7mate Ade,Adelaide,19,12:15,12:29,1,7
+7mate Ade,Adelaide,19,12:30,12:44,1,7
+7mate Ade,Adelaide,22,12:45,12:59,1,7
+7mate Ade,Adelaide,18,13:00,13:14,1,7
+7mate Ade,Adelaide,8,17:45,17:59,1,7
+7mate Ade,Adelaide,30,18:00,18:14,1,7
+7mate Ade,Adelaide,26,18:15,18:29,1,7
+7mate Bri,Brisbane,12,12:00,12:14,1,7
+7mate Bri,Brisbane,9,12:15,12:29,1,7
+7mate Bri,Brisbane,7,12:30,12:44,1,7
+7mate Bri,Brisbane,10,12:45,12:59,1,7
+7mate Bri,Brisbane,9,13:00,13:14,1,7
+7mate Mel,Melbourne,17,12:00,12:14,1,7
+7mate Mel,Melbourne,26,12:15,12:29,1,7
+7mate Mel,Melbourne,32,12:30,12:44,1,7
+7mate Mel,Melbourne,42,12:45,12:59,1,7
+7mate Mel,Melbourne,37,13:00,13:14,1,7
+7mate Mel,Melbourne,14,17:45,17:59,1,7
+7mate Mel,Melbourne,21,18:00,18:14,1,7
+7mate Mel,Melbourne,25,18:15,18:29,1,7
+7mate Per,Perth,9,12:00,12:14,1,7
+7mate Per,Perth,9,12:15,12:29,1,7
+7mate Per,Perth,6,12:30,12:44,1,7
+7mate Per,Perth,8,12:45,12:59,1,7
+7mate Per,Perth,10,13:00,13:14,1,7
+7mate Syd,Sydney,13,12:00,12:14,1,7
+7mate Syd,Sydney,22,12:15,12:29,1,7
+7mate Syd,Sydney,29,12:30,12:44,1,7
+7mate Syd,Sydney,29,12:45,12:59,1,7
+7mate Syd,Sydney,21,13:00,13:14,1,7
+7mate Syd,Sydney,7,17:45,17:59,1,7
+7mate Syd,Sydney,21,18:00,18:14,1,7
+7mate Syd,Sydney,13,18:15,18:29,1,7
+7mate Tasmania,Tasmania,3,12:00,12:14,1,7
+7mate Tasmania,Tasmania,6,12:15,12:29,1,7
+7mate Tasmania,Tasmania,6,12:30,12:44,1,7
+7mate Tasmania,Tasmania,4,12:45,12:59,1,7
+7mate Tasmania,Tasmania,0,13:00,13:14,1,7
+7mate Tasmania,Tasmania,7,17:45,17:59,1,7
+7mate Tasmania,Tasmania,2,18:00,18:14,1,7
+7mate Tasmania,Tasmania,0,18:15,18:29,1,7
+ATN7,Sydney,62,13:00,13:14,1,7
+ATN7,Sydney,90,13:15,13:29,1,7
+ATN7,Sydney,88,13:30,13:44,1,7
+ATN7,Sydney,96,13:45,13:59,1,7
+ATN7,Sydney,109,14:00,14:14,1,7
+ATN7,Sydney,120,14:15,14:29,1,7
+ATN7,Sydney,111,14:30,14:44,1,7
+ATN7,Sydney,113,14:45,14:59,1,7
+ATN7,Sydney,107,15:00,15:14,1,7
+ATN7,Sydney,91,15:15,15:29,1,7
+ATN7,Sydney,99,15:30,15:44,1,7
+ATN7,Sydney,138,15:45,15:59,1,7
+ATN7,Sydney,168,16:00,16:14,1,7
+ATN7,Sydney,176,16:15,16:29,1,7
+ATN7,Sydney,169,16:30,16:44,1,7
+ATN7,Sydney,171,16:45,16:59,1,7
+ATN7,Sydney,177,17:00,17:14,1,7
+ATN7,Sydney,165,17:15,17:29,1,7
+ATN7,Sydney,161,17:30,17:44,1,7
+ATN7,Sydney,176,17:45,17:59,1,7
+BTQ7,Brisbane,62,13:00,13:14,1,7
+BTQ7,Brisbane,67,13:15,13:29,1,7
+BTQ7,Brisbane,61,13:30,13:44,1,7
+BTQ7,Brisbane,71,13:45,13:59,1,7
+BTQ7,Brisbane,83,14:00,14:14,1,7
+BTQ7,Brisbane,76,14:15,14:29,1,7
+BTQ7,Brisbane,79,14:30,14:44,1,7
+BTQ7,Brisbane,80,14:45,14:59,1,7
+BTQ7,Brisbane,88,15:00,15:14,1,7
+BTQ7,Brisbane,93,15:15,15:29,1,7
+BTQ7,Brisbane,88,15:30,15:44,1,7
+BTQ7,Brisbane,119,15:45,15:59,1,7
+BTQ7,Brisbane,135,16:00,16:14,1,7
+BTQ7,Brisbane,146,16:15,16:29,1,7
+BTQ7,Brisbane,137,16:30,16:44,1,7
+BTQ7,Brisbane,148,16:45,16:59,1,7
+BTQ7,Brisbane,153,17:00,17:14,1,7
+BTQ7,Brisbane,175,17:15,17:29,1,7
+BTQ7,Brisbane,190,17:30,17:44,1,7
+BTQ7,Brisbane,142,17:45,17:59,1,7
+BTQ7,Brisbane,190,17:45,17:59,1,7
+BTQ7,Brisbane,91,18:00,18:14,1,7
+BTQ7,Brisbane,95,18:15,18:29,1,7
+HSV7,Melbourne,71,13:00,13:14,1,7
+HSV7,Melbourne,64,13:15,13:29,1,7
+HSV7,Melbourne,92,13:30,13:44,1,7
+HSV7,Melbourne,89,13:45,13:59,1,7
+HSV7,Melbourne,91,14:00,14:14,1,7
+HSV7,Melbourne,76,14:15,14:29,1,7
+HSV7,Melbourne,65,14:30,14:44,1,7
+HSV7,Melbourne,81,14:45,14:59,1,7
+HSV7,Melbourne,87,15:00,15:14,1,7
+HSV7,Melbourne,101,15:15,15:29,1,7
+HSV7,Melbourne,115,15:30,15:44,1,7
+HSV7,Melbourne,131,15:45,15:59,1,7
+HSV7,Melbourne,145,16:00,16:14,1,7
+HSV7,Melbourne,152,16:15,16:29,1,7
+HSV7,Melbourne,157,16:30,16:44,1,7
+HSV7,Melbourne,160,16:45,16:59,1,7
+HSV7,Melbourne,171,17:00,17:14,1,7
+HSV7,Melbourne,174,17:15,17:29,1,7
+HSV7,Melbourne,165,17:30,17:44,1,7
+HSV7,Melbourne,200,17:45,17:59,1,7
+SAS7,Adelaide,41,13:00,13:14,1,7
+SAS7,Adelaide,48,13:15,13:29,1,7
+SAS7,Adelaide,63,13:30,13:44,1,7
+SAS7,Adelaide,74,13:45,13:59,1,7
+SAS7,Adelaide,86,14:00,14:14,1,7
+SAS7,Adelaide,94,14:15,14:29,1,7
+SAS7,Adelaide,97,14:30,14:44,1,7
+SAS7,Adelaide,93,14:45,14:59,1,7
+SAS7,Adelaide,89,15:00,15:14,1,7
+SAS7,Adelaide,99,15:15,15:29,1,7
+SAS7,Adelaide,110,15:30,15:44,1,7
+SAS7,Adelaide,129,15:45,15:59,1,7
+SAS7,Adelaide,140,16:00,16:14,1,7
+SAS7,Adelaide,144,16:15,16:29,1,7
+SAS7,Adelaide,152,16:30,16:44,1,7
+SAS7,Adelaide,154,16:45,16:59,1,7
+SAS7,Adelaide,169,17:00,17:14,1,7
+SAS7,Adelaide,174,17:15,17:29,1,7
+SAS7,Adelaide,168,17:30,17:44,1,7
+SAS7,Adelaide,169,17:45,17:59,1,7
+Southern Cross Tasmania,Tasmania,15,13:00,13:14,1,7
+Southern Cross Tasmania,Tasmania,14,13:15,13:29,1,7
+Southern Cross Tasmania,Tasmania,19,13:30,13:44,1,7
+Southern Cross Tasmania,Tasmania,18,13:45,13:59,1,7
+Southern Cross Tasmania,Tasmania,20,14:00,14:14,1,7
+Southern Cross Tasmania,Tasmania,21,14:15,14:29,1,7
+Southern Cross Tasmania,Tasmania,21,14:30,14:44,1,7
+Southern Cross Tasmania,Tasmania,22,14:45,14:59,1,7
+Southern Cross Tasmania,Tasmania,28,15:00,15:14,1,7
+Southern Cross Tasmania,Tasmania,29,15:15,15:29,1,7
+Southern Cross Tasmania,Tasmania,29,15:30,15:44,1,7
+Southern Cross Tasmania,Tasmania,32,15:45,15:59,1,7
+Southern Cross Tasmania,Tasmania,33,16:00,16:14,1,7
+Southern Cross Tasmania,Tasmania,32,16:15,16:29,1,7
+Southern Cross Tasmania,Tasmania,30,16:30,16:44,1,7
+Southern Cross Tasmania,Tasmania,30,16:45,16:59,1,7
+Southern Cross Tasmania,Tasmania,31,17:00,17:14,1,7
+Southern Cross Tasmania,Tasmania,27,17:15,17:29,1,7
+Southern Cross Tasmania,Tasmania,30,17:30,17:44,1,7
+Southern Cross Tasmania,Tasmania,40,17:45,17:59,1,7
+TVW7,Perth,39,13:00,13:14,1,7
+TVW7,Perth,33,13:15,13:29,1,7
+TVW7,Perth,35,13:30,13:44,1,7
+TVW7,Perth,28,13:45,13:59,1,7
+TVW7,Perth,35,14:00,14:14,1,7
+TVW7,Perth,29,14:15,14:29,1,7
+TVW7,Perth,23,14:30,14:44,1,7
+TVW7,Perth,23,14:45,14:59,1,7
+TVW7,Perth,26,15:00,15:14,1,7
+TVW7,Perth,30,15:15,15:29,1,7
+TVW7,Perth,39,15:30,15:44,1,7
+TVW7,Perth,50,15:45,15:59,1,7
+TVW7,Perth,44,16:00,16:14,1,7
+TVW7,Perth,39,16:15,16:29,1,7
+TVW7,Perth,44,16:30,16:44,1,7
+TVW7,Perth,50,16:45,16:59,1,7
+TVW7,Perth,48,17:00,17:14,1,7
+TVW7,Perth,47,17:15,17:29,1,7
+TVW7,Perth,42,17:30,17:44,1,7
+TVW7,Perth,47,17:45,17:59,1,7
+TVW7,Perth,30,18:00,18:14,1,7
+TVW7,Perth,24,18:15,18:29,1,7
+7mate Ade,Adelaide,25,14:00,14:14,2,6
+7mate Ade,Adelaide,28,14:15,14:29,2,6
+7mate Ade,Adelaide,27,14:30,14:44,2,6
+7mate Ade,Adelaide,23,14:45,14:59,2,6
+7mate Ade,Adelaide,19,15:00,15:14,2,6
+7mate Ade,Adelaide,16,15:15,15:29,2,6
+7mate Ade,Adelaide,19,15:30,15:44,2,6
+7mate Ade,Adelaide,23,15:45,15:59,2,6
+7mate Ade,Adelaide,26,16:00,16:14,2,6
+7mate Ade,Adelaide,28,16:15,16:29,2,6
+7mate Ade,Adelaide,25,16:30,16:44,2,6
+7mate Ade,Adelaide,22,16:45,16:59,2,6
+7mate Ade,Adelaide,25,17:00,17:14,2,6
+7mate Ade,Adelaide,24,17:15,17:29,2,6
+7mate Mel,Melbourne,11,14:00,14:14,2,6
+7mate Mel,Melbourne,17,14:15,14:29,2,6
+7mate Mel,Melbourne,36,14:30,14:44,2,6
+7mate Mel,Melbourne,35,14:45,14:59,2,6
+7mate Mel,Melbourne,45,15:00,15:14,2,6
+7mate Mel,Melbourne,54,15:15,15:29,2,6
+7mate Mel,Melbourne,50,15:30,15:44,2,6
+7mate Mel,Melbourne,48,15:45,15:59,2,6
+7mate Mel,Melbourne,53,16:00,16:14,2,6
+7mate Mel,Melbourne,54,16:15,16:29,2,6
+7mate Mel,Melbourne,60,16:30,16:44,2,6
+7mate Mel,Melbourne,53,16:45,16:59,2,6
+7mate Mel,Melbourne,53,17:00,17:14,2,6
+7mate Mel,Melbourne,52,17:15,17:29,2,6
+7mate Per,Perth,4,14:00,14:14,2,6
+7mate Per,Perth,3,14:15,14:29,2,6
+7mate Per,Perth,6,14:30,14:44,2,6
+7mate Per,Perth,10,14:45,14:59,2,6
+7mate Per,Perth,16,15:00,15:14,2,6
+7mate Per,Perth,16,15:15,15:29,2,6
+7mate Per,Perth,16,15:30,15:44,2,6
+7mate Per,Perth,18,15:45,15:59,2,6
+7mate Per,Perth,17,16:00,16:14,2,6
+7mate Per,Perth,21,16:15,16:29,2,6
+7mate Per,Perth,20,16:30,16:44,2,6
+7mate Per,Perth,21,16:45,16:59,2,6
+7mate Per,Perth,27,17:00,17:14,2,6
+7mate Per,Perth,29,17:15,17:29,2,6
+7mate Tasmania,Tasmania,12,14:00,14:14,2,6
+7mate Tasmania,Tasmania,12,14:15,14:29,2,6
+7mate Tasmania,Tasmania,12,14:30,14:44,2,6
+7mate Tasmania,Tasmania,15,14:45,14:59,2,6
+7mate Tasmania,Tasmania,16,15:00,15:14,2,6
+7mate Tasmania,Tasmania,19,15:15,15:29,2,6
+7mate Tasmania,Tasmania,20,15:30,15:44,2,6
+7mate Tasmania,Tasmania,21,15:45,15:59,2,6
+7mate Tasmania,Tasmania,21,16:00,16:14,2,6
+7mate Tasmania,Tasmania,21,16:15,16:29,2,6
+7mate Tasmania,Tasmania,24,16:30,16:44,2,6
+7mate Tasmania,Tasmania,29,16:45,16:59,2,6
+7mate Tasmania,Tasmania,29,17:00,17:14,2,6
+7mate Tasmania,Tasmania,26,17:15,17:29,2,6
+ATN7,Sydney,45,14:00,14:14,2,6
+ATN7,Sydney,51,14:15,14:29,2,6
+ATN7,Sydney,70,14:30,14:44,2,6
+ATN7,Sydney,77,14:45,14:59,2,6
+ATN7,Sydney,84,15:00,15:14,2,6
+ATN7,Sydney,86,15:15,15:29,2,6
+ATN7,Sydney,84,15:30,15:44,2,6
+ATN7,Sydney,76,15:45,15:59,2,6
+ATN7,Sydney,72,16:00,16:14,2,6
+ATN7,Sydney,74,16:15,16:29,2,6
+ATN7,Sydney,84,16:30,16:44,2,6
+ATN7,Sydney,87,16:45,16:59,2,6
+ATN7,Sydney,96,17:00,17:14,2,6
+ATN7,Sydney,97,17:15,17:29,2,6
+BTQ7,Brisbane,37,14:00,14:14,2,6
+BTQ7,Brisbane,44,14:15,14:29,2,6
+BTQ7,Brisbane,66,14:30,14:44,2,6
+BTQ7,Brisbane,63,14:45,14:59,2,6
+BTQ7,Brisbane,74,15:00,15:14,2,6
+BTQ7,Brisbane,64,15:15,15:29,2,6
+BTQ7,Brisbane,64,15:30,15:44,2,6
+BTQ7,Brisbane,66,15:45,15:59,2,6
+BTQ7,Brisbane,62,16:00,16:14,2,6
+BTQ7,Brisbane,72,16:15,16:29,2,6
+BTQ7,Brisbane,82,16:30,16:44,2,6
+BTQ7,Brisbane,92,16:45,16:59,2,6
+BTQ7,Brisbane,101,17:00,17:14,2,6
+BTQ7,Brisbane,102,17:15,17:29,2,6
+7mate Ade,Adelaide,25,14:30,14:44,2,7
+7mate Ade,Adelaide,23,14:45,14:59,2,7
+7mate Ade,Adelaide,24,15:00,15:14,2,7
+7mate Ade,Adelaide,21,15:15,15:29,2,7
+7mate Ade,Adelaide,22,15:30,15:44,2,7
+7mate Ade,Adelaide,23,15:45,15:59,2,7
+7mate Ade,Adelaide,26,16:00,16:14,2,7
+7mate Ade,Adelaide,29,16:15,16:29,2,7
+7mate Ade,Adelaide,33,16:30,16:44,2,7
+7mate Ade,Adelaide,33,16:45,16:59,2,7
+7mate Ade,Adelaide,34,17:00,17:14,2,7
+7mate Ade,Adelaide,23,17:15,17:29,2,7
+7mate Mel,Melbourne,29,14:30,14:44,2,7
+7mate Mel,Melbourne,40,14:45,14:59,2,7
+7mate Mel,Melbourne,60,15:00,15:14,2,7
+7mate Mel,Melbourne,71,15:15,15:29,2,7
+7mate Mel,Melbourne,73,15:30,15:44,2,7
+7mate Mel,Melbourne,75,15:45,15:59,2,7
+7mate Mel,Melbourne,93,16:00,16:14,2,7
+7mate Mel,Melbourne,109,16:15,16:29,2,7
+7mate Mel,Melbourne,107,16:30,16:44,2,7
+7mate Mel,Melbourne,101,16:45,16:59,2,7
+7mate Mel,Melbourne,98,17:00,17:14,2,7
+7mate Mel,Melbourne,64,17:15,17:29,2,7
+7mate Per,Perth,7,14:30,14:44,2,7
+7mate Per,Perth,8,14:45,14:59,2,7
+7mate Per,Perth,9,15:00,15:14,2,7
+7mate Per,Perth,12,15:15,15:29,2,7
+7mate Per,Perth,13,15:30,15:44,2,7
+7mate Per,Perth,18,15:45,15:59,2,7
+7mate Per,Perth,24,16:00,16:14,2,7
+7mate Per,Perth,23,16:15,16:29,2,7
+7mate Per,Perth,19,16:30,16:44,2,7
+7mate Per,Perth,18,16:45,16:59,2,7
+7mate Per,Perth,17,17:00,17:14,2,7
+7mate Per,Perth,14,17:15,17:29,2,7
+7mate Tasmania,Tasmania,19,14:30,14:44,2,7
+7mate Tasmania,Tasmania,20,14:45,14:59,2,7
+7mate Tasmania,Tasmania,21,15:00,15:14,2,7
+7mate Tasmania,Tasmania,21,15:15,15:29,2,7
+7mate Tasmania,Tasmania,15,15:30,15:44,2,7
+7mate Tasmania,Tasmania,16,15:45,15:59,2,7
+7mate Tasmania,Tasmania,16,16:00,16:14,2,7
+7mate Tasmania,Tasmania,14,16:15,16:29,2,7
+7mate Tasmania,Tasmania,17,16:30,16:44,2,7
+7mate Tasmania,Tasmania,18,16:45,16:59,2,7
+7mate Tasmania,Tasmania,21,17:00,17:14,2,7
+7mate Tasmania,Tasmania,19,17:15,17:29,2,7
+ATN7,Sydney,50,14:30,14:44,2,7
+ATN7,Sydney,64,14:45,14:59,2,7
+ATN7,Sydney,88,15:00,15:14,2,7
+ATN7,Sydney,108,15:15,15:29,2,7
+ATN7,Sydney,117,15:30,15:44,2,7
+ATN7,Sydney,134,15:45,15:59,2,7
+ATN7,Sydney,146,16:00,16:14,2,7
+ATN7,Sydney,158,16:15,16:29,2,7
+ATN7,Sydney,154,16:30,16:44,2,7
+ATN7,Sydney,147,16:45,16:59,2,7
+ATN7,Sydney,170,17:00,17:14,2,7
+ATN7,Sydney,154,17:15,17:29,2,7
+BTQ7,Brisbane,77,14:30,14:44,2,7
+BTQ7,Brisbane,71,14:45,14:59,2,7
+BTQ7,Brisbane,80,15:00,15:14,2,7
+BTQ7,Brisbane,88,15:15,15:29,2,7
+BTQ7,Brisbane,93,15:30,15:44,2,7
+BTQ7,Brisbane,97,15:45,15:59,2,7
+BTQ7,Brisbane,119,16:00,16:14,2,7
+BTQ7,Brisbane,125,16:15,16:29,2,7
+BTQ7,Brisbane,135,16:30,16:44,2,7
+BTQ7,Brisbane,139,16:45,16:59,2,7
+BTQ7,Brisbane,153,17:00,17:14,2,7
+BTQ7,Brisbane,109,17:15,17:29,2,7
+7mate Ade,Adelaide,8,12:00,12:14,3,6
+7mate Ade,Adelaide,7,12:15,12:29,3,6
+7mate Ade,Adelaide,9,12:30,12:44,3,6
+7mate Ade,Adelaide,14,13:00,13:14,3,6
+7mate Ade,Adelaide,17,13:15,13:29,3,6
+7mate Ade,Adelaide,16,13:30,13:44,3,6
+7mate Ade,Adelaide,18,13:45,13:59,3,6
+7mate Ade,Adelaide,22,14:00,14:14,3,6
+7mate Ade,Adelaide,23,14:15,14:29,3,6
+7mate Ade,Adelaide,25,14:30,14:44,3,6
+7mate Ade,Adelaide,29,14:45,14:59,3,6
+7mate Ade,Adelaide,24,15:00,15:14,3,6
+7mate Ade,Adelaide,22,15:15,15:29,3,6
+7mate Ade,Adelaide,20,15:30,15:44,3,6
+7mate Ade,Adelaide,20,15:45,15:59,3,6
+7mate Ade,Adelaide,22,16:00,16:14,3,6
+7mate Ade,Adelaide,26,16:15,16:29,3,6
+7mate Ade,Adelaide,32,16:30,16:44,3,6
+7mate Ade,Adelaide,29,16:45,16:59,3,6
+7mate Ade,Adelaide,30,17:00,17:14,3,6
+7mate Ade,Adelaide,27,17:15,17:29,3,6
+7mate Ade,Adelaide,20,17:30,17:44,3,6
+7mate Bri,Brisbane,6,12:00,12:14,3,6
+7mate Bri,Brisbane,7,12:15,12:29,3,6
+7mate Bri,Brisbane,9,12:30,12:44,3,6
+7mate Mel,Melbourne,9,12:00,12:14,3,6
+7mate Mel,Melbourne,11,12:15,12:29,3,6
+7mate Mel,Melbourne,17,12:30,12:44,3,6
+7mate Mel,Melbourne,16,13:00,13:14,3,6
+7mate Mel,Melbourne,31,13:15,13:29,3,6
+7mate Mel,Melbourne,35,13:30,13:44,3,6
+7mate Mel,Melbourne,43,13:45,13:59,3,6
+7mate Mel,Melbourne,44,14:00,14:14,3,6
+7mate Mel,Melbourne,39,14:15,14:29,3,6
+7mate Mel,Melbourne,30,14:30,14:44,3,6
+7mate Mel,Melbourne,39,14:45,14:59,3,6
+7mate Mel,Melbourne,36,15:00,15:14,3,6
+7mate Mel,Melbourne,34,15:15,15:29,3,6
+7mate Mel,Melbourne,29,15:30,15:44,3,6
+7mate Mel,Melbourne,36,15:45,15:59,3,6
+7mate Mel,Melbourne,42,16:00,16:14,3,6
+7mate Mel,Melbourne,46,16:15,16:29,3,6
+7mate Mel,Melbourne,55,16:30,16:44,3,6
+7mate Mel,Melbourne,51,16:45,16:59,3,6
+7mate Mel,Melbourne,57,17:00,17:14,3,6
+7mate Mel,Melbourne,64,17:15,17:29,3,6
+7mate Mel,Melbourne,44,17:30,17:44,3,6
+7mate Per,Perth,1,12:00,12:14,3,6
+7mate Per,Perth,5,12:15,12:29,3,6
+7mate Per,Perth,7,12:30,12:44,3,6
+7mate Per,Perth,13,13:00,13:14,3,6
+7mate Per,Perth,17,13:15,13:29,3,6
+7mate Per,Perth,17,13:30,13:44,3,6
+7mate Per,Perth,18,13:45,13:59,3,6
+7mate Per,Perth,18,14:00,14:14,3,6
+7mate Per,Perth,12,14:00,14:14,3,6
+7mate Per,Perth,20,14:15,14:29,3,6
+7mate Per,Perth,24,14:30,14:44,3,6
+7mate Per,Perth,24,14:45,14:59,3,6
+7mate Per,Perth,14,15:00,15:14,3,6
+7mate Per,Perth,20,15:00,15:14,3,6
+7mate Per,Perth,14,15:15,15:29,3,6
+7mate Per,Perth,15,15:30,15:44,3,6
+7mate Per,Perth,15,15:45,15:59,3,6
+7mate Per,Perth,15,16:00,16:14,3,6
+7mate Per,Perth,17,16:00,16:14,3,6
+7mate Per,Perth,18,16:15,16:29,3,6
+7mate Per,Perth,18,16:30,16:44,3,6
+7mate Per,Perth,14,16:45,16:59,3,6
+7mate Per,Perth,16,17:00,17:14,3,6
+7mate Per,Perth,20,17:15,17:29,3,6
+7mate Per,Perth,9,17:30,17:44,3,6
+7TWO Syd,Sydney,16,12:00,12:14,3,6
+7TWO Syd,Sydney,15,12:15,12:29,3,6
+7TWO Syd,Sydney,24,12:30,12:44,3,6
+7TWO Syd,Sydney,17,13:00,13:14,3,6
+7TWO Syd,Sydney,17,13:15,13:29,3,6
+7TWO Syd,Sydney,16,13:30,13:44,3,6
+7TWO Syd,Sydney,27,13:45,13:59,3,6
+7TWO Syd,Sydney,36,14:00,14:14,3,6
+7TWO Syd,Sydney,33,14:15,14:29,3,6
+7TWO Syd,Sydney,38,14:30,14:44,3,6
+7TWO Syd,Sydney,39,14:45,14:59,3,6
+7TWO Syd,Sydney,32,15:00,15:14,3,6
+7TWO Syd,Sydney,33,15:15,15:29,3,6
+7TWO Syd,Sydney,29,15:30,15:44,3,6
+7TWO Syd,Sydney,34,15:45,15:59,3,6
+7TWO Syd,Sydney,36,16:00,16:14,3,6
+7TWO Syd,Sydney,49,16:15,16:29,3,6
+7TWO Syd,Sydney,53,16:30,16:44,3,6
+7TWO Syd,Sydney,46,16:45,16:59,3,6
+7TWO Syd,Sydney,53,17:00,17:14,3,6
+7TWO Syd,Sydney,59,17:15,17:29,3,6
+7TWO Syd,Sydney,40,17:30,17:44,3,6
+BTQ7,Brisbane,40,13:00,13:14,3,6
+BTQ7,Brisbane,55,13:15,13:29,3,6
+BTQ7,Brisbane,42,13:30,13:44,3,6
+BTQ7,Brisbane,46,13:45,13:59,3,6
+BTQ7,Brisbane,62,14:00,14:14,3,6
+BTQ7,Brisbane,54,14:15,14:29,3,6
+BTQ7,Brisbane,63,14:30,14:44,3,6
+BTQ7,Brisbane,65,14:45,14:59,3,6
+BTQ7,Brisbane,65,15:00,15:14,3,6
+BTQ7,Brisbane,58,15:15,15:29,3,6
+BTQ7,Brisbane,52,15:30,15:44,3,6
+BTQ7,Brisbane,67,15:45,15:59,3,6
+BTQ7,Brisbane,73,16:00,16:14,3,6
+BTQ7,Brisbane,85,16:15,16:29,3,6
+BTQ7,Brisbane,92,16:30,16:44,3,6
+BTQ7,Brisbane,85,16:45,16:59,3,6
+BTQ7,Brisbane,90,17:00,17:14,3,6
+BTQ7,Brisbane,93,17:15,17:29,3,6
+BTQ7,Brisbane,93,17:30,17:44,3,6
+7mate Ade,Adelaide,19,13:30,13:44,3,7
+7mate Ade,Adelaide,23,13:45,13:59,3,7
+7mate Ade,Adelaide,21,14:00,14:14,3,7
+7mate Ade,Adelaide,21,14:15,14:29,3,7
+7mate Ade,Adelaide,27,14:30,14:44,3,7
+7mate Ade,Adelaide,31,14:45,14:59,3,7
+7mate Ade,Adelaide,35,15:00,15:14,3,7
+7mate Ade,Adelaide,37,15:15,15:29,3,7
+7mate Ade,Adelaide,44,15:30,15:44,3,7
+7mate Ade,Adelaide,46,15:45,15:59,3,7
+7mate Ade,Adelaide,46,16:00,16:14,3,7
+7mate Ade,Adelaide,43,16:15,16:29,3,7
+7mate Ade,Adelaide,41,16:30,16:44,3,7
+7mate Ade,Adelaide,37,16:45,16:59,3,7
+7mate Ade,Adelaide,46,17:00,17:14,3,7
+7mate Ade,Adelaide,24,17:15,17:29,3,7
+7mate Bri,Brisbane,35,13:30,13:44,3,7
+7mate Bri,Brisbane,43,13:45,13:59,3,7
+7mate Bri,Brisbane,47,14:00,14:14,3,7
+7mate Bri,Brisbane,37,14:15,14:29,3,7
+7mate Mel,Melbourne,27,13:30,13:44,3,7
+7mate Mel,Melbourne,38,13:45,13:59,3,7
+7mate Mel,Melbourne,37,14:00,14:14,3,7
+7mate Mel,Melbourne,31,14:15,14:29,3,7
+7mate Mel,Melbourne,47,14:30,14:44,3,7
+7mate Mel,Melbourne,50,14:45,14:59,3,7
+7mate Mel,Melbourne,60,15:00,15:14,3,7
+7mate Mel,Melbourne,63,15:15,15:29,3,7
+7mate Mel,Melbourne,78,15:30,15:44,3,7
+7mate Mel,Melbourne,81,15:45,15:59,3,7
+7mate Mel,Melbourne,89,16:00,16:14,3,7
+7mate Mel,Melbourne,91,16:15,16:29,3,7
+7mate Mel,Melbourne,92,16:30,16:44,3,7
+7mate Mel,Melbourne,98,16:45,16:59,3,7
+7mate Mel,Melbourne,98,17:00,17:14,3,7
+7mate Mel,Melbourne,71,17:15,17:29,3,7
+7mate Per,Perth,11,13:30,13:44,3,7
+7mate Per,Perth,16,13:45,13:59,3,7
+7mate Per,Perth,19,14:00,14:14,3,7
+7mate Per,Perth,17,14:15,14:29,3,7
+7mate Per,Perth,21,14:30,14:44,3,7
+7mate Per,Perth,20,14:45,14:59,3,7
+7mate Per,Perth,22,15:00,15:14,3,7
+7mate Per,Perth,24,15:15,15:29,3,7
+7mate Per,Perth,30,15:30,15:44,3,7
+7mate Per,Perth,36,15:45,15:59,3,7
+7mate Per,Perth,37,16:00,16:14,3,7
+7mate Per,Perth,35,16:15,16:29,3,7
+7mate Per,Perth,33,16:30,16:44,3,7
+7mate Per,Perth,31,16:45,16:59,3,7
+7mate Per,Perth,28,17:00,17:14,3,7
+7mate Per,Perth,29,17:15,17:29,3,7
+ATN7,Sydney,49,13:30,13:44,3,7
+ATN7,Sydney,53,13:45,13:59,3,7
+ATN7,Sydney,64,14:00,14:14,3,7
+ATN7,Sydney,67,14:15,14:29,3,7
+ATN7,Sydney,75,14:30,14:44,3,7
+ATN7,Sydney,83,14:45,14:59,3,7
+ATN7,Sydney,97,15:00,15:14,3,7
+ATN7,Sydney,104,15:15,15:29,3,7
+ATN7,Sydney,116,15:30,15:44,3,7
+ATN7,Sydney,121,15:45,15:59,3,7
+ATN7,Sydney,117,16:00,16:14,3,7
+ATN7,Sydney,119,16:15,16:29,3,7
+ATN7,Sydney,135,16:30,16:44,3,7
+ATN7,Sydney,111,16:45,16:59,3,7
+ATN7,Sydney,136,17:00,17:14,3,7
+ATN7,Sydney,83,17:15,17:29,3,7
+BTQ7,Brisbane,62,14:30,14:44,3,7
+BTQ7,Brisbane,75,14:45,14:59,3,7
+BTQ7,Brisbane,80,15:00,15:14,3,7
+BTQ7,Brisbane,102,15:15,15:29,3,7
+BTQ7,Brisbane,114,15:30,15:44,3,7
+BTQ7,Brisbane,124,15:45,15:59,3,7
+BTQ7,Brisbane,124,16:00,16:14,3,7
+BTQ7,Brisbane,125,16:15,16:29,3,7
+BTQ7,Brisbane,128,16:30,16:44,3,7
+BTQ7,Brisbane,137,16:45,16:59,3,7
+BTQ7,Brisbane,138,17:00,17:14,3,7
+BTQ7,Brisbane,103,17:15,17:29,3,7
+7mate Ade,Adelaide,3,10:00,10:14,4,5
+7mate Ade,Adelaide,3,10:15,10:29,4,5
+7mate Ade,Adelaide,4,10:30,10:44,4,5
+7mate Ade,Adelaide,7,10:45,10:59,4,5
+7mate Ade,Adelaide,8,11:00,11:14,4,5
+7mate Ade,Adelaide,9,11:15,11:29,4,5
+7mate Ade,Adelaide,9,11:30,11:44,4,5
+7mate Ade,Adelaide,15,11:45,11:59,4,5
+7mate Ade,Adelaide,19,12:00,12:14,4,5
+7mate Ade,Adelaide,22,12:15,12:29,4,5
+7mate Bri,Brisbane,18,10:00,10:14,4,5
+7mate Bri,Brisbane,20,10:15,10:29,4,5
+7mate Bri,Brisbane,23,10:30,10:44,4,5
+7mate Bri,Brisbane,26,10:45,10:59,4,5
+7mate Bri,Brisbane,27,11:00,11:14,4,5
+7mate Bri,Brisbane,30,11:15,11:29,4,5
+7mate Bri,Brisbane,35,11:30,11:44,4,5
+7mate Bri,Brisbane,43,11:45,11:59,4,5
+7mate Bri,Brisbane,48,12:00,12:14,4,5
+7mate Bri,Brisbane,50,12:15,12:29,4,5
+7mate Mel,Melbourne,7,10:00,10:14,4,5
+7mate Mel,Melbourne,16,10:15,10:29,4,5
+7mate Mel,Melbourne,26,10:30,10:44,4,5
+7mate Mel,Melbourne,23,10:45,10:59,4,5
+7mate Mel,Melbourne,23,11:00,11:14,4,5
+7mate Mel,Melbourne,34,11:15,11:29,4,5
+7mate Mel,Melbourne,36,11:30,11:44,4,5
+7mate Mel,Melbourne,36,11:45,11:59,4,5
+7mate Mel,Melbourne,45,12:00,12:14,4,5
+7mate Mel,Melbourne,59,12:15,12:29,4,5
+7mate Per,Perth,1,10:00,10:14,4,5
+7mate Per,Perth,3,10:15,10:29,4,5
+7mate Per,Perth,4,10:30,10:44,4,5
+7mate Per,Perth,4,10:45,10:59,4,5
+7mate Per,Perth,9,11:00,11:14,4,5
+7mate Per,Perth,10,11:15,11:29,4,5
+7mate Per,Perth,12,11:30,11:44,4,5
+7mate Per,Perth,12,11:45,11:59,4,5
+7mate Per,Perth,12,12:00,12:14,4,5
+7mate Per,Perth,13,12:15,12:29,4,5
+7mate Syd,Sydney,10,10:00,10:14,4,5
+7mate Syd,Sydney,14,10:15,10:29,4,5
+7mate Syd,Sydney,12,10:30,10:44,4,5
+7mate Syd,Sydney,9,10:45,10:59,4,5
+7mate Syd,Sydney,10,11:00,11:14,4,5
+7mate Syd,Sydney,16,11:15,11:29,4,5
+7mate Syd,Sydney,18,11:30,11:44,4,5
+7mate Syd,Sydney,20,11:45,11:59,4,5
+7mate Syd,Sydney,29,12:00,12:14,4,5
+7mate Syd,Sydney,32,12:15,12:29,4,5
+7mate Tasmania,Tasmania,0,10:00,10:14,4,5
+7mate Tasmania,Tasmania,2,10:15,10:29,4,5
+7mate Tasmania,Tasmania,3,10:30,10:44,4,5
+7mate Tasmania,Tasmania,3,10:45,10:59,4,5
+7mate Tasmania,Tasmania,3,11:00,11:14,4,5
+7mate Tasmania,Tasmania,2,11:15,11:29,4,5
+7mate Tasmania,Tasmania,0,11:30,11:44,4,5
+7mate Tasmania,Tasmania,0,11:45,11:59,4,5
+7mate Tasmania,Tasmania,0,12:00,12:14,4,5
+7mate Tasmania,Tasmania,1,12:15,12:29,4,5
+7mate Ade,Adelaide,5,11:00,11:14,4,6
+7mate Ade,Adelaide,6,11:15,11:29,4,6
+7mate Ade,Adelaide,8,11:30,11:44,4,6
+7mate Ade,Adelaide,7,11:45,11:59,4,6
+7mate Ade,Adelaide,12,12:00,12:14,4,6
+7mate Ade,Adelaide,14,12:15,12:29,4,6
+7mate Ade,Adelaide,12,12:30,12:44,4,6
+7mate Ade,Adelaide,17,12:45,12:59,4,6
+7mate Ade,Adelaide,14,13:00,13:14,4,6
+7mate Ade,Adelaide,19,13:15,13:29,4,6
+7mate Ade,Adelaide,21,13:30,13:44,4,6
+7mate Ade,Adelaide,20,13:45,13:59,4,6
+7mate Ade,Adelaide,25,14:00,14:14,4,6
+7mate Ade,Adelaide,32,14:15,14:29,4,6
+7mate Ade,Adelaide,26,14:30,14:44,4,6
+7mate Ade,Adelaide,23,14:45,14:59,4,6
+7mate Mel,Melbourne,34,11:00,11:14,4,6
+7mate Mel,Melbourne,38,11:15,11:29,4,6
+7mate Mel,Melbourne,38,11:30,11:44,4,6
+7mate Mel,Melbourne,45,11:45,11:59,4,6
+7mate Mel,Melbourne,54,12:00,12:14,4,6
+7mate Mel,Melbourne,64,12:15,12:29,4,6
+7mate Mel,Melbourne,77,12:30,12:44,4,6
+7mate Mel,Melbourne,75,12:45,12:59,4,6
+7mate Mel,Melbourne,59,13:00,13:14,4,6
+7mate Mel,Melbourne,50,13:15,13:29,4,6
+7mate Mel,Melbourne,53,13:30,13:44,4,6
+7mate Mel,Melbourne,56,13:45,13:59,4,6
+7mate Mel,Melbourne,65,14:00,14:14,4,6
+7mate Mel,Melbourne,73,14:15,14:29,4,6
+7mate Mel,Melbourne,70,14:30,14:44,4,6
+7mate Mel,Melbourne,66,14:45,14:59,4,6
+7mate Per,Perth,5,11:00,11:14,4,6
+7mate Per,Perth,6,11:15,11:29,4,6
+7mate Per,Perth,6,11:30,11:44,4,6
+7mate Per,Perth,4,11:45,11:59,4,6
+7mate Per,Perth,8,12:00,12:14,4,6
+7mate Per,Perth,8,12:15,12:29,4,6
+7mate Per,Perth,12,12:30,12:44,4,6
+7mate Per,Perth,11,12:45,12:59,4,6
+7mate Per,Perth,8,13:00,13:14,4,6
+7mate Per,Perth,14,13:15,13:29,4,6
+7mate Per,Perth,17,13:30,13:44,4,6
+7mate Per,Perth,18,13:45,13:59,4,6
+7mate Per,Perth,22,14:00,14:14,4,6
+7mate Per,Perth,28,14:15,14:29,4,6
+7mate Per,Perth,34,14:30,14:44,4,6
+7mate Per,Perth,27,14:45,14:59,4,6
+7mate Tasmania,Tasmania,10,11:00,11:14,4,6
+7mate Tasmania,Tasmania,11,11:15,11:29,4,6
+7mate Tasmania,Tasmania,8,11:30,11:44,4,6
+7mate Tasmania,Tasmania,6,11:45,11:59,4,6
+7mate Tasmania,Tasmania,7,12:00,12:14,4,6
+7mate Tasmania,Tasmania,7,12:15,12:29,4,6
+7mate Tasmania,Tasmania,13,12:30,12:44,4,6
+7mate Tasmania,Tasmania,13,12:45,12:59,4,6
+7mate Tasmania,Tasmania,12,13:00,13:14,4,6
+7mate Tasmania,Tasmania,11,13:15,13:29,4,6
+7mate Tasmania,Tasmania,7,13:30,13:44,4,6
+7mate Tasmania,Tasmania,9,13:45,13:59,4,6
+7mate Tasmania,Tasmania,10,14:00,14:14,4,6
+7mate Tasmania,Tasmania,12,14:15,14:29,4,6
+7mate Tasmania,Tasmania,13,14:30,14:44,4,6
+7mate Tasmania,Tasmania,12,14:45,14:59,4,6
+7TWO Syd,Sydney,30,13:00,13:14,4,6
+7TWO Syd,Sydney,34,13:15,13:29,4,6
+7TWO Syd,Sydney,33,13:30,13:44,4,6
+7TWO Syd,Sydney,35,13:45,13:59,4,6
+7TWO Syd,Sydney,44,14:00,14:14,4,6
+7TWO Syd,Sydney,44,14:15,14:29,4,6
+7TWO Syd,Sydney,50,14:30,14:44,4,6
+7TWO Syd,Sydney,52,14:45,14:59,4,6
+ATN7,Sydney,55,11:00,11:14,4,6
+ATN7,Sydney,42,11:15,11:29,4,6
+ATN7,Sydney,52,11:30,11:44,4,6
+ATN7,Sydney,51,11:45,11:59,4,6
+ATN7,Sydney,61,12:00,12:14,4,6
+ATN7,Sydney,63,12:15,12:29,4,6
+ATN7,Sydney,69,12:30,12:44,4,6
+ATN7,Sydney,65,12:45,12:59,4,6
+ATN7,Sydney,50,13:00,13:14,4,6
+BTQ7,Brisbane,29,11:00,11:14,4,6
+BTQ7,Brisbane,33,11:15,11:29,4,6
+BTQ7,Brisbane,41,11:30,11:44,4,6
+BTQ7,Brisbane,44,11:45,11:59,4,6
+BTQ7,Brisbane,58,12:00,12:14,4,6
+BTQ7,Brisbane,63,12:15,12:29,4,6
+BTQ7,Brisbane,91,12:30,12:44,4,6
+BTQ7,Brisbane,80,12:45,12:59,4,6
+BTQ7,Brisbane,62,13:00,13:14,4,6
+BTQ7,Brisbane,58,13:15,13:29,4,6
+BTQ7,Brisbane,55,13:30,13:44,4,6
+BTQ7,Brisbane,54,13:45,13:59,4,6
+BTQ7,Brisbane,72,14:00,14:14,4,6
+BTQ7,Brisbane,76,14:15,14:29,4,6
+BTQ7,Brisbane,80,14:30,14:44,4,6
+BTQ7,Brisbane,78,14:45,14:59,4,6
+7mate Ade,Adelaide,15,12:00,12:14,4,7
+7mate Ade,Adelaide,10,12:15,12:29,4,7
+7mate Ade,Adelaide,11,12:30,12:44,4,7
+7mate Ade,Adelaide,16,12:30,12:44,4,7
+7mate Ade,Adelaide,19,12:45,12:59,4,7
+7mate Ade,Adelaide,16,13:00,13:14,4,7
+7mate Ade,Adelaide,18,13:15,13:29,4,7
+7mate Ade,Adelaide,21,13:30,13:44,4,7
+7mate Ade,Adelaide,21,13:45,13:59,4,7
+7mate Ade,Adelaide,20,14:00,14:14,4,7
+7mate Ade,Adelaide,27,14:15,14:29,4,7
+7mate Ade,Adelaide,18,14:30,14:44,4,7
+7mate Ade,Adelaide,10,14:45,14:59,4,7
+7mate Bri,Brisbane,26,12:00,12:14,4,7
+7mate Bri,Brisbane,21,12:15,12:29,4,7
+7mate Mel,Melbourne,27,12:00,12:14,4,7
+7mate Mel,Melbourne,43,12:15,12:29,4,7
+7mate Mel,Melbourne,46,12:30,12:44,4,7
+7mate Mel,Melbourne,49,12:30,12:44,4,7
+7mate Mel,Melbourne,54,12:45,12:59,4,7
+7mate Mel,Melbourne,55,13:00,13:14,4,7
+7mate Mel,Melbourne,76,13:15,13:29,4,7
+7mate Mel,Melbourne,91,13:30,13:44,4,7
+7mate Mel,Melbourne,84,13:45,13:59,4,7
+7mate Mel,Melbourne,69,14:00,14:14,4,7
+7mate Mel,Melbourne,79,14:15,14:29,4,7
+7mate Mel,Melbourne,86,14:30,14:44,4,7
+7mate Mel,Melbourne,78,14:45,14:59,4,7
+7mate Per,Perth,6,12:00,12:14,4,7
+7mate Per,Perth,9,12:15,12:29,4,7
+7mate Per,Perth,9,12:30,12:44,4,7
+7mate Per,Perth,12,12:30,12:44,4,7
+7mate Per,Perth,12,12:45,12:59,4,7
+7mate Per,Perth,16,13:00,13:14,4,7
+7mate Per,Perth,18,13:15,13:29,4,7
+7mate Per,Perth,19,13:30,13:44,4,7
+7mate Per,Perth,16,13:45,13:59,4,7
+7mate Per,Perth,16,14:00,14:14,4,7
+7mate Per,Perth,25,14:15,14:29,4,7
+7mate Per,Perth,23,14:30,14:44,4,7
+7mate Per,Perth,24,14:45,14:59,4,7
+7mate Syd,Sydney,20,12:00,12:14,4,7
+7mate Syd,Sydney,29,12:15,12:29,4,7
+7mate Tasmania,Tasmania,5,12:00,12:14,4,7
+7mate Tasmania,Tasmania,4,12:15,12:29,4,7
+7mate Tasmania,Tasmania,3,12:30,12:44,4,7
+7mate Tasmania,Tasmania,5,12:30,12:44,4,7
+7mate Tasmania,Tasmania,6,12:45,12:59,4,7
+7mate Tasmania,Tasmania,7,13:00,13:14,4,7
+7mate Tasmania,Tasmania,9,13:15,13:29,4,7
+7mate Tasmania,Tasmania,13,13:30,13:44,4,7
+7mate Tasmania,Tasmania,14,13:45,13:59,4,7
+7mate Tasmania,Tasmania,13,14:00,14:14,4,7
+7mate Tasmania,Tasmania,13,14:15,14:29,4,7
+7mate Tasmania,Tasmania,13,14:30,14:44,4,7
+7mate Tasmania,Tasmania,12,14:45,14:59,4,7
+ATN7,Sydney,56,12:30,12:44,4,7
+ATN7,Sydney,60,12:45,12:59,4,7
+ATN7,Sydney,65,13:00,13:14,4,7
+ATN7,Sydney,68,13:15,13:29,4,7
+ATN7,Sydney,100,13:30,13:44,4,7
+ATN7,Sydney,110,13:45,13:59,4,7
+ATN7,Sydney,113,14:00,14:14,4,7
+ATN7,Sydney,116,14:15,14:29,4,7
+ATN7,Sydney,125,14:30,14:44,4,7
+ATN7,Sydney,111,14:45,14:59,4,7
+BTQ7,Brisbane,79,12:30,12:44,4,7
+BTQ7,Brisbane,84,12:45,12:59,4,7
+BTQ7,Brisbane,82,13:00,13:14,4,7
+BTQ7,Brisbane,90,13:15,13:29,4,7
+BTQ7,Brisbane,114,13:30,13:44,4,7
+BTQ7,Brisbane,116,13:45,13:59,4,7
+BTQ7,Brisbane,103,14:00,14:14,4,7
+BTQ7,Brisbane,119,14:15,14:29,4,7
+BTQ7,Brisbane,119,14:30,14:44,4,7
+BTQ7,Brisbane,113,14:45,14:59,4,7
+7mate Ade,Adelaide,10,13:30,13:44,5,6
+7mate Ade,Adelaide,13,13:45,13:59,5,6
+7mate Ade,Adelaide,15,14:00,14:14,5,6
+7mate Ade,Adelaide,20,14:15,14:29,5,6
+7mate Ade,Adelaide,21,14:30,14:44,5,6
+7mate Ade,Adelaide,19,14:45,14:59,5,6
+7mate Ade,Adelaide,21,15:00,15:14,5,6
+7mate Ade,Adelaide,15,15:15,15:29,5,6
+7mate Ade,Adelaide,16,15:30,15:44,5,6
+7mate Ade,Adelaide,12,15:45,15:59,5,6
+7mate Ade,Adelaide,10,16:00,16:14,5,6
+7mate Ade,Adelaide,15,16:15,16:29,5,6
+7mate Ade,Adelaide,19,16:30,16:44,5,6
+7mate Ade,Adelaide,20,16:45,16:59,5,6
+7mate Ade,Adelaide,18,17:00,17:14,5,6
+7mate Ade,Adelaide,10,17:15,17:29,5,6
+7mate Mel,Melbourne,27,13:30,13:44,5,6
+7mate Mel,Melbourne,28,13:45,13:59,5,6
+7mate Mel,Melbourne,27,14:00,14:14,5,6
+7mate Mel,Melbourne,26,14:15,14:29,5,6
+7mate Mel,Melbourne,31,14:30,14:44,5,6
+7mate Mel,Melbourne,33,14:45,14:59,5,6
+7mate Mel,Melbourne,27,15:00,15:14,5,6
+7mate Mel,Melbourne,27,15:15,15:29,5,6
+7mate Mel,Melbourne,31,15:30,15:44,5,6
+7mate Mel,Melbourne,27,15:45,15:59,5,6
+7mate Mel,Melbourne,26,16:00,16:14,5,6
+7mate Mel,Melbourne,26,16:15,16:29,5,6
+7mate Mel,Melbourne,46,16:30,16:44,5,6
+7mate Mel,Melbourne,52,16:45,16:59,5,6
+7mate Mel,Melbourne,59,17:00,17:14,5,6
+7mate Mel,Melbourne,46,17:15,17:29,5,6
+7mate Per,Perth,11,13:30,13:44,5,6
+7mate Per,Perth,12,13:45,13:59,5,6
+7mate Per,Perth,22,14:00,14:14,5,6
+7mate Per,Perth,24,14:15,14:29,5,6
+7mate Per,Perth,22,14:30,14:44,5,6
+7mate Per,Perth,21,14:45,14:59,5,6
+7mate Per,Perth,18,15:00,15:14,5,6
+7mate Per,Perth,14,15:15,15:29,5,6
+7mate Per,Perth,19,15:30,15:44,5,6
+7mate Per,Perth,18,15:45,15:59,5,6
+7mate Per,Perth,20,16:00,16:14,5,6
+7mate Per,Perth,22,16:15,16:29,5,6
+7mate Per,Perth,26,16:30,16:44,5,6
+7mate Per,Perth,26,16:45,16:59,5,6
+7mate Per,Perth,23,17:00,17:14,5,6
+7mate Per,Perth,19,17:15,17:29,5,6
+7mate Tasmania,Tasmania,8,13:30,13:44,5,6
+7mate Tasmania,Tasmania,14,13:45,13:59,5,6
+7mate Tasmania,Tasmania,15,14:00,14:14,5,6
+7mate Tasmania,Tasmania,16,14:15,14:29,5,6
+7mate Tasmania,Tasmania,14,14:30,14:44,5,6
+7mate Tasmania,Tasmania,13,14:45,14:59,5,6
+7mate Tasmania,Tasmania,15,15:00,15:14,5,6
+7mate Tasmania,Tasmania,15,15:15,15:29,5,6
+7mate Tasmania,Tasmania,12,15:30,15:44,5,6
+7mate Tasmania,Tasmania,13,15:45,15:59,5,6
+7mate Tasmania,Tasmania,13,16:00,16:14,5,6
+7mate Tasmania,Tasmania,13,16:15,16:29,5,6
+7mate Tasmania,Tasmania,14,16:30,16:44,5,6
+7mate Tasmania,Tasmania,14,16:45,16:59,5,6
+7mate Tasmania,Tasmania,14,17:00,17:14,5,6
+7mate Tasmania,Tasmania,13,17:15,17:29,5,6
+ATN7,Sydney,26,13:30,13:44,5,6
+ATN7,Sydney,36,13:45,13:59,5,6
+ATN7,Sydney,48,14:00,14:14,5,6
+ATN7,Sydney,56,14:15,14:29,5,6
+ATN7,Sydney,61,14:30,14:44,5,6
+ATN7,Sydney,56,14:45,14:59,5,6
+ATN7,Sydney,58,15:00,15:14,5,6
+ATN7,Sydney,51,15:15,15:29,5,6
+ATN7,Sydney,48,15:30,15:44,5,6
+ATN7,Sydney,48,15:45,15:59,5,6
+ATN7,Sydney,49,16:00,16:14,5,6
+ATN7,Sydney,49,16:15,16:29,5,6
+ATN7,Sydney,54,16:30,16:44,5,6
+ATN7,Sydney,69,16:45,16:59,5,6
+ATN7,Sydney,94,17:00,17:14,5,6
+ATN7,Sydney,102,17:15,17:29,5,6
+BTQ7,Brisbane,56,13:30,13:44,5,6
+BTQ7,Brisbane,57,13:45,13:59,5,6
+BTQ7,Brisbane,61,14:00,14:14,5,6
+BTQ7,Brisbane,69,14:15,14:29,5,6
+BTQ7,Brisbane,80,14:30,14:44,5,6
+BTQ7,Brisbane,77,14:45,14:59,5,6
+BTQ7,Brisbane,82,15:00,15:14,5,6
+BTQ7,Brisbane,62,15:15,15:29,5,6
+BTQ7,Brisbane,60,15:30,15:44,5,6
+BTQ7,Brisbane,61,15:45,15:59,5,6
+BTQ7,Brisbane,61,16:00,16:14,5,6
+BTQ7,Brisbane,60,16:15,16:29,5,6
+BTQ7,Brisbane,77,16:30,16:44,5,6
+BTQ7,Brisbane,80,16:45,16:59,5,6
+BTQ7,Brisbane,87,17:00,17:14,5,6
+BTQ7,Brisbane,82,17:15,17:29,5,6
+7mate Ade,Adelaide,16,13:30,13:44,5,7
+7mate Ade,Adelaide,15,13:45,13:59,5,7
+7mate Ade,Adelaide,20,14:00,14:14,5,7
+7mate Ade,Adelaide,18,14:15,14:29,5,7
+7mate Ade,Adelaide,18,14:30,14:44,5,7
+7mate Ade,Adelaide,22,14:45,14:59,5,7
+7mate Ade,Adelaide,22,15:00,15:14,5,7
+7mate Ade,Adelaide,23,15:15,15:29,5,7
+7mate Ade,Adelaide,28,15:30,15:44,5,7
+7mate Ade,Adelaide,33,15:45,15:59,5,7
+7mate Ade,Adelaide,32,16:00,16:14,5,7
+7mate Ade,Adelaide,30,16:15,16:29,5,7
+7mate Ade,Adelaide,28,16:30,16:44,5,7
+7mate Ade,Adelaide,29,16:45,16:59,5,7
+7mate Ade,Adelaide,38,17:00,17:14,5,7
+7mate Ade,Adelaide,29,17:15,17:29,5,7
+7mate Bri,Brisbane,18,13:30,13:44,5,7
+7mate Bri,Brisbane,25,13:45,13:59,5,7
+7mate Bri,Brisbane,38,14:00,14:14,5,7
+7mate Bri,Brisbane,38,14:15,14:29,5,7
+7mate Bri,Brisbane,39,14:30,14:44,5,7
+7mate Bri,Brisbane,43,14:45,14:59,5,7
+7mate Bri,Brisbane,27,15:00,15:14,5,7
+7mate Mel,Melbourne,16,13:30,13:44,5,7
+7mate Mel,Melbourne,21,13:45,13:59,5,7
+7mate Mel,Melbourne,19,14:00,14:14,5,7
+7mate Mel,Melbourne,25,14:15,14:29,5,7
+7mate Mel,Melbourne,33,14:30,14:44,5,7
+7mate Mel,Melbourne,36,14:45,14:59,5,7
+7mate Mel,Melbourne,48,15:00,15:14,5,7
+7mate Mel,Melbourne,53,15:15,15:29,5,7
+7mate Mel,Melbourne,66,15:30,15:44,5,7
+7mate Mel,Melbourne,89,15:45,15:59,5,7
+7mate Mel,Melbourne,95,16:00,16:14,5,7
+7mate Mel,Melbourne,101,16:15,16:29,5,7
+7mate Mel,Melbourne,98,16:30,16:44,5,7
+7mate Mel,Melbourne,94,16:45,16:59,5,7
+7mate Mel,Melbourne,100,17:00,17:14,5,7
+7mate Mel,Melbourne,85,17:15,17:29,5,7
+7mate Per,Perth,14,13:30,13:44,5,7
+7mate Per,Perth,21,13:45,13:59,5,7
+7mate Per,Perth,22,14:00,14:14,5,7
+7mate Per,Perth,23,14:15,14:29,5,7
+7mate Per,Perth,34,14:30,14:44,5,7
+7mate Per,Perth,32,14:45,14:59,5,7
+7mate Per,Perth,35,15:00,15:14,5,7
+7mate Per,Perth,34,15:15,15:29,5,7
+7mate Per,Perth,39,15:30,15:44,5,7
+7mate Per,Perth,45,15:45,15:59,5,7
+7mate Per,Perth,42,16:00,16:14,5,7
+7mate Per,Perth,46,16:15,16:29,5,7
+7mate Per,Perth,52,16:30,16:44,5,7
+7mate Per,Perth,46,16:45,16:59,5,7
+7mate Per,Perth,50,17:00,17:14,5,7
+7mate Per,Perth,50,17:15,17:29,5,7
+7mate Syd,Sydney,18,13:30,13:44,5,7
+7mate Syd,Sydney,24,13:45,13:59,5,7
+7mate Syd,Sydney,34,14:00,14:14,5,7
+7mate Syd,Sydney,48,14:15,14:29,5,7
+7mate Syd,Sydney,32,14:30,14:44,5,7
+7mate Syd,Sydney,30,14:45,14:59,5,7
+7mate Syd,Sydney,20,15:00,15:14,5,7
+7mate Tasmania,Tasmania,9,13:30,13:44,5,7
+7mate Tasmania,Tasmania,13,13:45,13:59,5,7
+7mate Tasmania,Tasmania,12,14:00,14:14,5,7
+7mate Tasmania,Tasmania,9,14:15,14:29,5,7
+7mate Tasmania,Tasmania,11,14:30,14:44,5,7
+7mate Tasmania,Tasmania,12,14:45,14:59,5,7
+7mate Tasmania,Tasmania,13,15:00,15:14,5,7
+7mate Tasmania,Tasmania,11,15:15,15:29,5,7
+7mate Tasmania,Tasmania,12,15:30,15:44,5,7
+7mate Tasmania,Tasmania,12,15:45,15:59,5,7
+7mate Tasmania,Tasmania,11,16:00,16:14,5,7
+7mate Tasmania,Tasmania,11,16:15,16:29,5,7
+7mate Tasmania,Tasmania,13,16:30,16:44,5,7
+7mate Tasmania,Tasmania,13,16:45,16:59,5,7
+7mate Tasmania,Tasmania,12,17:00,17:14,5,7
+7mate Tasmania,Tasmania,11,17:15,17:29,5,7
+ATN7,Sydney,48,15:00,15:14,5,7
+ATN7,Sydney,59,15:15,15:29,5,7
+ATN7,Sydney,80,15:30,15:44,5,7
+ATN7,Sydney,98,15:45,15:59,5,7
+ATN7,Sydney,98,16:00,16:14,5,7
+ATN7,Sydney,112,16:15,16:29,5,7
+ATN7,Sydney,109,16:30,16:44,5,7
+ATN7,Sydney,105,16:45,16:59,5,7
+ATN7,Sydney,113,17:00,17:14,5,7
+ATN7,Sydney,103,17:15,17:29,5,7
+BTQ7,Brisbane,60,15:00,15:14,5,7
+BTQ7,Brisbane,69,15:15,15:29,5,7
+BTQ7,Brisbane,93,15:30,15:44,5,7
+BTQ7,Brisbane,110,15:45,15:59,5,7
+BTQ7,Brisbane,106,16:00,16:14,5,7
+BTQ7,Brisbane,119,16:15,16:29,5,7
+BTQ7,Brisbane,117,16:30,16:44,5,7
+BTQ7,Brisbane,130,16:45,16:59,5,7
+BTQ7,Brisbane,149,17:00,17:14,5,7
+BTQ7,Brisbane,140,17:15,17:29,5,7
+7mate Ade,Adelaide,7,13:30,13:44,6,6
+7mate Ade,Adelaide,10,14:00,14:14,6,6
+7mate Ade,Adelaide,14,14:15,14:29,6,6
+7mate Ade,Adelaide,12,14:30,14:44,6,6
+7mate Ade,Adelaide,14,14:45,14:59,6,6
+7mate Ade,Adelaide,15,15:00,15:14,6,6
+7mate Ade,Adelaide,13,15:15,15:29,6,6
+7mate Ade,Adelaide,14,15:30,15:44,6,6
+7mate Ade,Adelaide,10,15:45,15:59,6,6
+7mate Ade,Adelaide,6,16:00,16:14,6,6
+7mate Ade,Adelaide,11,16:15,16:29,6,6
+7mate Ade,Adelaide,10,16:30,16:44,6,6
+7mate Ade,Adelaide,12,16:45,16:59,6,6
+7mate Ade,Adelaide,16,17:00,17:14,6,6
+7mate Ade,Adelaide,15,17:15,17:29,6,6
+7mate Mel,Melbourne,24,13:30,13:44,6,6
+7mate Mel,Melbourne,44,14:00,14:14,6,6
+7mate Mel,Melbourne,41,14:15,14:29,6,6
+7mate Mel,Melbourne,38,14:30,14:44,6,6
+7mate Mel,Melbourne,41,14:45,14:59,6,6
+7mate Mel,Melbourne,44,15:00,15:14,6,6
+7mate Mel,Melbourne,49,15:15,15:29,6,6
+7mate Mel,Melbourne,48,15:30,15:44,6,6
+7mate Mel,Melbourne,43,15:45,15:59,6,6
+7mate Mel,Melbourne,43,16:00,16:14,6,6
+7mate Mel,Melbourne,43,16:15,16:29,6,6
+7mate Mel,Melbourne,49,16:30,16:44,6,6
+7mate Mel,Melbourne,52,16:45,16:59,6,6
+7mate Mel,Melbourne,82,17:00,17:14,6,6
+7mate Mel,Melbourne,68,17:15,17:29,6,6
+7mate Per,Perth,11,13:30,13:44,6,6
+7mate Per,Perth,22,14:00,14:14,6,6
+7mate Per,Perth,24,14:15,14:29,6,6
+7mate Per,Perth,20,14:30,14:44,6,6
+7mate Per,Perth,21,14:45,14:59,6,6
+7mate Per,Perth,23,15:00,15:14,6,6
+7mate Per,Perth,26,15:15,15:29,6,6
+7mate Per,Perth,21,15:30,15:44,6,6
+7mate Per,Perth,16,15:45,15:59,6,6
+7mate Per,Perth,22,16:00,16:14,6,6
+7mate Per,Perth,22,16:15,16:29,6,6
+7mate Per,Perth,21,16:30,16:44,6,6
+7mate Per,Perth,20,16:45,16:59,6,6
+7mate Per,Perth,32,17:00,17:14,6,6
+7mate Per,Perth,28,17:15,17:29,6,6
+7mate Syd,Sydney,7,13:30,13:44,6,6
+7mate Tasmania,Tasmania,6,13:30,13:44,6,6
+7mate Tasmania,Tasmania,13,14:00,14:14,6,6
+7mate Tasmania,Tasmania,14,14:15,14:29,6,6
+7mate Tasmania,Tasmania,12,14:30,14:44,6,6
+7mate Tasmania,Tasmania,12,14:45,14:59,6,6
+7mate Tasmania,Tasmania,12,15:00,15:14,6,6
+7mate Tasmania,Tasmania,11,15:15,15:29,6,6
+7mate Tasmania,Tasmania,12,15:30,15:44,6,6
+7mate Tasmania,Tasmania,12,15:45,15:59,6,6
+7mate Tasmania,Tasmania,15,16:00,16:14,6,6
+7mate Tasmania,Tasmania,15,16:15,16:29,6,6
+7mate Tasmania,Tasmania,9,16:30,16:44,6,6
+7mate Tasmania,Tasmania,8,16:45,16:59,6,6
+7mate Tasmania,Tasmania,9,17:00,17:14,6,6
+7mate Tasmania,Tasmania,8,17:15,17:29,6,6
+ATN7,Sydney,32,13:45,13:59,6,6
+ATN7,Sydney,40,14:00,14:14,6,6
+ATN7,Sydney,42,14:15,14:29,6,6
+ATN7,Sydney,43,14:30,14:44,6,6
+ATN7,Sydney,59,14:45,14:59,6,6
+ATN7,Sydney,64,15:00,15:14,6,6
+ATN7,Sydney,55,15:15,15:29,6,6
+ATN7,Sydney,58,15:30,15:44,6,6
+ATN7,Sydney,53,15:45,15:59,6,6
+ATN7,Sydney,73,16:00,16:14,6,6
+ATN7,Sydney,74,16:15,16:29,6,6
+ATN7,Sydney,89,16:30,16:44,6,6
+ATN7,Sydney,88,16:45,16:59,6,6
+ATN7,Sydney,98,17:00,17:14,6,6
+ATN7,Sydney,91,17:15,17:29,6,6
+BTQ7,Brisbane,47,14:00,14:14,6,6
+BTQ7,Brisbane,51,14:15,14:29,6,6
+BTQ7,Brisbane,42,14:30,14:44,6,6
+BTQ7,Brisbane,62,14:45,14:59,6,6
+BTQ7,Brisbane,59,15:00,15:14,6,6
+BTQ7,Brisbane,62,15:15,15:29,6,6
+BTQ7,Brisbane,65,15:30,15:44,6,6
+BTQ7,Brisbane,59,15:45,15:59,6,6
+BTQ7,Brisbane,57,16:00,16:14,6,6
+BTQ7,Brisbane,59,16:15,16:29,6,6
+BTQ7,Brisbane,68,16:30,16:44,6,6
+BTQ7,Brisbane,81,16:45,16:59,6,6
+BTQ7,Brisbane,101,17:00,17:14,6,6
+BTQ7,Brisbane,110,17:15,17:29,6,6
+7mate Ade,Adelaide,14,13:30,13:44,6,7
+7mate Ade,Adelaide,14,13:45,13:59,6,7
+7mate Ade,Adelaide,17,14:00,14:14,6,7
+7mate Ade,Adelaide,16,14:15,14:29,6,7
+7mate Ade,Adelaide,16,14:30,14:44,6,7
+7mate Ade,Adelaide,19,14:45,14:59,6,7
+7mate Ade,Adelaide,18,15:00,15:14,6,7
+7mate Ade,Adelaide,17,15:15,15:29,6,7
+7mate Ade,Adelaide,18,15:30,15:44,6,7
+7mate Ade,Adelaide,30,15:45,15:59,6,7
+7mate Ade,Adelaide,34,16:00,16:14,6,7
+7mate Ade,Adelaide,31,16:15,16:29,6,7
+7mate Ade,Adelaide,28,16:30,16:44,6,7
+7mate Ade,Adelaide,34,16:45,16:59,6,7
+7mate Ade,Adelaide,36,17:00,17:14,6,7
+7mate Ade,Adelaide,32,17:15,17:29,6,7
+7mate Bri,Brisbane,11,14:30,13:44,6,7
+7mate Bri,Brisbane,19,14:45,13:59,6,7
+7mate Bri,Brisbane,18,15:00,14:14,6,7
+7mate Bri,Brisbane,14,15:15,14:29,6,7
+7mate Mel,Melbourne,28,13:30,13:44,6,7
+7mate Mel,Melbourne,34,13:45,13:59,6,7
+7mate Mel,Melbourne,34,14:00,14:14,6,7
+7mate Mel,Melbourne,31,14:15,14:29,6,7
+7mate Mel,Melbourne,28,14:30,14:44,6,7
+7mate Mel,Melbourne,41,14:45,14:59,6,7
+7mate Mel,Melbourne,62,15:00,15:14,6,7
+7mate Mel,Melbourne,64,15:15,15:29,6,7
+7mate Mel,Melbourne,62,15:30,15:44,6,7
+7mate Mel,Melbourne,83,15:45,15:59,6,7
+7mate Mel,Melbourne,93,16:00,16:14,6,7
+7mate Mel,Melbourne,91,16:15,16:29,6,7
+7mate Mel,Melbourne,92,16:30,16:44,6,7
+7mate Mel,Melbourne,98,16:45,16:59,6,7
+7mate Mel,Melbourne,107,17:00,17:14,6,7
+7mate Mel,Melbourne,77,17:15,17:29,6,7
+7mate Per,Perth,16,13:30,13:44,6,7
+7mate Per,Perth,24,13:45,13:59,6,7
+7mate Per,Perth,18,14:00,14:14,6,7
+7mate Per,Perth,21,14:15,14:29,6,7
+7mate Per,Perth,18,14:30,14:44,6,7
+7mate Per,Perth,22,14:45,14:59,6,7
+7mate Per,Perth,20,15:00,15:14,6,7
+7mate Per,Perth,18,15:15,15:29,6,7
+7mate Per,Perth,17,15:30,15:44,6,7
+7mate Per,Perth,21,15:45,15:59,6,7
+7mate Per,Perth,20,16:00,16:14,6,7
+7mate Per,Perth,19,16:15,16:29,6,7
+7mate Per,Perth,18,16:30,16:44,6,7
+7mate Per,Perth,19,16:45,16:59,6,7
+7mate Per,Perth,19,17:00,17:14,6,7
+7mate Per,Perth,22,17:15,17:29,6,7
+7mate Tasmania,Tasmania,7,13:30,13:44,6,7
+7mate Tasmania,Tasmania,6,13:45,13:59,6,7
+7mate Tasmania,Tasmania,6,14:00,14:14,6,7
+7mate Tasmania,Tasmania,7,14:15,14:29,6,7
+7mate Tasmania,Tasmania,6,14:30,14:44,6,7
+7mate Tasmania,Tasmania,9,14:45,14:59,6,7
+7mate Tasmania,Tasmania,9,15:00,15:14,6,7
+7mate Tasmania,Tasmania,11,15:15,15:29,6,7
+7mate Tasmania,Tasmania,13,15:30,15:44,6,7
+7mate Tasmania,Tasmania,15,15:45,15:59,6,7
+7mate Tasmania,Tasmania,15,16:00,16:14,6,7
+7mate Tasmania,Tasmania,14,16:15,16:29,6,7
+7mate Tasmania,Tasmania,16,16:30,16:44,6,7
+7mate Tasmania,Tasmania,15,16:45,16:59,6,7
+7mate Tasmania,Tasmania,15,17:00,17:14,6,7
+7mate Tasmania,Tasmania,13,17:15,17:29,6,7
+ATN7,Sydney,52,13:30,13:44,6,7
+ATN7,Sydney,45,13:45,13:59,6,7
+ATN7,Sydney,48,14:00,14:14,6,7
+ATN7,Sydney,49,14:15,14:29,6,7
+ATN7,Sydney,47,14:30,14:44,6,7
+ATN7,Sydney,67,14:45,14:59,6,7
+ATN7,Sydney,75,15:00,15:14,6,7
+ATN7,Sydney,74,15:15,15:29,6,7
+ATN7,Sydney,63,15:30,15:44,6,7
+ATN7,Sydney,69,15:45,15:59,6,7
+ATN7,Sydney,80,16:00,16:14,6,7
+ATN7,Sydney,82,16:15,16:29,6,7
+ATN7,Sydney,77,16:30,16:44,6,7
+ATN7,Sydney,90,16:45,16:59,6,7
+ATN7,Sydney,104,17:00,17:14,6,7
+ATN7,Sydney,87,17:15,17:29,6,7
+BTQ7,Brisbane,48,15:30,14:44,6,7
+BTQ7,Brisbane,60,15:45,14:59,6,7
+BTQ7,Brisbane,67,16:00,15:14,6,7
+BTQ7,Brisbane,75,16:15,15:29,6,7
+BTQ7,Brisbane,76,16:30,15:44,6,7
+BTQ7,Brisbane,100,16:45,15:59,6,7
+BTQ7,Brisbane,111,17:00,16:14,6,7
+BTQ7,Brisbane,112,17:15,16:29,6,7
+BTQ7,Brisbane,118,17:30,16:44,6,7
+BTQ7,Brisbane,116,17:45,16:59,6,7
+BTQ7,Brisbane,134,18:00,17:14,6,7
+BTQ7,Brisbane,107,18:15,17:29,6,7
+7mate Ade,Adelaide,15,13:30,13:44,7,6
+7mate Ade,Adelaide,19,13:45,13:59,7,6
+7mate Ade,Adelaide,15,14:00,14:14,7,6
+7mate Ade,Adelaide,19,14:15,14:29,7,6
+7mate Ade,Adelaide,20,14:30,14:44,7,6
+7mate Ade,Adelaide,21,14:45,14:59,7,6
+7mate Ade,Adelaide,20,15:00,15:14,7,6
+7mate Ade,Adelaide,18,15:15,15:29,7,6
+7mate Ade,Adelaide,14,15:30,15:44,7,6
+7mate Ade,Adelaide,15,15:45,15:59,7,6
+7mate Ade,Adelaide,14,16:00,16:14,7,6
+7mate Ade,Adelaide,15,16:15,16:29,7,6
+7mate Ade,Adelaide,15,16:30,16:44,7,6
+7mate Ade,Adelaide,24,16:45,16:59,7,6
+7mate Ade,Adelaide,29,17:00,17:14,7,6
+7mate Ade,Adelaide,25,17:15,17:29,7,6
+7mate Ade,Adelaide,23,17:30,17:44,7,6
+7mate Ade,Adelaide,22,17:45,17:59,7,6
+7mate Mel,Melbourne,34,13:30,13:44,7,6
+7mate Mel,Melbourne,39,13:45,13:59,7,6
+7mate Mel,Melbourne,38,14:00,14:14,7,6
+7mate Mel,Melbourne,46,14:15,14:29,7,6
+7mate Mel,Melbourne,51,14:30,14:44,7,6
+7mate Mel,Melbourne,60,14:45,14:59,7,6
+7mate Mel,Melbourne,53,15:00,15:14,7,6
+7mate Mel,Melbourne,50,15:15,15:29,7,6
+7mate Mel,Melbourne,43,15:30,15:44,7,6
+7mate Mel,Melbourne,40,15:45,15:59,7,6
+7mate Mel,Melbourne,44,16:00,16:14,7,6
+7mate Mel,Melbourne,47,16:15,16:29,7,6
+7mate Mel,Melbourne,57,16:30,16:44,7,6
+7mate Mel,Melbourne,88,16:45,16:59,7,6
+7mate Mel,Melbourne,92,17:00,17:14,7,6
+7mate Mel,Melbourne,79,17:15,17:29,7,6
+7mate Mel,Melbourne,88,17:30,17:44,7,6
+7mate Mel,Melbourne,79,17:45,17:59,7,6
+7mate Per,Perth,12,13:30,13:44,7,6
+7mate Per,Perth,15,13:45,13:59,7,6
+7mate Per,Perth,18,14:00,14:14,7,6
+7mate Per,Perth,22,14:15,14:29,7,6
+7mate Per,Perth,17,14:30,14:44,7,6
+7mate Per,Perth,22,14:45,14:59,7,6
+7mate Per,Perth,21,15:00,15:14,7,6
+7mate Per,Perth,20,15:15,15:29,7,6
+7mate Per,Perth,10,15:30,15:44,7,6
+7mate Per,Perth,4,15:45,15:59,7,6
+7mate Per,Perth,6,16:00,16:14,7,6
+7mate Per,Perth,8,16:15,16:29,7,6
+7mate Per,Perth,9,16:30,16:44,7,6
+7mate Per,Perth,12,16:45,16:59,7,6
+7mate Per,Perth,14,17:00,17:14,7,6
+7mate Per,Perth,14,17:15,17:29,7,6
+7mate Per,Perth,19,17:30,17:44,7,6
+7mate Per,Perth,17,17:45,17:59,7,6
+ATN7,Sydney,43,13:30,13:44,7,6
+ATN7,Sydney,44,13:45,13:59,7,6
+ATN7,Sydney,32,14:00,14:14,7,6
+ATN7,Sydney,48,14:15,14:29,7,6
+ATN7,Sydney,69,14:30,14:44,7,6
+ATN7,Sydney,81,14:45,14:59,7,6
+ATN7,Sydney,72,15:00,15:14,7,6
+ATN7,Sydney,77,15:15,15:29,7,6
+ATN7,Sydney,71,15:30,15:44,7,6
+ATN7,Sydney,64,15:45,15:59,7,6
+ATN7,Sydney,72,16:00,16:14,7,6
+ATN7,Sydney,63,16:15,16:29,7,6
+ATN7,Sydney,74,16:30,16:44,7,6
+ATN7,Sydney,82,16:45,16:59,7,6
+ATN7,Sydney,87,17:00,17:14,7,6
+ATN7,Sydney,92,17:15,17:29,7,6
+ATN7,Sydney,96,17:30,17:44,7,6
+ATN7,Sydney,117,17:45,17:59,7,6
+BTQ7,Brisbane,39,13:30,13:44,7,6
+BTQ7,Brisbane,52,13:45,13:59,7,6
+BTQ7,Brisbane,70,14:00,14:14,7,6
+BTQ7,Brisbane,74,14:15,14:29,7,6
+BTQ7,Brisbane,85,14:30,14:44,7,6
+BTQ7,Brisbane,86,14:45,14:59,7,6
+BTQ7,Brisbane,84,15:00,15:14,7,6
+BTQ7,Brisbane,87,15:15,15:29,7,6
+BTQ7,Brisbane,82,15:30,15:44,7,6
+BTQ7,Brisbane,84,15:45,15:59,7,6
+BTQ7,Brisbane,73,16:00,16:14,7,6
+BTQ7,Brisbane,69,16:15,16:29,7,6
+BTQ7,Brisbane,78,16:30,16:44,7,6
+BTQ7,Brisbane,81,16:45,16:59,7,6
+BTQ7,Brisbane,77,17:00,17:14,7,6
+BTQ7,Brisbane,79,17:15,17:29,7,6
+BTQ7,Brisbane,97,17:30,17:44,7,6
+BTQ7,Brisbane,123,17:45,17:59,7,6
+7mate Ade,Adelaide,19,14:00,14:14,7,7
+7mate Ade,Adelaide,26,14:15,14:29,7,7
+7mate Ade,Adelaide,26,14:30,14:44,7,7
+7mate Ade,Adelaide,22,14:45,14:59,7,7
+7mate Ade,Adelaide,20,15:00,15:14,7,7
+7mate Ade,Adelaide,20,15:15,15:29,7,7
+7mate Ade,Adelaide,24,15:30,15:44,7,7
+7mate Ade,Adelaide,27,15:45,15:59,7,7
+7mate Ade,Adelaide,35,16:00,16:14,7,7
+7mate Ade,Adelaide,36,16:15,16:29,7,7
+7mate Ade,Adelaide,41,16:30,16:44,7,7
+7mate Ade,Adelaide,34,16:45,16:59,7,7
+7mate Ade,Adelaide,32,17:00,17:14,7,7
+7mate Ade,Adelaide,34,17:15,17:29,7,7
+7mate Ade,Adelaide,37,17:30,17:44,7,7
+7mate Ade,Adelaide,32,17:45,17:59,7,7
+7mate Mel,Melbourne,49,14:00,14:14,7,7
+7mate Mel,Melbourne,52,14:15,14:29,7,7
+7mate Mel,Melbourne,59,14:30,14:44,7,7
+7mate Mel,Melbourne,64,14:45,14:59,7,7
+7mate Mel,Melbourne,68,15:00,15:14,7,7
+7mate Mel,Melbourne,69,15:15,15:29,7,7
+7mate Mel,Melbourne,71,15:30,15:44,7,7
+7mate Mel,Melbourne,91,15:45,15:59,7,7
+7mate Mel,Melbourne,105,16:00,16:14,7,7
+7mate Mel,Melbourne,107,16:15,16:29,7,7
+7mate Mel,Melbourne,110,16:30,16:44,7,7
+7mate Mel,Melbourne,109,16:45,16:59,7,7
+7mate Mel,Melbourne,120,17:00,17:14,7,7
+7mate Mel,Melbourne,119,17:15,17:29,7,7
+7mate Mel,Melbourne,121,17:30,17:44,7,7
+7mate Mel,Melbourne,113,17:45,17:59,7,7
+7mate Per,Perth,15,14:00,14:14,7,7
+7mate Per,Perth,21,14:15,14:29,7,7
+7mate Per,Perth,21,14:30,14:44,7,7
+7mate Per,Perth,25,14:45,14:59,7,7
+7mate Per,Perth,25,15:00,15:14,7,7
+7mate Per,Perth,19,15:15,15:29,7,7
+7mate Per,Perth,17,15:30,15:44,7,7
+7mate Per,Perth,20,15:45,15:59,7,7
+7mate Per,Perth,26,16:00,16:14,7,7
+7mate Per,Perth,29,16:15,16:29,7,7
+7mate Per,Perth,34,16:30,16:44,7,7
+7mate Per,Perth,27,16:45,16:59,7,7
+7mate Per,Perth,25,17:00,17:14,7,7
+7mate Per,Perth,28,17:15,17:29,7,7
+7mate Per,Perth,33,17:30,17:44,7,7
+7mate Per,Perth,30,17:45,17:59,7,7
+ATN7,Sydney,58,14:00,14:14,7,7
+ATN7,Sydney,75,14:15,14:29,7,7
+ATN7,Sydney,86,14:30,14:44,7,7
+ATN7,Sydney,86,14:45,14:59,7,7
+ATN7,Sydney,83,15:00,15:14,7,7
+ATN7,Sydney,92,15:15,15:29,7,7
+ATN7,Sydney,85,15:30,15:44,7,7
+ATN7,Sydney,105,15:45,15:59,7,7
+ATN7,Sydney,110,16:00,16:14,7,7
+ATN7,Sydney,108,16:15,16:29,7,7
+ATN7,Sydney,104,16:30,16:44,7,7
+ATN7,Sydney,104,16:45,16:59,7,7
+ATN7,Sydney,101,17:00,17:14,7,7
+ATN7,Sydney,106,17:15,17:29,7,7
+ATN7,Sydney,122,17:30,17:44,7,7
+ATN7,Sydney,127,17:45,17:59,7,7
+BTQ7,Brisbane,62,14:00,14:14,7,7
+BTQ7,Brisbane,67,14:15,14:29,7,7
+BTQ7,Brisbane,72,14:30,14:44,7,7
+BTQ7,Brisbane,82,14:45,14:59,7,7
+BTQ7,Brisbane,89,15:00,15:14,7,7
+BTQ7,Brisbane,89,15:15,15:29,7,7
+BTQ7,Brisbane,83,15:30,15:44,7,7
+BTQ7,Brisbane,94,15:45,15:59,7,7
+BTQ7,Brisbane,106,16:00,16:14,7,7
+BTQ7,Brisbane,113,16:15,16:29,7,7
+BTQ7,Brisbane,122,16:30,16:44,7,7
+BTQ7,Brisbane,119,16:45,16:59,7,7
+BTQ7,Brisbane,123,17:00,17:14,7,7
+BTQ7,Brisbane,127,17:15,17:29,7,7
+BTQ7,Brisbane,142,17:30,17:44,7,7
+BTQ7,Brisbane,145,17:45,17:59,7,7
+7mate Ade,Adelaide,9,13:30,13:44,8,6
+7mate Ade,Adelaide,15,13:45,13:59,8,6
+7mate Ade,Adelaide,17,14:00,14:14,8,6
+7mate Ade,Adelaide,17,14:15,14:29,8,6
+7mate Ade,Adelaide,22,14:30,14:44,8,6
+7mate Ade,Adelaide,23,14:45,14:59,8,6
+7mate Ade,Adelaide,23,15:00,15:14,8,6
+7mate Ade,Adelaide,17,15:15,15:29,8,6
+7mate Ade,Adelaide,20,15:30,15:44,8,6
+7mate Ade,Adelaide,19,15:45,15:59,8,6
+7mate Ade,Adelaide,16,16:00,16:14,8,6
+7mate Ade,Adelaide,14,16:15,16:29,8,6
+7mate Ade,Adelaide,19,16:30,16:44,8,6
+7mate Ade,Adelaide,18,16:45,16:59,8,6
+7mate Ade,Adelaide,22,17:00,17:14,8,6
+7mate Ade,Adelaide,16,17:15,17:29,8,6
+7mate Mel,Melbourne,33,13:30,13:44,8,6
+7mate Mel,Melbourne,36,13:45,13:59,8,6
+7mate Mel,Melbourne,35,14:00,14:14,8,6
+7mate Mel,Melbourne,35,14:15,14:29,8,6
+7mate Mel,Melbourne,35,14:30,14:44,8,6
+7mate Mel,Melbourne,35,14:45,14:59,8,6
+7mate Mel,Melbourne,45,15:00,15:14,8,6
+7mate Mel,Melbourne,37,15:15,15:29,8,6
+7mate Mel,Melbourne,46,15:30,15:44,8,6
+7mate Mel,Melbourne,53,15:45,15:59,8,6
+7mate Mel,Melbourne,63,16:00,16:14,8,6
+7mate Mel,Melbourne,62,16:15,16:29,8,6
+7mate Mel,Melbourne,67,16:30,16:44,8,6
+7mate Mel,Melbourne,78,16:45,16:59,8,6
+7mate Mel,Melbourne,90,17:00,17:14,8,6
+7mate Mel,Melbourne,74,17:15,17:29,8,6
+7mate Per,Perth,7,13:30,13:44,8,6
+7mate Per,Perth,10,13:45,13:59,8,6
+7mate Per,Perth,10,14:00,14:14,8,6
+7mate Per,Perth,9,14:15,14:29,8,6
+7mate Per,Perth,17,14:30,14:44,8,6
+7mate Per,Perth,13,14:45,14:59,8,6
+7mate Per,Perth,10,15:00,15:14,8,6
+7mate Per,Perth,10,15:15,15:29,8,6
+7mate Per,Perth,10,15:30,15:44,8,6
+7mate Per,Perth,8,15:45,15:59,8,6
+7mate Per,Perth,6,16:00,16:14,8,6
+7mate Per,Perth,8,16:15,16:29,8,6
+7mate Per,Perth,7,16:30,16:44,8,6
+7mate Per,Perth,12,16:45,16:59,8,6
+7mate Per,Perth,15,17:00,17:14,8,6
+7mate Per,Perth,9,17:15,17:29,8,6
+7mate Tasmania,Tasmania,14,13:30,13:44,8,6
+7mate Tasmania,Tasmania,16,13:45,13:59,8,6
+7mate Tasmania,Tasmania,15,14:00,14:14,8,6
+7mate Tasmania,Tasmania,11,14:15,14:29,8,6
+7mate Tasmania,Tasmania,10,14:30,14:44,8,6
+7mate Tasmania,Tasmania,14,14:45,14:59,8,6
+7mate Tasmania,Tasmania,12,15:00,15:14,8,6
+7mate Tasmania,Tasmania,10,15:15,15:29,8,6
+7mate Tasmania,Tasmania,9,15:30,15:44,8,6
+7mate Tasmania,Tasmania,9,15:45,15:59,8,6
+7mate Tasmania,Tasmania,11,16:00,16:14,8,6
+7mate Tasmania,Tasmania,10,16:15,16:29,8,6
+7mate Tasmania,Tasmania,12,16:30,16:44,8,6
+7mate Tasmania,Tasmania,12,16:45,16:59,8,6
+7mate Tasmania,Tasmania,12,17:00,17:14,8,6
+7mate Tasmania,Tasmania,12,17:15,17:29,8,6
+ATN7,Sydney,39,13:30,13:44,8,6
+ATN7,Sydney,41,13:45,13:59,8,6
+ATN7,Sydney,44,14:00,14:14,8,6
+ATN7,Sydney,44,14:15,14:29,8,6
+ATN7,Sydney,50,14:30,14:44,8,6
+ATN7,Sydney,43,14:45,14:59,8,6
+ATN7,Sydney,39,15:00,15:14,8,6
+ATN7,Sydney,31,15:15,15:29,8,6
+ATN7,Sydney,35,15:30,15:44,8,6
+ATN7,Sydney,46,15:45,15:59,8,6
+ATN7,Sydney,45,16:00,16:14,8,6
+ATN7,Sydney,43,16:15,16:29,8,6
+ATN7,Sydney,58,16:30,16:44,8,6
+ATN7,Sydney,68,16:45,16:59,8,6
+ATN7,Sydney,79,17:00,17:14,8,6
+ATN7,Sydney,82,17:15,17:29,8,6
+BTQ7,Brisbane,37,13:30,13:44,8,6
+BTQ7,Brisbane,36,13:45,13:59,8,6
+BTQ7,Brisbane,40,14:00,14:14,8,6
+BTQ7,Brisbane,47,14:15,14:29,8,6
+BTQ7,Brisbane,57,14:30,14:44,8,6
+BTQ7,Brisbane,66,14:45,14:59,8,6
+BTQ7,Brisbane,76,15:00,15:14,8,6
+BTQ7,Brisbane,62,15:15,15:29,8,6
+BTQ7,Brisbane,67,15:30,15:44,8,6
+BTQ7,Brisbane,75,15:45,15:59,8,6
+BTQ7,Brisbane,75,16:00,16:14,8,6
+BTQ7,Brisbane,76,16:15,16:29,8,6
+BTQ7,Brisbane,107,16:30,16:44,8,6
+BTQ7,Brisbane,116,16:45,16:59,8,6
+BTQ7,Brisbane,131,17:00,17:14,8,6
+BTQ7,Brisbane,111,17:15,17:29,8,6
+7mate Ade,Adelaide,16,15:30,15:44,8,7
+7mate Ade,Adelaide,20,15:45,15:59,8,7
+7mate Ade,Adelaide,22,16:00,16:14,8,7
+7mate Ade,Adelaide,20,16:15,16:29,8,7
+7mate Ade,Adelaide,22,16:30,16:44,8,7
+7mate Ade,Adelaide,20,16:45,16:59,8,7
+7mate Ade,Adelaide,25,17:00,17:14,8,7
+7mate Ade,Adelaide,15,17:15,17:29,8,7
+7mate Mel,Melbourne,53,15:30,15:44,8,7
+7mate Mel,Melbourne,80,15:45,15:59,8,7
+7mate Mel,Melbourne,66,16:00,16:14,8,7
+7mate Mel,Melbourne,72,16:15,16:29,8,7
+7mate Mel,Melbourne,71,16:30,16:44,8,7
+7mate Mel,Melbourne,77,16:45,16:59,8,7
+7mate Mel,Melbourne,107,17:00,17:14,8,7
+7mate Mel,Melbourne,73,17:15,17:29,8,7
+7mate Per,Perth,22,15:30,15:44,8,7
+7mate Per,Perth,24,15:45,15:59,8,7
+7mate Per,Perth,23,16:00,16:14,8,7
+7mate Per,Perth,20,16:15,16:29,8,7
+7mate Per,Perth,23,16:30,16:44,8,7
+7mate Per,Perth,25,16:45,16:59,8,7
+7mate Per,Perth,20,17:00,17:14,8,7
+7mate Per,Perth,18,17:15,17:29,8,7
+7mate Tasmania,Tasmania,7,14:30,14:44,8,7
+7mate Tasmania,Tasmania,9,14:45,14:59,8,7
+7mate Tasmania,Tasmania,9,15:00,15:14,8,7
+7mate Tasmania,Tasmania,9,15:15,15:29,8,7
+7mate Tasmania,Tasmania,8,15:30,15:44,8,7
+7mate Tasmania,Tasmania,8,15:45,15:59,8,7
+7mate Tasmania,Tasmania,8,16:00,16:14,8,7
+7mate Tasmania,Tasmania,8,16:15,16:29,8,7
+7mate Tasmania,Tasmania,11,16:30,16:44,8,7
+7mate Tasmania,Tasmania,11,16:45,16:59,8,7
+7mate Tasmania,Tasmania,12,17:00,17:14,8,7
+7mate Tasmania,Tasmania,12,17:15,17:29,8,7
+ATN7,Sydney,75,15:30,15:44,8,7
+ATN7,Sydney,98,15:45,15:59,8,7
+ATN7,Sydney,97,16:00,16:14,8,7
+ATN7,Sydney,92,16:15,16:29,8,7
+ATN7,Sydney,99,16:30,16:44,8,7
+ATN7,Sydney,109,16:45,16:59,8,7
+ATN7,Sydney,105,17:00,17:14,8,7
+ATN7,Sydney,87,17:15,17:29,8,7
+BTQ7,Brisbane,82,15:30,15:44,8,7
+BTQ7,Brisbane,99,15:45,15:59,8,7
+BTQ7,Brisbane,98,16:00,16:14,8,7
+BTQ7,Brisbane,95,16:15,16:29,8,7
+BTQ7,Brisbane,105,16:30,16:44,8,7
+BTQ7,Brisbane,100,16:45,16:59,8,7
+BTQ7,Brisbane,117,17:00,17:14,8,7
+BTQ7,Brisbane,115,17:15,17:29,8,7
+7mate Ade,Adelaide,11,12:30,12:44,9,6
+7mate Ade,Adelaide,10,12:45,12:59,9,6
+7mate Ade,Adelaide,12,13:00,13:14,9,6
+7mate Ade,Adelaide,11,13:15,13:29,9,6
+7mate Ade,Adelaide,10,13:30,13:44,9,6
+7mate Ade,Adelaide,11,13:45,13:59,9,6
+7mate Ade,Adelaide,14,14:00,14:14,9,6
+7mate Ade,Adelaide,19,14:15,14:29,9,6
+7mate Ade,Adelaide,21,14:30,14:44,9,6
+7mate Ade,Adelaide,18,14:45,14:59,9,6
+7mate Ade,Adelaide,23,15:00,15:14,9,6
+7mate Ade,Adelaide,14,15:15,15:29,9,6
+7mate Ade,Adelaide,10,15:30,15:44,9,6
+7mate Ade,Adelaide,7,15:45,15:59,9,6
+7mate Ade,Adelaide,8,16:00,16:14,9,6
+7mate Ade,Adelaide,11,16:15,16:29,9,6
+7mate Ade,Adelaide,21,16:30,16:44,9,6
+7mate Ade,Adelaide,24,16:45,16:59,9,6
+7mate Ade,Adelaide,29,17:00,17:14,9,6
+7mate Ade,Adelaide,29,17:15,17:29,9,6
+7mate Mel,Melbourne,22,12:30,12:44,9,6
+7mate Mel,Melbourne,19,12:45,12:59,9,6
+7mate Mel,Melbourne,19,13:00,13:14,9,6
+7mate Mel,Melbourne,25,13:15,13:29,9,6
+7mate Mel,Melbourne,36,13:30,13:44,9,6
+7mate Mel,Melbourne,32,13:45,13:59,9,6
+7mate Mel,Melbourne,35,14:00,14:14,9,6
+7mate Mel,Melbourne,47,14:15,14:29,9,6
+7mate Mel,Melbourne,57,14:30,14:44,9,6
+7mate Mel,Melbourne,49,14:45,14:59,9,6
+7mate Mel,Melbourne,59,15:00,15:14,9,6
+7mate Mel,Melbourne,35,15:15,15:29,9,6
+7mate Mel,Melbourne,35,15:30,15:44,9,6
+7mate Mel,Melbourne,38,15:45,15:59,9,6
+7mate Mel,Melbourne,42,16:00,16:14,9,6
+7mate Mel,Melbourne,43,16:15,16:29,9,6
+7mate Mel,Melbourne,54,16:30,16:44,9,6
+7mate Mel,Melbourne,59,16:45,16:59,9,6
+7mate Mel,Melbourne,59,17:00,17:14,9,6
+7mate Mel,Melbourne,62,17:15,17:29,9,6
+7mate Per,Perth,3,12:30,12:44,9,6
+7mate Per,Perth,5,12:45,12:59,9,6
+7mate Per,Perth,4,13:00,13:14,9,6
+7mate Per,Perth,5,13:15,13:29,9,6
+7mate Per,Perth,2,13:30,13:44,9,6
+7mate Per,Perth,0,13:45,13:59,9,6
+7mate Per,Perth,1,13:45,13:59,9,6
+7mate Per,Perth,4,14:00,14:14,9,6
+7mate Per,Perth,6,14:15,14:29,9,6
+7mate Per,Perth,13,14:30,14:44,9,6
+7mate Per,Perth,15,14:45,14:59,9,6
+7mate Per,Perth,15,15:00,15:14,9,6
+7mate Per,Perth,12,15:15,15:29,9,6
+7mate Per,Perth,5,15:30,15:44,9,6
+7mate Per,Perth,9,15:30,15:44,9,6
+7mate Per,Perth,11,15:45,15:59,9,6
+7mate Per,Perth,3,16:00,16:14,9,6
+7mate Per,Perth,7,16:15,16:29,9,6
+7mate Per,Perth,8,16:15,16:29,9,6
+7mate Per,Perth,12,16:30,16:44,9,6
+7mate Per,Perth,17,16:45,16:59,9,6
+7mate Per,Perth,14,17:00,17:14,9,6
+7mate Per,Perth,10,17:15,17:29,9,6
+ATN7,Sydney,18,12:30,12:44,9,6
+ATN7,Sydney,24,12:45,12:59,9,6
+ATN7,Sydney,31,13:00,13:14,9,6
+ATN7,Sydney,36,13:15,13:29,9,6
+ATN7,Sydney,40,13:30,13:44,9,6
+ATN7,Sydney,49,13:45,13:59,9,6
+ATN7,Sydney,53,14:00,14:14,9,6
+ATN7,Sydney,61,14:15,14:29,9,6
+ATN7,Sydney,76,14:30,14:44,9,6
+ATN7,Sydney,86,14:45,14:59,9,6
+ATN7,Sydney,106,15:00,15:14,9,6
+ATN7,Sydney,100,15:15,15:29,9,6
+ATN7,Sydney,95,15:30,15:44,9,6
+ATN7,Sydney,96,15:45,15:59,9,6
+ATN7,Sydney,102,16:00,16:14,9,6
+ATN7,Sydney,107,16:15,16:29,9,6
+ATN7,Sydney,128,16:30,16:44,9,6
+ATN7,Sydney,142,16:45,16:59,9,6
+ATN7,Sydney,157,17:00,17:14,9,6
+ATN7,Sydney,145,17:15,17:29,9,6
+BTQ7,Brisbane,39,12:30,12:44,9,6
+BTQ7,Brisbane,35,12:45,12:59,9,6
+BTQ7,Brisbane,42,13:00,13:14,9,6
+BTQ7,Brisbane,55,13:15,13:29,9,6
+BTQ7,Brisbane,56,13:30,13:44,9,6
+BTQ7,Brisbane,65,13:45,13:59,9,6
+BTQ7,Brisbane,69,14:00,14:14,9,6
+BTQ7,Brisbane,69,14:15,14:29,9,6
+BTQ7,Brisbane,76,14:30,14:44,9,6
+BTQ7,Brisbane,78,14:45,14:59,9,6
+BTQ7,Brisbane,88,15:00,15:14,9,6
+BTQ7,Brisbane,84,15:15,15:29,9,6
+BTQ7,Brisbane,73,15:30,15:44,9,6
+BTQ7,Brisbane,72,15:45,15:59,9,6
+BTQ7,Brisbane,91,16:00,16:14,9,6
+BTQ7,Brisbane,98,16:15,16:29,9,6
+BTQ7,Brisbane,117,16:30,16:44,9,6
+BTQ7,Brisbane,121,16:45,16:59,9,6
+BTQ7,Brisbane,123,17:00,17:14,9,6
+BTQ7,Brisbane,127,17:15,17:29,9,6
+7mate Ade,Adelaide,21,14:30,14:44,9,7
+7mate Ade,Adelaide,19,14:45,14:59,9,7
+7mate Ade,Adelaide,24,15:00,15:14,9,7
+7mate Ade,Adelaide,29,15:15,15:29,9,7
+7mate Ade,Adelaide,26,15:30,15:44,9,7
+7mate Ade,Adelaide,32,15:45,15:59,9,7
+7mate Ade,Adelaide,30,16:00,16:14,9,7
+7mate Ade,Adelaide,28,16:15,16:29,9,7
+7mate Ade,Adelaide,33,16:30,16:44,9,7
+7mate Ade,Adelaide,27,16:45,16:59,9,7
+7mate Ade,Adelaide,25,17:00,17:14,9,7
+7mate Ade,Adelaide,26,17:15,17:29,9,7
+7mate Mel,Melbourne,41,14:30,14:44,9,7
+7mate Mel,Melbourne,46,14:45,14:59,9,7
+7mate Mel,Melbourne,57,15:00,15:14,9,7
+7mate Mel,Melbourne,49,15:15,15:29,9,7
+7mate Mel,Melbourne,50,15:30,15:44,9,7
+7mate Mel,Melbourne,76,15:45,15:59,9,7
+7mate Mel,Melbourne,73,16:00,16:14,9,7
+7mate Mel,Melbourne,66,16:15,16:29,9,7
+7mate Mel,Melbourne,78,16:30,16:44,9,7
+7mate Mel,Melbourne,72,16:45,16:59,9,7
+7mate Mel,Melbourne,76,17:00,17:14,9,7
+7mate Mel,Melbourne,58,17:15,17:29,9,7
+7mate Per,Perth,8,14:30,14:44,9,7
+7mate Per,Perth,6,14:45,14:59,9,7
+7mate Per,Perth,10,15:00,15:14,9,7
+7mate Per,Perth,7,15:15,15:29,9,7
+7mate Per,Perth,9,15:15,15:29,9,7
+7mate Per,Perth,11,15:30,15:44,9,7
+7mate Per,Perth,27,15:45,15:59,9,7
+7mate Per,Perth,27,16:00,16:14,9,7
+7mate Per,Perth,17,16:15,16:29,9,7
+7mate Per,Perth,23,16:30,16:44,9,7
+7mate Per,Perth,24,16:45,16:59,9,7
+7mate Per,Perth,29,17:00,17:14,9,7
+7mate Per,Perth,20,17:15,17:29,9,7
+ATN7,Sydney,63,14:30,14:44,9,7
+ATN7,Sydney,67,14:45,14:59,9,7
+ATN7,Sydney,71,15:00,15:14,9,7
+ATN7,Sydney,68,15:15,15:29,9,7
+ATN7,Sydney,69,15:30,15:44,9,7
+ATN7,Sydney,86,15:45,15:59,9,7
+ATN7,Sydney,79,16:00,16:14,9,7
+ATN7,Sydney,82,16:15,16:29,9,7
+ATN7,Sydney,95,16:30,16:44,9,7
+ATN7,Sydney,87,16:45,16:59,9,7
+ATN7,Sydney,107,17:00,17:14,9,7
+ATN7,Sydney,87,17:15,17:29,9,7
+BTQ7,Brisbane,66,14:30,14:44,9,7
+BTQ7,Brisbane,66,14:45,14:59,9,7
+BTQ7,Brisbane,74,15:00,15:14,9,7
+BTQ7,Brisbane,78,15:15,15:29,9,7
+BTQ7,Brisbane,76,15:30,15:44,9,7
+BTQ7,Brisbane,107,15:45,15:59,9,7
+BTQ7,Brisbane,98,16:00,16:14,9,7
+BTQ7,Brisbane,94,16:15,16:29,9,7
+BTQ7,Brisbane,102,16:30,16:44,9,7
+BTQ7,Brisbane,103,16:45,16:59,9,7
+BTQ7,Brisbane,108,17:00,17:14,9,7
+BTQ7,Brisbane,101,17:15,17:29,9,7
+ATN7,Sydney,54,14:00,14:14,10,6
+ATN7,Sydney,58,14:15,14:29,10,6
+ATN7,Sydney,55,14:30,14:44,10,6
+ATN7,Sydney,62,14:45,14:59,10,6
+ATN7,Sydney,78,15:00,15:14,10,6
+ATN7,Sydney,77,15:15,15:29,10,6
+ATN7,Sydney,65,15:30,15:44,10,6
+ATN7,Sydney,70,15:45,15:59,10,6
+ATN7,Sydney,73,16:00,16:14,10,6
+ATN7,Sydney,77,16:15,16:29,10,6
+ATN7,Sydney,111,16:30,16:44,10,6
+ATN7,Sydney,124,16:45,16:59,10,6
+ATN7,Sydney,107,17:00,17:14,10,6
+ATN7,Sydney,78,17:15,17:29,10,6
+BTQ7,Brisbane,49,14:00,14:14,10,6
+BTQ7,Brisbane,50,14:15,14:29,10,6
+BTQ7,Brisbane,52,14:30,14:44,10,6
+BTQ7,Brisbane,64,14:45,14:59,10,6
+BTQ7,Brisbane,73,15:00,15:14,10,6
+BTQ7,Brisbane,63,15:15,15:29,10,6
+BTQ7,Brisbane,60,15:30,15:44,10,6
+BTQ7,Brisbane,63,15:45,15:59,10,6
+BTQ7,Brisbane,58,16:00,16:14,10,6
+BTQ7,Brisbane,57,16:15,16:29,10,6
+BTQ7,Brisbane,77,16:30,16:44,10,6
+BTQ7,Brisbane,97,16:45,16:59,10,6
+BTQ7,Brisbane,88,17:00,17:14,10,6
+BTQ7,Brisbane,63,17:15,17:29,10,6
+HSV7,Melbourne,57,14:00,14:14,10,6
+HSV7,Melbourne,58,14:15,14:29,10,6
+HSV7,Melbourne,63,14:30,14:44,10,6
+HSV7,Melbourne,81,14:45,14:59,10,6
+HSV7,Melbourne,88,15:00,15:14,10,6
+HSV7,Melbourne,83,15:15,15:29,10,6
+HSV7,Melbourne,92,15:30,15:44,10,6
+HSV7,Melbourne,86,15:45,15:59,10,6
+HSV7,Melbourne,100,16:00,16:14,10,6
+HSV7,Melbourne,102,16:15,16:29,10,6
+HSV7,Melbourne,110,16:30,16:44,10,6
+HSV7,Melbourne,112,16:45,16:59,10,6
+HSV7,Melbourne,97,17:00,17:14,10,6
+HSV7,Melbourne,72,17:15,17:29,10,6
+SAS7,Adelaide,14,14:00,14:14,10,6
+SAS7,Adelaide,13,14:15,14:29,10,6
+SAS7,Adelaide,12,14:30,14:44,10,6
+SAS7,Adelaide,13,14:45,14:59,10,6
+SAS7,Adelaide,17,15:00,15:14,10,6
+SAS7,Adelaide,12,15:15,15:29,10,6
+SAS7,Adelaide,10,15:30,15:44,10,6
+SAS7,Adelaide,11,15:45,15:59,10,6
+SAS7,Adelaide,17,16:00,16:14,10,6
+SAS7,Adelaide,23,16:15,16:29,10,6
+SAS7,Adelaide,28,16:30,16:44,10,6
+SAS7,Adelaide,29,16:45,16:59,10,6
+SAS7,Adelaide,25,17:00,17:14,10,6
+SAS7,Adelaide,19,17:15,17:29,10,6
+Southern Cross Tasmania,Tasmania,20,14:00,14:14,10,6
+Southern Cross Tasmania,Tasmania,20,14:15,14:29,10,6
+Southern Cross Tasmania,Tasmania,20,14:30,14:44,10,6
+Southern Cross Tasmania,Tasmania,22,14:45,14:59,10,6
+Southern Cross Tasmania,Tasmania,24,15:00,15:14,10,6
+Southern Cross Tasmania,Tasmania,19,15:15,15:29,10,6
+Southern Cross Tasmania,Tasmania,18,15:30,15:44,10,6
+Southern Cross Tasmania,Tasmania,17,15:45,15:59,10,6
+Southern Cross Tasmania,Tasmania,25,16:00,16:14,10,6
+Southern Cross Tasmania,Tasmania,20,16:15,16:29,10,6
+Southern Cross Tasmania,Tasmania,21,16:30,16:44,10,6
+Southern Cross Tasmania,Tasmania,27,16:45,16:59,10,6
+Southern Cross Tasmania,Tasmania,25,17:00,17:14,10,6
+Southern Cross Tasmania,Tasmania,24,17:15,17:29,10,6
+TVW7,Perth,28,14:00,14:14,10,6
+TVW7,Perth,28,14:15,14:29,10,6
+TVW7,Perth,18,14:30,14:44,10,6
+TVW7,Perth,23,14:45,14:59,10,6
+TVW7,Perth,22,15:00,15:14,10,6
+TVW7,Perth,23,15:15,15:29,10,6
+TVW7,Perth,18,15:30,15:44,10,6
+TVW7,Perth,18,15:45,15:59,10,6
+TVW7,Perth,19,16:00,16:14,10,6
+TVW7,Perth,18,16:15,16:29,10,6
+TVW7,Perth,27,16:30,16:44,10,6
+TVW7,Perth,32,16:45,16:59,10,6
+TVW7,Perth,29,17:00,17:14,10,6
+TVW7,Perth,22,17:15,17:29,10,6
+ATN7,Sydney,48,12:30,12:44,10,7
+ATN7,Sydney,60,12:45,12:59,10,7
+ATN7,Sydney,49,13:00,13:14,10,7
+ATN7,Sydney,48,13:15,13:29,10,7
+ATN7,Sydney,61,13:30,13:44,10,7
+ATN7,Sydney,75,13:45,13:59,10,7
+ATN7,Sydney,68,14:00,14:14,10,7
+ATN7,Sydney,71,14:15,14:29,10,7
+ATN7,Sydney,74,14:30,14:44,10,7
+ATN7,Sydney,66,14:45,14:59,10,7
+ATN7,Sydney,67,15:00,15:14,10,7
+ATN7,Sydney,75,15:15,15:29,10,7
+ATN7,Sydney,73,15:30,15:44,10,7
+ATN7,Sydney,68,15:45,15:59,10,7
+ATN7,Sydney,71,16:00,16:14,10,7
+ATN7,Sydney,69,16:15,16:29,10,7
+ATN7,Sydney,81,16:30,16:44,10,7
+ATN7,Sydney,88,16:45,16:59,10,7
+ATN7,Sydney,79,17:00,17:14,10,7
+ATN7,Sydney,54,17:15,17:29,10,7
+BTQ7,Brisbane,52,12:30,12:44,10,7
+BTQ7,Brisbane,45,12:45,12:59,10,7
+BTQ7,Brisbane,50,13:00,13:14,10,7
+BTQ7,Brisbane,63,13:15,13:29,10,7
+BTQ7,Brisbane,76,13:30,13:44,10,7
+BTQ7,Brisbane,87,13:45,13:59,10,7
+BTQ7,Brisbane,94,14:00,14:14,10,7
+BTQ7,Brisbane,98,14:15,14:29,10,7
+BTQ7,Brisbane,102,14:30,14:44,10,7
+BTQ7,Brisbane,95,14:45,14:59,10,7
+BTQ7,Brisbane,92,15:00,15:14,10,7
+BTQ7,Brisbane,101,15:15,15:29,10,7
+BTQ7,Brisbane,88,15:30,15:44,10,7
+BTQ7,Brisbane,87,15:45,15:59,10,7
+BTQ7,Brisbane,94,16:00,16:14,10,7
+BTQ7,Brisbane,93,16:15,16:29,10,7
+BTQ7,Brisbane,92,16:30,16:44,10,7
+BTQ7,Brisbane,104,16:45,16:59,10,7
+BTQ7,Brisbane,96,17:00,17:14,10,7
+BTQ7,Brisbane,62,17:15,17:29,10,7
+HSV7,Melbourne,75,12:30,12:44,10,7
+HSV7,Melbourne,76,12:45,12:59,10,7
+HSV7,Melbourne,81,13:00,13:14,10,7
+HSV7,Melbourne,96,13:15,13:29,10,7
+HSV7,Melbourne,124,13:30,13:44,10,7
+HSV7,Melbourne,144,13:45,13:59,10,7
+HSV7,Melbourne,135,14:00,14:14,10,7
+HSV7,Melbourne,126,14:15,14:29,10,7
+HSV7,Melbourne,110,14:30,14:44,10,7
+HSV7,Melbourne,115,14:45,14:59,10,7
+HSV7,Melbourne,108,15:00,15:14,10,7
+HSV7,Melbourne,123,15:15,15:29,10,7
+HSV7,Melbourne,109,15:30,15:44,10,7
+HSV7,Melbourne,110,15:45,15:59,10,7
+HSV7,Melbourne,120,16:00,16:14,10,7
+HSV7,Melbourne,119,16:15,16:29,10,7
+HSV7,Melbourne,130,16:30,16:44,10,7
+HSV7,Melbourne,152,16:45,16:59,10,7
+HSV7,Melbourne,144,17:00,17:14,10,7
+HSV7,Melbourne,92,17:15,17:29,10,7
+SAS7,Adelaide,16,12:30,12:44,10,7
+SAS7,Adelaide,10,12:45,12:59,10,7
+SAS7,Adelaide,11,13:00,13:14,10,7
+SAS7,Adelaide,17,13:15,13:29,10,7
+SAS7,Adelaide,26,13:30,13:44,10,7
+SAS7,Adelaide,35,13:45,13:59,10,7
+SAS7,Adelaide,29,14:00,14:14,10,7
+SAS7,Adelaide,27,14:15,14:29,10,7
+SAS7,Adelaide,29,14:30,14:44,10,7
+SAS7,Adelaide,34,14:45,14:59,10,7
+SAS7,Adelaide,35,15:00,15:14,10,7
+SAS7,Adelaide,37,15:15,15:29,10,7
+SAS7,Adelaide,34,15:30,15:44,10,7
+SAS7,Adelaide,36,15:45,15:59,10,7
+SAS7,Adelaide,32,16:00,16:14,10,7
+SAS7,Adelaide,34,16:15,16:29,10,7
+SAS7,Adelaide,34,16:30,16:44,10,7
+SAS7,Adelaide,37,16:45,16:59,10,7
+SAS7,Adelaide,35,17:00,17:14,10,7
+SAS7,Adelaide,24,17:15,17:29,10,7
+Southern Cross Tasmania,Tasmania,5,12:30,12:44,10,7
+Southern Cross Tasmania,Tasmania,6,12:45,12:59,10,7
+Southern Cross Tasmania,Tasmania,5,13:00,13:14,10,7
+Southern Cross Tasmania,Tasmania,7,13:15,13:29,10,7
+Southern Cross Tasmania,Tasmania,11,13:30,13:44,10,7
+Southern Cross Tasmania,Tasmania,11,13:45,13:59,10,7
+Southern Cross Tasmania,Tasmania,9,14:00,14:14,10,7
+Southern Cross Tasmania,Tasmania,10,14:15,14:29,10,7
+Southern Cross Tasmania,Tasmania,11,14:30,14:44,10,7
+Southern Cross Tasmania,Tasmania,12,14:45,14:59,10,7
+Southern Cross Tasmania,Tasmania,11,15:00,15:14,10,7
+Southern Cross Tasmania,Tasmania,10,15:15,15:29,10,7
+Southern Cross Tasmania,Tasmania,9,15:30,15:44,10,7
+Southern Cross Tasmania,Tasmania,9,15:45,15:59,10,7
+Southern Cross Tasmania,Tasmania,10,16:00,16:14,10,7
+Southern Cross Tasmania,Tasmania,15,16:15,16:29,10,7
+Southern Cross Tasmania,Tasmania,20,16:30,16:44,10,7
+Southern Cross Tasmania,Tasmania,24,16:45,16:59,10,7
+Southern Cross Tasmania,Tasmania,27,17:00,17:14,10,7
+Southern Cross Tasmania,Tasmania,22,17:15,17:29,10,7
+TVW7,Perth,23,12:30,12:44,10,7
+TVW7,Perth,20,12:45,12:59,10,7
+TVW7,Perth,18,13:00,13:14,10,7
+TVW7,Perth,17,13:15,13:29,10,7
+TVW7,Perth,18,13:30,13:44,10,7
+TVW7,Perth,18,13:45,13:59,10,7
+TVW7,Perth,22,14:00,14:14,10,7
+TVW7,Perth,22,14:15,14:29,10,7
+TVW7,Perth,24,14:30,14:44,10,7
+TVW7,Perth,26,14:45,14:59,10,7
+TVW7,Perth,22,15:00,15:14,10,7
+TVW7,Perth,23,15:15,15:29,10,7
+TVW7,Perth,19,15:30,15:44,10,7
+TVW7,Perth,21,15:45,15:59,10,7
+TVW7,Perth,21,16:00,16:14,10,7
+TVW7,Perth,18,16:15,16:29,10,7
+TVW7,Perth,21,16:30,16:44,10,7
+TVW7,Perth,30,16:45,16:59,10,7
+TVW7,Perth,33,17:00,17:14,10,7
+TVW7,Perth,20,17:15,17:29,10,7
+ATN7,Sydney,28,13:00,13:14,11,5
+ATN7,Sydney,34,13:15,13:29,11,5
+ATN7,Sydney,38,13:30,13:44,11,5
+ATN7,Sydney,46,13:45,13:59,11,5
+ATN7,Sydney,44,14:00,14:14,11,5
+ATN7,Sydney,42,14:15,14:29,11,5
+ATN7,Sydney,47,14:30,14:44,11,5
+ATN7,Sydney,51,14:45,14:59,11,5
+ATN7,Sydney,64,15:00,15:14,11,5
+ATN7,Sydney,62,15:15,15:29,11,5
+ATN7,Sydney,84,15:30,15:44,11,5
+ATN7,Sydney,95,15:45,15:59,11,5
+BTQ7,Brisbane,40,13:00,13:14,11,5
+BTQ7,Brisbane,48,13:15,13:29,11,5
+BTQ7,Brisbane,56,13:30,13:44,11,5
+BTQ7,Brisbane,57,13:45,13:59,11,5
+BTQ7,Brisbane,61,14:00,14:14,11,5
+BTQ7,Brisbane,50,14:15,14:29,11,5
+BTQ7,Brisbane,56,14:30,14:44,11,5
+BTQ7,Brisbane,56,14:45,14:59,11,5
+BTQ7,Brisbane,64,15:00,15:14,11,5
+BTQ7,Brisbane,67,15:15,15:29,11,5
+BTQ7,Brisbane,68,15:30,15:44,11,5
+BTQ7,Brisbane,78,15:45,15:59,11,5
+HSV7,Melbourne,33,13:00,13:14,11,5
+HSV7,Melbourne,30,13:15,13:29,11,5
+HSV7,Melbourne,30,13:30,13:44,11,5
+HSV7,Melbourne,38,13:45,13:59,11,5
+HSV7,Melbourne,38,14:00,14:14,11,5
+HSV7,Melbourne,34,14:15,14:29,11,5
+HSV7,Melbourne,32,14:30,14:44,11,5
+HSV7,Melbourne,31,14:45,14:59,11,5
+HSV7,Melbourne,53,15:00,15:14,11,5
+HSV7,Melbourne,56,15:15,15:29,11,5
+HSV7,Melbourne,64,15:30,15:44,11,5
+HSV7,Melbourne,60,15:45,15:59,11,5
+SAS7,Adelaide,17,13:00,13:14,11,5
+SAS7,Adelaide,19,13:15,13:29,11,5
+SAS7,Adelaide,19,13:30,13:44,11,5
+SAS7,Adelaide,18,13:45,13:59,11,5
+SAS7,Adelaide,21,14:00,14:14,11,5
+SAS7,Adelaide,19,14:15,14:29,11,5
+SAS7,Adelaide,21,14:30,14:44,11,5
+SAS7,Adelaide,19,14:45,14:59,11,5
+SAS7,Adelaide,21,15:00,15:14,11,5
+SAS7,Adelaide,22,15:15,15:29,11,5
+SAS7,Adelaide,30,15:30,15:44,11,5
+SAS7,Adelaide,31,15:45,15:59,11,5
+Southern Cross Tasmania,Tasmania,12,13:00,13:14,11,5
+Southern Cross Tasmania,Tasmania,12,13:15,13:29,11,5
+Southern Cross Tasmania,Tasmania,10,13:30,13:44,11,5
+Southern Cross Tasmania,Tasmania,9,13:45,13:59,11,5
+Southern Cross Tasmania,Tasmania,10,14:00,14:14,11,5
+Southern Cross Tasmania,Tasmania,9,14:15,14:29,11,5
+Southern Cross Tasmania,Tasmania,11,14:30,14:44,11,5
+Southern Cross Tasmania,Tasmania,13,14:45,14:59,11,5
+Southern Cross Tasmania,Tasmania,13,15:00,15:14,11,5
+Southern Cross Tasmania,Tasmania,15,15:15,15:29,11,5
+Southern Cross Tasmania,Tasmania,16,15:30,15:44,11,5
+Southern Cross Tasmania,Tasmania,17,15:45,15:59,11,5
+TVW7,Perth,32,13:00,13:14,11,5
+TVW7,Perth,27,13:15,13:29,11,5
+TVW7,Perth,26,13:30,13:44,11,5
+TVW7,Perth,25,13:45,13:59,11,5
+TVW7,Perth,28,14:00,14:14,11,5
+TVW7,Perth,27,14:15,14:29,11,5
+TVW7,Perth,24,14:30,14:44,11,5
+TVW7,Perth,23,14:45,14:59,11,5
+TVW7,Perth,28,15:00,15:14,11,5
+TVW7,Perth,31,15:15,15:29,11,5
+TVW7,Perth,29,15:30,15:44,11,5
+TVW7,Perth,32,15:45,15:59,11,5
+ATN7,Sydney,66,12:00,12:14,11,6
+ATN7,Sydney,75,12:15,12:29,11,6
+ATN7,Sydney,102,12:30,12:44,11,6
+ATN7,Sydney,134,12:45,12:59,11,6
+ATN7,Sydney,142,13:00,13:14,11,6
+ATN7,Sydney,166,13:15,13:29,11,6
+ATN7,Sydney,165,13:30,13:44,11,6
+ATN7,Sydney,156,13:45,13:59,11,6
+ATN7,Sydney,148,14:00,14:14,11,6
+ATN7,Sydney,169,14:15,14:29,11,6
+ATN7,Sydney,186,14:30,14:44,11,6
+ATN7,Sydney,174,14:45,14:59,11,6
+ATN7,Sydney,171,15:00,15:14,11,6
+ATN7,Sydney,175,15:15,15:29,11,6
+ATN7,Sydney,178,15:30,15:44,11,6
+ATN7,Sydney,205,15:45,15:59,11,6
+ATN7,Sydney,200,16:00,16:14,11,6
+ATN7,Sydney,230,16:15,16:29,11,6
+ATN7,Sydney,211,16:30,16:44,11,6
+ATN7,Sydney,219,16:45,16:59,11,6
+ATN7,Sydney,249,17:00,17:14,11,6
+ATN7,Sydney,275,17:15,17:29,11,6
+ATN7,Sydney,280,17:30,17:44,11,6
+ATN7,Sydney,292,17:45,17:59,11,6
+BTQ7,Brisbane,59,12:00,12:14,11,6
+BTQ7,Brisbane,66,12:15,12:29,11,6
+BTQ7,Brisbane,78,12:30,12:44,11,6
+BTQ7,Brisbane,90,12:45,12:59,11,6
+BTQ7,Brisbane,103,13:00,13:14,11,6
+BTQ7,Brisbane,121,13:15,13:29,11,6
+BTQ7,Brisbane,119,13:30,13:44,11,6
+BTQ7,Brisbane,114,13:45,13:59,11,6
+BTQ7,Brisbane,117,14:00,14:14,11,6
+BTQ7,Brisbane,115,14:15,14:29,11,6
+BTQ7,Brisbane,124,14:30,14:44,11,6
+BTQ7,Brisbane,108,14:45,14:59,11,6
+BTQ7,Brisbane,113,15:00,15:14,11,6
+BTQ7,Brisbane,102,15:15,15:29,11,6
+BTQ7,Brisbane,105,15:30,15:44,11,6
+BTQ7,Brisbane,111,15:45,15:59,11,6
+BTQ7,Brisbane,132,16:00,16:14,11,6
+BTQ7,Brisbane,136,16:15,16:29,11,6
+BTQ7,Brisbane,138,16:30,16:44,11,6
+BTQ7,Brisbane,167,16:45,16:59,11,6
+BTQ7,Brisbane,208,17:00,17:14,11,6
+BTQ7,Brisbane,218,17:15,17:29,11,6
+BTQ7,Brisbane,232,17:30,17:44,11,6
+BTQ7,Brisbane,234,17:45,17:59,11,6
+HSV7,Melbourne,52,12:00,12:14,11,6
+HSV7,Melbourne,71,12:15,12:29,11,6
+HSV7,Melbourne,87,12:30,12:44,11,6
+HSV7,Melbourne,103,12:45,12:59,11,6
+HSV7,Melbourne,90,13:00,13:14,11,6
+HSV7,Melbourne,89,13:15,13:29,11,6
+HSV7,Melbourne,95,13:30,13:44,11,6
+HSV7,Melbourne,96,13:45,13:59,11,6
+HSV7,Melbourne,107,14:00,14:14,11,6
+HSV7,Melbourne,109,14:15,14:29,11,6
+HSV7,Melbourne,121,14:30,14:44,11,6
+HSV7,Melbourne,123,14:45,14:59,11,6
+HSV7,Melbourne,132,15:00,15:14,11,6
+HSV7,Melbourne,123,15:15,15:29,11,6
+HSV7,Melbourne,135,15:30,15:44,11,6
+HSV7,Melbourne,145,15:45,15:59,11,6
+HSV7,Melbourne,163,16:00,16:14,11,6
+HSV7,Melbourne,170,16:15,16:29,11,6
+HSV7,Melbourne,182,16:30,16:44,11,6
+HSV7,Melbourne,187,16:45,16:59,11,6
+HSV7,Melbourne,205,17:00,17:14,11,6
+HSV7,Melbourne,232,17:15,17:29,11,6
+HSV7,Melbourne,241,17:30,17:44,11,6
+HSV7,Melbourne,260,17:45,17:59,11,6
+SAS7,Adelaide,32,12:00,12:14,11,6
+SAS7,Adelaide,30,12:15,12:29,11,6
+SAS7,Adelaide,30,12:30,12:44,11,6
+SAS7,Adelaide,24,12:45,12:59,11,6
+SAS7,Adelaide,22,13:00,13:14,11,6
+SAS7,Adelaide,23,13:15,13:29,11,6
+SAS7,Adelaide,32,13:30,13:44,11,6
+SAS7,Adelaide,37,13:45,13:59,11,6
+SAS7,Adelaide,38,14:00,14:14,11,6
+SAS7,Adelaide,39,14:15,14:29,11,6
+SAS7,Adelaide,41,14:30,14:44,11,6
+SAS7,Adelaide,34,14:45,14:59,11,6
+SAS7,Adelaide,30,15:00,15:14,11,6
+SAS7,Adelaide,32,15:15,15:29,11,6
+SAS7,Adelaide,39,15:30,15:44,11,6
+SAS7,Adelaide,40,15:45,15:59,11,6
+SAS7,Adelaide,45,16:00,16:14,11,6
+SAS7,Adelaide,48,16:15,16:29,11,6
+SAS7,Adelaide,46,16:30,16:44,11,6
+SAS7,Adelaide,46,16:45,16:59,11,6
+SAS7,Adelaide,55,17:00,17:14,11,6
+SAS7,Adelaide,61,17:15,17:29,11,6
+SAS7,Adelaide,64,17:30,17:44,11,6
+SAS7,Adelaide,58,17:45,17:59,11,6
+Southern Cross Tasmania,Tasmania,10,12:00,12:14,11,6
+Southern Cross Tasmania,Tasmania,21,12:15,12:29,11,6
+Southern Cross Tasmania,Tasmania,26,12:30,12:44,11,6
+Southern Cross Tasmania,Tasmania,23,12:45,12:59,11,6
+Southern Cross Tasmania,Tasmania,20,13:00,13:14,11,6
+Southern Cross Tasmania,Tasmania,22,13:15,13:29,11,6
+Southern Cross Tasmania,Tasmania,18,13:30,13:44,11,6
+Southern Cross Tasmania,Tasmania,21,13:45,13:59,11,6
+Southern Cross Tasmania,Tasmania,20,14:00,14:14,11,6
+Southern Cross Tasmania,Tasmania,22,14:15,14:29,11,6
+Southern Cross Tasmania,Tasmania,22,14:30,14:44,11,6
+Southern Cross Tasmania,Tasmania,22,14:45,14:59,11,6
+Southern Cross Tasmania,Tasmania,26,15:00,15:14,11,6
+Southern Cross Tasmania,Tasmania,32,15:15,15:29,11,6
+Southern Cross Tasmania,Tasmania,27,15:30,15:44,11,6
+Southern Cross Tasmania,Tasmania,21,15:45,15:59,11,6
+Southern Cross Tasmania,Tasmania,28,16:00,16:14,11,6
+Southern Cross Tasmania,Tasmania,25,16:15,16:29,11,6
+Southern Cross Tasmania,Tasmania,33,16:30,16:44,11,6
+Southern Cross Tasmania,Tasmania,34,16:45,16:59,11,6
+Southern Cross Tasmania,Tasmania,43,17:00,17:14,11,6
+Southern Cross Tasmania,Tasmania,46,17:15,17:29,11,6
+Southern Cross Tasmania,Tasmania,50,17:30,17:44,11,6
+Southern Cross Tasmania,Tasmania,53,17:45,17:59,11,6
+TVW7,Perth,38,12:00,12:14,11,6
+TVW7,Perth,36,12:15,12:29,11,6
+TVW7,Perth,32,12:30,12:44,11,6
+TVW7,Perth,32,12:45,12:59,11,6
+TVW7,Perth,27,13:00,13:14,11,6
+TVW7,Perth,25,13:15,13:29,11,6
+TVW7,Perth,27,13:30,13:44,11,6
+TVW7,Perth,32,13:45,13:59,11,6
+TVW7,Perth,32,14:00,14:14,11,6
+TVW7,Perth,33,14:15,14:29,11,6
+TVW7,Perth,32,14:30,14:44,11,6
+TVW7,Perth,27,14:45,14:59,11,6
+TVW7,Perth,30,15:00,15:14,11,6
+TVW7,Perth,31,15:15,15:29,11,6
+TVW7,Perth,35,15:30,15:44,11,6
+TVW7,Perth,36,15:45,15:59,11,6
+TVW7,Perth,45,16:00,16:14,11,6
+TVW7,Perth,55,16:15,16:29,11,6
+TVW7,Perth,51,16:30,16:44,11,6
+TVW7,Perth,51,16:45,16:59,11,6
+TVW7,Perth,65,17:00,17:14,11,6
+TVW7,Perth,65,17:15,17:29,11,6
+TVW7,Perth,57,17:30,17:44,11,6
+TVW7,Perth,63,17:45,17:59,11,6
+7mate Ade,Adelaide,63,18:30,18:44,11,7
+7mate Mel,Melbourne,198,18:30,18:44,11,7
+7mate Syd,Sydney,203,18:30,18:44,11,7
+ATN7,Sydney,29,7:00,7:14,11,7
+ATN7,Sydney,52,7:15,7:29,11,7
+ATN7,Sydney,77,7:30,7:44,11,7
+ATN7,Sydney,85,7:45,7:59,11,7
+ATN7,Sydney,89,8:00,8:14,11,7
+ATN7,Sydney,96,8:15,8:29,11,7
+ATN7,Sydney,109,8:30,8:44,11,7
+ATN7,Sydney,118,8:45,8:59,11,7
+ATN7,Sydney,131,9:00,9:14,11,7
+ATN7,Sydney,164,9:15,9:29,11,7
+ATN7,Sydney,177,9:30,9:44,11,7
+ATN7,Sydney,196,9:45,9:59,11,7
+ATN7,Sydney,239,10:00,10:14,11,7
+ATN7,Sydney,280,10:15,10:29,11,7
+ATN7,Sydney,327,10:30,10:44,11,7
+ATN7,Sydney,298,10:45,10:59,11,7
+ATN7,Sydney,292,11:00,11:14,11,7
+ATN7,Sydney,302,11:15,11:29,11,7
+ATN7,Sydney,316,11:30,11:44,11,7
+ATN7,Sydney,307,11:45,11:59,11,7
+ATN7,Sydney,296,12:00,12:14,11,7
+ATN7,Sydney,308,12:15,12:29,11,7
+ATN7,Sydney,320,12:30,12:44,11,7
+ATN7,Sydney,336,12:45,12:59,11,7
+ATN7,Sydney,349,13:00,13:14,11,7
+ATN7,Sydney,366,13:15,13:29,11,7
+ATN7,Sydney,372,13:30,13:44,11,7
+ATN7,Sydney,365,13:45,13:59,11,7
+ATN7,Sydney,388,14:00,14:14,11,7
+ATN7,Sydney,427,14:15,14:29,11,7
+ATN7,Sydney,448,14:30,14:44,11,7
+ATN7,Sydney,411,14:45,14:59,11,7
+ATN7,Sydney,424,15:00,15:14,11,7
+ATN7,Sydney,437,15:15,15:29,11,7
+ATN7,Sydney,423,15:30,15:44,11,7
+ATN7,Sydney,418,15:45,15:59,11,7
+ATN7,Sydney,423,16:00,16:14,11,7
+ATN7,Sydney,421,16:15,16:29,11,7
+ATN7,Sydney,428,16:30,16:44,11,7
+ATN7,Sydney,445,16:45,16:59,11,7
+ATN7,Sydney,478,17:00,17:14,11,7
+ATN7,Sydney,546,17:15,17:29,11,7
+ATN7,Sydney,572,17:30,17:44,11,7
+ATN7,Sydney,611,17:45,17:59,11,7
+ATN7,Sydney,666,18:00,18:14,11,7
+ATN7,Sydney,708,18:15,18:29,11,7
+ATN7,Sydney,752,18:30,18:44,11,7
+BTQ7,Brisbane,22,7:00,7:14,11,7
+BTQ7,Brisbane,22,7:15,7:29,11,7
+BTQ7,Brisbane,44,7:30,7:44,11,7
+BTQ7,Brisbane,47,7:45,7:59,11,7
+BTQ7,Brisbane,64,8:00,8:14,11,7
+BTQ7,Brisbane,79,8:15,8:29,11,7
+BTQ7,Brisbane,91,8:30,8:44,11,7
+BTQ7,Brisbane,94,8:45,8:59,11,7
+BTQ7,Brisbane,116,9:00,9:14,11,7
+BTQ7,Brisbane,132,9:15,9:29,11,7
+BTQ7,Brisbane,163,9:30,9:44,11,7
+BTQ7,Brisbane,175,9:45,9:59,11,7
+BTQ7,Brisbane,197,10:00,10:14,11,7
+BTQ7,Brisbane,215,10:15,10:29,11,7
+BTQ7,Brisbane,263,10:30,10:44,11,7
+BTQ7,Brisbane,251,10:45,10:59,11,7
+BTQ7,Brisbane,247,11:00,11:14,11,7
+BTQ7,Brisbane,247,11:15,11:29,11,7
+BTQ7,Brisbane,253,11:30,11:44,11,7
+BTQ7,Brisbane,265,11:45,11:59,11,7
+BTQ7,Brisbane,242,12:00,12:14,11,7
+BTQ7,Brisbane,249,12:15,12:29,11,7
+BTQ7,Brisbane,262,12:30,12:44,11,7
+BTQ7,Brisbane,256,12:45,12:59,11,7
+BTQ7,Brisbane,255,13:00,13:14,11,7
+BTQ7,Brisbane,248,13:15,13:29,11,7
+BTQ7,Brisbane,270,13:30,13:44,11,7
+BTQ7,Brisbane,259,13:45,13:59,11,7
+BTQ7,Brisbane,295,14:00,14:14,11,7
+BTQ7,Brisbane,291,14:15,14:29,11,7
+BTQ7,Brisbane,311,14:30,14:44,11,7
+BTQ7,Brisbane,295,14:45,14:59,11,7
+BTQ7,Brisbane,342,15:00,15:14,11,7
+BTQ7,Brisbane,344,15:15,15:29,11,7
+BTQ7,Brisbane,350,15:30,15:44,11,7
+BTQ7,Brisbane,328,15:45,15:59,11,7
+BTQ7,Brisbane,315,16:00,16:14,11,7
+BTQ7,Brisbane,329,16:15,16:29,11,7
+BTQ7,Brisbane,334,16:30,16:44,11,7
+BTQ7,Brisbane,330,16:45,16:59,11,7
+BTQ7,Brisbane,351,17:00,17:14,11,7
+BTQ7,Brisbane,374,17:15,17:29,11,7
+BTQ7,Brisbane,402,17:30,17:44,11,7
+BTQ7,Brisbane,417,17:45,17:59,11,7
+BTQ7,Brisbane,444,18:00,18:14,11,7
+BTQ7,Brisbane,484,18:15,18:29,11,7
+BTQ7,Brisbane,497,18:30,18:44,11,7
+BTQ7,Brisbane,458,18:30,18:44,11,7
+HSV7,Melbourne,25,7:00,7:14,11,7
+HSV7,Melbourne,28,7:15,7:29,11,7
+HSV7,Melbourne,36,7:30,7:44,11,7
+HSV7,Melbourne,33,7:45,7:59,11,7
+HSV7,Melbourne,32,8:00,8:14,11,7
+HSV7,Melbourne,53,8:15,8:29,11,7
+HSV7,Melbourne,70,8:30,8:44,11,7
+HSV7,Melbourne,90,8:45,8:59,11,7
+HSV7,Melbourne,113,9:00,9:14,11,7
+HSV7,Melbourne,117,9:15,9:29,11,7
+HSV7,Melbourne,127,9:30,9:44,11,7
+HSV7,Melbourne,166,9:45,9:59,11,7
+HSV7,Melbourne,197,10:00,10:14,11,7
+HSV7,Melbourne,263,10:15,10:29,11,7
+HSV7,Melbourne,322,10:30,10:44,11,7
+HSV7,Melbourne,314,10:45,10:59,11,7
+HSV7,Melbourne,313,11:00,11:14,11,7
+HSV7,Melbourne,303,11:15,11:29,11,7
+HSV7,Melbourne,292,11:30,11:44,11,7
+HSV7,Melbourne,297,11:45,11:59,11,7
+HSV7,Melbourne,300,12:00,12:14,11,7
+HSV7,Melbourne,305,12:15,12:29,11,7
+HSV7,Melbourne,295,12:30,12:44,11,7
+HSV7,Melbourne,289,12:45,12:59,11,7
+HSV7,Melbourne,332,13:00,13:14,11,7
+HSV7,Melbourne,311,13:15,13:29,11,7
+HSV7,Melbourne,339,13:30,13:44,11,7
+HSV7,Melbourne,351,13:45,13:59,11,7
+HSV7,Melbourne,366,14:00,14:14,11,7
+HSV7,Melbourne,386,14:15,14:29,11,7
+HSV7,Melbourne,408,14:30,14:44,11,7
+HSV7,Melbourne,389,14:45,14:59,11,7
+HSV7,Melbourne,401,15:00,15:14,11,7
+HSV7,Melbourne,421,15:15,15:29,11,7
+HSV7,Melbourne,460,15:30,15:44,11,7
+HSV7,Melbourne,456,15:45,15:59,11,7
+HSV7,Melbourne,463,16:00,16:14,11,7
+HSV7,Melbourne,470,16:15,16:29,11,7
+HSV7,Melbourne,465,16:30,16:44,11,7
+HSV7,Melbourne,469,16:45,16:59,11,7
+HSV7,Melbourne,485,17:00,17:14,11,7
+HSV7,Melbourne,503,17:15,17:29,11,7
+HSV7,Melbourne,516,17:30,17:44,11,7
+HSV7,Melbourne,550,17:45,17:59,11,7
+HSV7,Melbourne,611,18:00,18:14,11,7
+HSV7,Melbourne,657,18:15,18:29,11,7
+HSV7,Melbourne,709,18:30,18:44,11,7
+SAS7,Adelaide,5,7:00,7:14,11,7
+SAS7,Adelaide,13,7:15,7:29,11,7
+SAS7,Adelaide,16,7:30,7:44,11,7
+SAS7,Adelaide,12,7:45,7:59,11,7
+SAS7,Adelaide,13,8:00,8:14,11,7
+SAS7,Adelaide,16,8:15,8:29,11,7
+SAS7,Adelaide,24,8:30,8:44,11,7
+SAS7,Adelaide,30,8:45,8:59,11,7
+SAS7,Adelaide,37,9:00,9:14,11,7
+SAS7,Adelaide,44,9:15,9:29,11,7
+SAS7,Adelaide,52,9:30,9:44,11,7
+SAS7,Adelaide,50,9:45,9:59,11,7
+SAS7,Adelaide,56,10:00,10:14,11,7
+SAS7,Adelaide,57,10:15,10:29,11,7
+SAS7,Adelaide,81,10:30,10:44,11,7
+SAS7,Adelaide,84,10:45,10:59,11,7
+SAS7,Adelaide,86,11:00,11:14,11,7
+SAS7,Adelaide,86,11:15,11:29,11,7
+SAS7,Adelaide,96,11:30,11:44,11,7
+SAS7,Adelaide,92,11:45,11:59,11,7
+SAS7,Adelaide,83,12:00,12:14,11,7
+SAS7,Adelaide,90,12:15,12:29,11,7
+SAS7,Adelaide,96,12:30,12:44,11,7
+SAS7,Adelaide,94,12:45,12:59,11,7
+SAS7,Adelaide,101,13:00,13:14,11,7
+SAS7,Adelaide,92,13:15,13:29,11,7
+SAS7,Adelaide,98,13:30,13:44,11,7
+SAS7,Adelaide,90,13:45,13:59,11,7
+SAS7,Adelaide,103,14:00,14:14,11,7
+SAS7,Adelaide,116,14:15,14:29,11,7
+SAS7,Adelaide,124,14:30,14:44,11,7
+SAS7,Adelaide,114,14:45,14:59,11,7
+SAS7,Adelaide,109,15:00,15:14,11,7
+SAS7,Adelaide,107,15:15,15:29,11,7
+SAS7,Adelaide,105,15:30,15:44,11,7
+SAS7,Adelaide,102,15:45,15:59,11,7
+SAS7,Adelaide,100,16:00,16:14,11,7
+SAS7,Adelaide,102,16:15,16:29,11,7
+SAS7,Adelaide,115,16:30,16:44,11,7
+SAS7,Adelaide,116,16:45,16:59,11,7
+SAS7,Adelaide,129,17:00,17:14,11,7
+SAS7,Adelaide,148,17:15,17:29,11,7
+SAS7,Adelaide,152,17:30,17:44,11,7
+SAS7,Adelaide,161,17:45,17:59,11,7
+SAS7,Adelaide,170,18:00,18:14,11,7
+SAS7,Adelaide,185,18:15,18:29,11,7
+SAS7,Adelaide,199,18:30,18:44,11,7
+Southern Cross Tasmania,Tasmania,3,7:00,7:14,11,7
+Southern Cross Tasmania,Tasmania,2,7:15,7:29,11,7
+Southern Cross Tasmania,Tasmania,4,7:30,7:44,11,7
+Southern Cross Tasmania,Tasmania,3,7:45,7:59,11,7
+Southern Cross Tasmania,Tasmania,7,8:00,8:14,11,7
+Southern Cross Tasmania,Tasmania,15,8:15,8:29,11,7
+Southern Cross Tasmania,Tasmania,17,8:30,8:44,11,7
+Southern Cross Tasmania,Tasmania,20,8:45,8:59,11,7
+Southern Cross Tasmania,Tasmania,18,9:00,9:14,11,7
+Southern Cross Tasmania,Tasmania,21,9:15,9:29,11,7
+Southern Cross Tasmania,Tasmania,21,9:30,9:44,11,7
+Southern Cross Tasmania,Tasmania,20,9:45,9:59,11,7
+Southern Cross Tasmania,Tasmania,24,10:00,10:14,11,7
+Southern Cross Tasmania,Tasmania,33,10:15,10:29,11,7
+Southern Cross Tasmania,Tasmania,38,10:30,10:44,11,7
+Southern Cross Tasmania,Tasmania,37,10:45,10:59,11,7
+Southern Cross Tasmania,Tasmania,44,11:00,11:14,11,7
+Southern Cross Tasmania,Tasmania,46,11:15,11:29,11,7
+Southern Cross Tasmania,Tasmania,41,11:30,11:44,11,7
+Southern Cross Tasmania,Tasmania,43,11:45,11:59,11,7
+Southern Cross Tasmania,Tasmania,49,12:00,12:14,11,7
+Southern Cross Tasmania,Tasmania,51,12:15,12:29,11,7
+Southern Cross Tasmania,Tasmania,52,12:30,12:44,11,7
+Southern Cross Tasmania,Tasmania,47,12:45,12:59,11,7
+Southern Cross Tasmania,Tasmania,54,13:00,13:14,11,7
+Southern Cross Tasmania,Tasmania,63,13:15,13:29,11,7
+Southern Cross Tasmania,Tasmania,67,13:30,13:44,11,7
+Southern Cross Tasmania,Tasmania,67,13:45,13:59,11,7
+Southern Cross Tasmania,Tasmania,76,14:00,14:14,11,7
+Southern Cross Tasmania,Tasmania,84,14:15,14:29,11,7
+Southern Cross Tasmania,Tasmania,87,14:30,14:44,11,7
+Southern Cross Tasmania,Tasmania,89,14:45,14:59,11,7
+Southern Cross Tasmania,Tasmania,79,15:00,15:14,11,7
+Southern Cross Tasmania,Tasmania,76,15:15,15:29,11,7
+Southern Cross Tasmania,Tasmania,69,15:30,15:44,11,7
+Southern Cross Tasmania,Tasmania,74,15:45,15:59,11,7
+Southern Cross Tasmania,Tasmania,78,16:00,16:14,11,7
+Southern Cross Tasmania,Tasmania,77,16:15,16:29,11,7
+Southern Cross Tasmania,Tasmania,76,16:30,16:44,11,7
+Southern Cross Tasmania,Tasmania,79,16:45,16:59,11,7
+Southern Cross Tasmania,Tasmania,76,17:00,17:14,11,7
+Southern Cross Tasmania,Tasmania,78,17:15,17:29,11,7
+Southern Cross Tasmania,Tasmania,87,17:30,17:44,11,7
+Southern Cross Tasmania,Tasmania,84,17:45,17:59,11,7
+Southern Cross Tasmania,Tasmania,86,18:00,18:14,11,7
+Southern Cross Tasmania,Tasmania,92,18:15,18:29,11,7
+Southern Cross Tasmania,Tasmania,101,18:30,18:44,11,7
+TVW7,Perth,4,7:00,7:14,11,7
+TVW7,Perth,0,7:15,7:29,11,7
+TVW7,Perth,4,7:30,7:44,11,7
+TVW7,Perth,3,7:45,7:59,11,7
+TVW7,Perth,4,8:00,8:14,11,7
+TVW7,Perth,6,8:15,8:29,11,7
+TVW7,Perth,6,8:30,8:44,11,7
+TVW7,Perth,6,8:45,8:59,11,7
+TVW7,Perth,6,9:00,9:14,11,7
+TVW7,Perth,10,9:15,9:29,11,7
+TVW7,Perth,17,9:30,9:44,11,7
+TVW7,Perth,23,9:45,9:59,11,7
+TVW7,Perth,28,10:00,10:14,11,7
+TVW7,Perth,38,10:15,10:29,11,7
+TVW7,Perth,54,10:30,10:44,11,7
+TVW7,Perth,61,10:45,10:59,11,7
+TVW7,Perth,69,11:00,11:14,11,7
+TVW7,Perth,91,11:15,11:29,11,7
+TVW7,Perth,94,11:30,11:44,11,7
+TVW7,Perth,105,11:45,11:59,11,7
+TVW7,Perth,113,12:00,12:14,11,7
+TVW7,Perth,119,12:15,12:29,11,7
+TVW7,Perth,116,12:30,12:44,11,7
+TVW7,Perth,111,12:45,12:59,11,7
+TVW7,Perth,116,13:00,13:14,11,7
+TVW7,Perth,115,13:15,13:29,11,7
+TVW7,Perth,106,13:30,13:44,11,7
+TVW7,Perth,109,13:45,13:59,11,7
+TVW7,Perth,121,14:00,14:14,11,7
+TVW7,Perth,124,14:15,14:29,11,7
+TVW7,Perth,125,14:30,14:44,11,7
+TVW7,Perth,120,14:45,14:59,11,7
+TVW7,Perth,112,15:00,15:14,11,7
+TVW7,Perth,105,15:15,15:29,11,7
+TVW7,Perth,104,15:30,15:44,11,7
+TVW7,Perth,96,15:45,15:59,11,7
+TVW7,Perth,108,16:00,16:14,11,7
+TVW7,Perth,115,16:15,16:29,11,7
+TVW7,Perth,118,16:30,16:44,11,7
+TVW7,Perth,117,16:45,16:59,11,7
+TVW7,Perth,123,17:00,17:14,11,7
+TVW7,Perth,130,17:15,17:29,11,7
+TVW7,Perth,144,17:30,17:44,11,7
+TVW7,Perth,149,17:45,17:59,11,7
+TVW7,Perth,167,18:00,18:14,11,7
+TVW7,Perth,178,18:15,18:29,11,7
+TVW7,Perth,166,18:30,18:44,11,7
+TVW7,Perth,186,18:30,18:44,11,7
+7mate Ade,Adelaide,13,18:00,18:14,12,6
+7mate Ade,Adelaide,11,18:15,18:29,12,6
+7mate Ade,Adelaide,4,18:30,18:44,12,6
+7mate Bri,Brisbane,41,18:00,18:14,12,6
+7mate Bri,Brisbane,24,18:15,18:29,12,6
+7mate Mel,Melbourne,26,12:00,12:14,12,6
+7mate Mel,Melbourne,29,12:15,12:29,12,6
+7mate Mel,Melbourne,30,12:30,12:44,12,6
+7mate Mel,Melbourne,30,12:45,12:59,12,6
+7mate Mel,Melbourne,28,13:00,13:14,12,6
+7mate Mel,Melbourne,34,13:15,13:29,12,6
+7mate Mel,Melbourne,47,13:30,13:44,12,6
+7mate Mel,Melbourne,58,13:45,13:59,12,6
+7mate Mel,Melbourne,63,14:00,14:14,12,6
+7mate Mel,Melbourne,55,14:15,14:29,12,6
+7mate Mel,Melbourne,55,14:30,14:44,12,6
+7mate Mel,Melbourne,53,14:45,14:59,12,6
+7mate Mel,Melbourne,69,15:00,15:14,12,6
+7mate Mel,Melbourne,66,15:15,15:29,12,6
+7mate Mel,Melbourne,70,15:30,15:44,12,6
+7mate Mel,Melbourne,86,15:45,15:59,12,6
+7mate Mel,Melbourne,93,16:00,16:14,12,6
+7mate Mel,Melbourne,99,16:15,16:29,12,6
+7mate Mel,Melbourne,95,16:30,16:44,12,6
+7mate Mel,Melbourne,91,16:45,16:59,12,6
+7mate Mel,Melbourne,99,17:00,17:14,12,6
+7mate Mel,Melbourne,101,17:15,17:29,12,6
+7mate Mel,Melbourne,98,17:30,17:44,12,6
+7mate Mel,Melbourne,100,17:45,17:59,12,6
+7mate Mel,Melbourne,83,18:00,18:14,12,6
+7mate Mel,Melbourne,69,18:15,18:29,12,6
+7mate Mel,Melbourne,55,18:30,18:44,12,6
+7mate Syd,Sydney,29,18:00,18:14,12,6
+7mate Syd,Sydney,27,18:15,18:29,12,6
+7mate Syd,Sydney,25,18:30,18:44,12,6
+7mate Tasmania,Tasmania,6,12:00,12:14,12,6
+7mate Tasmania,Tasmania,6,12:15,12:29,12,6
+7mate Tasmania,Tasmania,5,12:30,12:44,12,6
+7mate Tasmania,Tasmania,6,12:45,12:59,12,6
+7mate Tasmania,Tasmania,6,13:00,13:14,12,6
+7mate Tasmania,Tasmania,9,13:15,13:29,12,6
+7mate Tasmania,Tasmania,11,13:30,13:44,12,6
+7mate Tasmania,Tasmania,12,13:45,13:59,12,6
+7mate Tasmania,Tasmania,11,14:00,14:14,12,6
+7mate Tasmania,Tasmania,10,14:15,14:29,12,6
+7mate Tasmania,Tasmania,7,14:30,14:44,12,6
+7mate Tasmania,Tasmania,5,14:45,14:59,12,6
+7mate Tasmania,Tasmania,8,15:00,15:14,12,6
+7mate Tasmania,Tasmania,10,15:15,15:29,12,6
+7mate Tasmania,Tasmania,10,15:30,15:44,12,6
+7mate Tasmania,Tasmania,11,15:45,15:59,12,6
+7mate Tasmania,Tasmania,13,16:00,16:14,12,6
+7mate Tasmania,Tasmania,15,16:15,16:29,12,6
+7mate Tasmania,Tasmania,14,16:30,16:44,12,6
+7mate Tasmania,Tasmania,12,16:45,16:59,12,6
+7mate Tasmania,Tasmania,11,17:00,17:14,12,6
+7mate Tasmania,Tasmania,12,17:15,17:29,12,6
+7mate Tasmania,Tasmania,11,17:30,17:44,12,6
+7mate Tasmania,Tasmania,16,17:45,17:59,12,6
+7mate Tasmania,Tasmania,9,18:00,18:14,12,6
+7mate Tasmania,Tasmania,6,18:15,18:29,12,6
+7mate Tasmania,Tasmania,6,18:30,18:44,12,6
+ATN7,Sydney,42,12:00,12:14,12,6
+ATN7,Sydney,53,12:15,12:29,12,6
+ATN7,Sydney,54,12:30,12:44,12,6
+ATN7,Sydney,73,12:45,12:59,12,6
+ATN7,Sydney,74,13:00,13:14,12,6
+ATN7,Sydney,77,13:15,13:29,12,6
+ATN7,Sydney,87,13:30,13:44,12,6
+ATN7,Sydney,104,13:45,13:59,12,6
+ATN7,Sydney,108,14:00,14:14,12,6
+ATN7,Sydney,96,14:15,14:29,12,6
+ATN7,Sydney,98,14:30,14:44,12,6
+ATN7,Sydney,94,14:45,14:59,12,6
+ATN7,Sydney,95,15:00,15:14,12,6
+ATN7,Sydney,102,15:15,15:29,12,6
+ATN7,Sydney,127,15:30,15:44,12,6
+ATN7,Sydney,134,15:45,15:59,12,6
+ATN7,Sydney,115,16:00,16:14,12,6
+ATN7,Sydney,116,16:15,16:29,12,6
+ATN7,Sydney,110,16:30,16:44,12,6
+ATN7,Sydney,106,16:45,16:59,12,6
+ATN7,Sydney,102,17:00,17:14,12,6
+ATN7,Sydney,98,17:15,17:29,12,6
+ATN7,Sydney,111,17:30,17:44,12,6
+ATN7,Sydney,113,17:45,17:59,12,6
+BTQ7,Brisbane,31,12:00,12:14,12,6
+BTQ7,Brisbane,37,12:15,12:29,12,6
+BTQ7,Brisbane,44,12:30,12:44,12,6
+BTQ7,Brisbane,63,12:45,12:59,12,6
+BTQ7,Brisbane,73,13:00,13:14,12,6
+BTQ7,Brisbane,72,13:15,13:29,12,6
+BTQ7,Brisbane,71,13:30,13:44,12,6
+BTQ7,Brisbane,85,13:45,13:59,12,6
+BTQ7,Brisbane,103,14:00,14:14,12,6
+BTQ7,Brisbane,90,14:15,14:29,12,6
+BTQ7,Brisbane,91,14:30,14:44,12,6
+BTQ7,Brisbane,95,14:45,14:59,12,6
+BTQ7,Brisbane,110,15:00,15:14,12,6
+BTQ7,Brisbane,92,15:15,15:29,12,6
+BTQ7,Brisbane,128,15:30,15:44,12,6
+BTQ7,Brisbane,133,15:45,15:59,12,6
+BTQ7,Brisbane,132,16:00,16:14,12,6
+BTQ7,Brisbane,140,16:15,16:29,12,6
+BTQ7,Brisbane,158,16:30,16:44,12,6
+BTQ7,Brisbane,154,16:45,16:59,12,6
+BTQ7,Brisbane,181,17:00,17:14,12,6
+BTQ7,Brisbane,171,17:15,17:29,12,6
+BTQ7,Brisbane,156,17:30,17:44,12,6
+BTQ7,Brisbane,170,17:45,17:59,12,6
+SAS7,Adelaide,9,12:00,12:14,12,6
+SAS7,Adelaide,11,12:15,12:29,12,6
+SAS7,Adelaide,11,12:30,12:44,12,6
+SAS7,Adelaide,14,12:45,12:59,12,6
+SAS7,Adelaide,16,13:00,13:14,12,6
+SAS7,Adelaide,16,13:15,13:29,12,6
+SAS7,Adelaide,13,13:30,13:44,12,6
+SAS7,Adelaide,23,13:45,13:59,12,6
+SAS7,Adelaide,21,14:00,14:14,12,6
+SAS7,Adelaide,18,14:15,14:29,12,6
+SAS7,Adelaide,15,14:30,14:44,12,6
+SAS7,Adelaide,18,14:45,14:59,12,6
+SAS7,Adelaide,22,15:00,15:14,12,6
+SAS7,Adelaide,23,15:15,15:29,12,6
+SAS7,Adelaide,25,15:30,15:44,12,6
+SAS7,Adelaide,34,15:45,15:59,12,6
+SAS7,Adelaide,29,16:00,16:14,12,6
+SAS7,Adelaide,31,16:15,16:29,12,6
+SAS7,Adelaide,29,16:30,16:44,12,6
+SAS7,Adelaide,26,16:45,16:59,12,6
+SAS7,Adelaide,28,17:00,17:14,12,6
+SAS7,Adelaide,27,17:15,17:29,12,6
+SAS7,Adelaide,34,17:30,17:44,12,6
+SAS7,Adelaide,45,17:45,17:59,12,6
+TVW7,Perth,31,12:00,12:14,12,6
+TVW7,Perth,31,12:15,12:29,12,6
+TVW7,Perth,33,12:30,12:44,12,6
+TVW7,Perth,34,12:45,12:59,12,6
+TVW7,Perth,29,13:00,13:14,12,6
+TVW7,Perth,27,13:15,13:29,12,6
+TVW7,Perth,29,13:30,13:44,12,6
+TVW7,Perth,33,13:45,13:59,12,6
+TVW7,Perth,38,14:00,14:14,12,6
+TVW7,Perth,34,14:15,14:29,12,6
+TVW7,Perth,32,14:30,14:44,12,6
+TVW7,Perth,30,14:45,14:59,12,6
+TVW7,Perth,30,15:00,15:14,12,6
+TVW7,Perth,26,15:15,15:29,12,6
+TVW7,Perth,26,15:30,15:44,12,6
+TVW7,Perth,30,15:45,15:59,12,6
+TVW7,Perth,25,16:00,16:14,12,6
+TVW7,Perth,29,16:15,16:29,12,6
+TVW7,Perth,27,16:30,16:44,12,6
+TVW7,Perth,28,16:45,16:59,12,6
+TVW7,Perth,33,17:00,17:14,12,6
+TVW7,Perth,33,17:15,17:29,12,6
+TVW7,Perth,32,17:30,17:44,12,6
+TVW7,Perth,34,17:45,17:59,12,6
+TVW7,Perth,26,18:00,18:14,12,6
+TVW7,Perth,20,18:15,18:29,12,6
+7mate Per,Perth,9,12:30,12:44,12,7
+7mate Per,Perth,10,12:45,12:59,12,7
+7mate Per,Perth,17,13:00,13:14,12,7
+7mate Per,Perth,21,13:15,13:29,12,7
+7mate Per,Perth,15,13:30,13:44,12,7
+7mate Per,Perth,18,13:45,13:59,12,7
+7mate Per,Perth,21,14:00,14:14,12,7
+7mate Per,Perth,22,14:15,14:29,12,7
+7mate Per,Perth,20,14:30,14:44,12,7
+7mate Per,Perth,23,14:45,14:59,12,7
+7mate Per,Perth,32,15:00,15:14,12,7
+7mate Per,Perth,29,15:15,15:29,12,7
+7mate Per,Perth,34,15:30,15:44,12,7
+7mate Per,Perth,32,15:45,15:59,12,7
+7mate Per,Perth,35,16:00,16:14,12,7
+7mate Per,Perth,38,16:15,16:29,12,7
+7mate Per,Perth,33,16:30,16:44,12,7
+7mate Per,Perth,31,16:45,16:59,12,7
+7mate Per,Perth,31,17:00,17:14,12,7
+7mate Per,Perth,28,17:15,17:29,12,7
+ATN7,Sydney,68,12:30,12:44,12,7
+ATN7,Sydney,78,12:45,12:59,12,7
+ATN7,Sydney,97,13:00,13:14,12,7
+ATN7,Sydney,112,13:15,13:29,12,7
+ATN7,Sydney,93,13:30,13:44,12,7
+ATN7,Sydney,97,13:45,13:59,12,7
+ATN7,Sydney,116,14:00,14:14,12,7
+ATN7,Sydney,121,14:15,14:29,12,7
+ATN7,Sydney,133,14:30,14:44,12,7
+ATN7,Sydney,154,14:45,14:59,12,7
+ATN7,Sydney,177,15:00,15:14,12,7
+ATN7,Sydney,186,15:15,15:29,12,7
+ATN7,Sydney,189,15:30,15:44,12,7
+ATN7,Sydney,196,15:45,15:59,12,7
+ATN7,Sydney,192,16:00,16:14,12,7
+ATN7,Sydney,202,16:15,16:29,12,7
+ATN7,Sydney,196,16:30,16:44,12,7
+ATN7,Sydney,197,16:45,16:59,12,7
+ATN7,Sydney,210,17:00,17:14,12,7
+ATN7,Sydney,179,17:15,17:29,12,7
+BTQ7,Brisbane,37,12:30,12:44,12,7
+BTQ7,Brisbane,45,12:45,12:59,12,7
+BTQ7,Brisbane,63,13:00,13:14,12,7
+BTQ7,Brisbane,69,13:15,13:29,12,7
+BTQ7,Brisbane,90,13:30,13:44,12,7
+BTQ7,Brisbane,92,13:45,13:59,12,7
+BTQ7,Brisbane,88,14:00,14:14,12,7
+BTQ7,Brisbane,100,14:15,14:29,12,7
+BTQ7,Brisbane,127,14:30,14:44,12,7
+BTQ7,Brisbane,141,14:45,14:59,12,7
+BTQ7,Brisbane,152,15:00,15:14,12,7
+BTQ7,Brisbane,144,15:15,15:29,12,7
+BTQ7,Brisbane,150,15:30,15:44,12,7
+BTQ7,Brisbane,158,15:45,15:59,12,7
+BTQ7,Brisbane,155,16:00,16:14,12,7
+BTQ7,Brisbane,171,16:15,16:29,12,7
+BTQ7,Brisbane,182,16:30,16:44,12,7
+BTQ7,Brisbane,192,16:45,16:59,12,7
+BTQ7,Brisbane,220,17:00,17:14,12,7
+BTQ7,Brisbane,188,17:15,17:29,12,7
+HSV7,Melbourne,33,12:30,12:44,12,7
+HSV7,Melbourne,44,12:45,12:59,12,7
+HSV7,Melbourne,52,13:00,13:14,12,7
+HSV7,Melbourne,54,13:15,13:29,12,7
+HSV7,Melbourne,67,13:30,13:44,12,7
+HSV7,Melbourne,76,13:45,13:59,12,7
+HSV7,Melbourne,82,14:00,14:14,12,7
+HSV7,Melbourne,58,14:15,14:29,12,7
+HSV7,Melbourne,67,14:30,14:44,12,7
+HSV7,Melbourne,89,14:45,14:59,12,7
+HSV7,Melbourne,109,15:00,15:14,12,7
+HSV7,Melbourne,106,15:15,15:29,12,7
+HSV7,Melbourne,94,15:30,15:44,12,7
+HSV7,Melbourne,105,15:45,15:59,12,7
+HSV7,Melbourne,123,16:00,16:14,12,7
+HSV7,Melbourne,133,16:15,16:29,12,7
+HSV7,Melbourne,137,16:30,16:44,12,7
+HSV7,Melbourne,143,16:45,16:59,12,7
+HSV7,Melbourne,168,17:00,17:14,12,7
+HSV7,Melbourne,132,17:15,17:29,12,7
+SAS7,Adelaide,17,12:30,12:44,12,7
+SAS7,Adelaide,21,12:45,12:59,12,7
+SAS7,Adelaide,23,13:00,13:14,12,7
+SAS7,Adelaide,26,13:15,13:29,12,7
+SAS7,Adelaide,31,13:30,13:44,12,7
+SAS7,Adelaide,31,13:45,13:59,12,7
+SAS7,Adelaide,34,14:00,14:14,12,7
+SAS7,Adelaide,30,14:15,14:29,12,7
+SAS7,Adelaide,34,14:30,14:44,12,7
+SAS7,Adelaide,36,14:45,14:59,12,7
+SAS7,Adelaide,42,15:00,15:14,12,7
+SAS7,Adelaide,45,15:15,15:29,12,7
+SAS7,Adelaide,45,15:30,15:44,12,7
+SAS7,Adelaide,46,15:45,15:59,12,7
+SAS7,Adelaide,54,16:00,16:14,12,7
+SAS7,Adelaide,62,16:15,16:29,12,7
+SAS7,Adelaide,61,16:30,16:44,12,7
+SAS7,Adelaide,61,16:45,16:59,12,7
+SAS7,Adelaide,66,17:00,17:14,12,7
+SAS7,Adelaide,57,17:15,17:29,12,7
+Southern Cross Tasmania,Tasmania,10,12:30,12:44,12,7
+Southern Cross Tasmania,Tasmania,13,12:45,12:59,12,7
+Southern Cross Tasmania,Tasmania,17,13:00,13:14,12,7
+Southern Cross Tasmania,Tasmania,18,13:15,13:29,12,7
+Southern Cross Tasmania,Tasmania,18,13:30,13:44,12,7
+Southern Cross Tasmania,Tasmania,15,13:45,13:59,12,7
+Southern Cross Tasmania,Tasmania,18,14:00,14:14,12,7
+Southern Cross Tasmania,Tasmania,19,14:15,14:29,12,7
+Southern Cross Tasmania,Tasmania,19,14:30,14:44,12,7
+Southern Cross Tasmania,Tasmania,24,14:45,14:59,12,7
+Southern Cross Tasmania,Tasmania,26,15:00,15:14,12,7
+Southern Cross Tasmania,Tasmania,27,15:15,15:29,12,7
+Southern Cross Tasmania,Tasmania,27,15:30,15:44,12,7
+Southern Cross Tasmania,Tasmania,29,15:45,15:59,12,7
+Southern Cross Tasmania,Tasmania,27,16:00,16:14,12,7
+Southern Cross Tasmania,Tasmania,27,16:15,16:29,12,7
+Southern Cross Tasmania,Tasmania,25,16:30,16:44,12,7
+Southern Cross Tasmania,Tasmania,32,16:45,16:59,12,7
+Southern Cross Tasmania,Tasmania,37,17:00,17:14,12,7
+Southern Cross Tasmania,Tasmania,38,17:15,17:29,12,7
+ATN7,Sydney,62,13:30,13:44,13,6
+ATN7,Sydney,75,13:45,13:59,13,6
+ATN7,Sydney,90,14:00,14:14,13,6
+ATN7,Sydney,98,14:15,14:29,13,6
+ATN7,Sydney,107,14:30,14:44,13,6
+ATN7,Sydney,111,14:45,14:59,13,6
+ATN7,Sydney,110,15:00,15:14,13,6
+ATN7,Sydney,101,15:15,15:29,13,6
+ATN7,Sydney,107,15:30,15:44,13,6
+ATN7,Sydney,114,15:45,15:59,13,6
+ATN7,Sydney,122,16:00,16:14,13,6
+ATN7,Sydney,123,16:15,16:29,13,6
+ATN7,Sydney,125,16:30,16:44,13,6
+ATN7,Sydney,121,16:45,16:59,13,6
+ATN7,Sydney,118,17:00,17:14,13,6
+ATN7,Sydney,113,17:15,17:29,13,6
+BTQ7,Brisbane,52,13:30,13:44,13,6
+BTQ7,Brisbane,55,13:45,13:59,13,6
+BTQ7,Brisbane,56,14:00,14:14,13,6
+BTQ7,Brisbane,49,14:15,14:29,13,6
+BTQ7,Brisbane,66,14:30,14:44,13,6
+BTQ7,Brisbane,78,14:45,14:59,13,6
+BTQ7,Brisbane,76,15:00,15:14,13,6
+BTQ7,Brisbane,63,15:15,15:29,13,6
+BTQ7,Brisbane,69,15:30,15:44,13,6
+BTQ7,Brisbane,81,15:45,15:59,13,6
+BTQ7,Brisbane,86,16:00,16:14,13,6
+BTQ7,Brisbane,88,16:15,16:29,13,6
+BTQ7,Brisbane,96,16:30,16:44,13,6
+BTQ7,Brisbane,108,16:45,16:59,13,6
+BTQ7,Brisbane,117,17:00,17:14,13,6
+BTQ7,Brisbane,108,17:15,17:29,13,6
+HSV7,Melbourne,69,13:30,13:44,13,6
+HSV7,Melbourne,90,13:45,13:59,13,6
+HSV7,Melbourne,97,14:00,14:14,13,6
+HSV7,Melbourne,89,14:15,14:29,13,6
+HSV7,Melbourne,102,14:30,14:44,13,6
+HSV7,Melbourne,96,14:45,14:59,13,6
+HSV7,Melbourne,106,15:00,15:14,13,6
+HSV7,Melbourne,73,15:15,15:29,13,6
+HSV7,Melbourne,80,15:30,15:44,13,6
+HSV7,Melbourne,87,15:45,15:59,13,6
+HSV7,Melbourne,97,16:00,16:14,13,6
+HSV7,Melbourne,94,16:15,16:29,13,6
+HSV7,Melbourne,108,16:30,16:44,13,6
+HSV7,Melbourne,111,16:45,16:59,13,6
+HSV7,Melbourne,122,17:00,17:14,13,6
+HSV7,Melbourne,112,17:15,17:29,13,6
+SAS7,Adelaide,17,13:30,13:44,13,6
+SAS7,Adelaide,15,13:45,13:59,13,6
+SAS7,Adelaide,17,14:00,14:14,13,6
+SAS7,Adelaide,17,14:15,14:29,13,6
+SAS7,Adelaide,21,14:30,14:44,13,6
+SAS7,Adelaide,21,14:45,14:59,13,6
+SAS7,Adelaide,25,15:00,15:14,13,6
+SAS7,Adelaide,21,15:15,15:29,13,6
+SAS7,Adelaide,27,15:30,15:44,13,6
+SAS7,Adelaide,29,15:45,15:59,13,6
+SAS7,Adelaide,31,16:00,16:14,13,6
+SAS7,Adelaide,32,16:15,16:29,13,6
+SAS7,Adelaide,40,16:30,16:44,13,6
+SAS7,Adelaide,43,16:45,16:59,13,6
+SAS7,Adelaide,45,17:00,17:14,13,6
+SAS7,Adelaide,44,17:15,17:29,13,6
+Southern Cross Tasmania,Tasmania,4,13:30,13:44,13,6
+Southern Cross Tasmania,Tasmania,7,13:45,13:59,13,6
+Southern Cross Tasmania,Tasmania,9,14:00,14:14,13,6
+Southern Cross Tasmania,Tasmania,10,14:15,14:29,13,6
+Southern Cross Tasmania,Tasmania,8,14:30,14:44,13,6
+Southern Cross Tasmania,Tasmania,9,14:45,14:59,13,6
+Southern Cross Tasmania,Tasmania,12,15:00,15:14,13,6
+Southern Cross Tasmania,Tasmania,12,15:15,15:29,13,6
+Southern Cross Tasmania,Tasmania,10,15:30,15:44,13,6
+Southern Cross Tasmania,Tasmania,10,15:45,15:59,13,6
+Southern Cross Tasmania,Tasmania,14,16:00,16:14,13,6
+Southern Cross Tasmania,Tasmania,17,16:15,16:29,13,6
+Southern Cross Tasmania,Tasmania,17,16:30,16:44,13,6
+Southern Cross Tasmania,Tasmania,21,16:45,16:59,13,6
+Southern Cross Tasmania,Tasmania,23,17:00,17:14,13,6
+Southern Cross Tasmania,Tasmania,22,17:15,17:29,13,6
+TVW7,Perth,19,13:30,13:44,13,6
+TVW7,Perth,21,13:45,13:59,13,6
+TVW7,Perth,23,14:00,14:14,13,6
+TVW7,Perth,22,14:15,14:29,13,6
+TVW7,Perth,27,14:30,14:44,13,6
+TVW7,Perth,26,14:45,14:59,13,6
+TVW7,Perth,26,15:00,15:14,13,6
+TVW7,Perth,21,15:15,15:29,13,6
+TVW7,Perth,32,15:30,15:44,13,6
+TVW7,Perth,31,15:45,15:59,13,6
+TVW7,Perth,24,16:00,16:14,13,6
+TVW7,Perth,24,16:15,16:29,13,6
+TVW7,Perth,31,16:30,16:44,13,6
+TVW7,Perth,26,16:45,16:59,13,6
+TVW7,Perth,34,17:00,17:14,13,6
+TVW7,Perth,32,17:15,17:29,13,6
+ATN7,Sydney,88,15:00,15:14,13,7
+ATN7,Sydney,98,15:15,15:29,13,7
+ATN7,Sydney,100,15:30,15:44,13,7
+ATN7,Sydney,103,15:45,15:59,13,7
+ATN7,Sydney,128,16:00,16:14,13,7
+ATN7,Sydney,130,16:15,16:29,13,7
+ATN7,Sydney,134,16:30,16:44,13,7
+ATN7,Sydney,125,16:45,16:59,13,7
+ATN7,Sydney,152,17:00,17:14,13,7
+ATN7,Sydney,130,17:15,17:29,13,7
+BTQ7,Brisbane,62,15:00,15:14,13,7
+BTQ7,Brisbane,57,15:15,15:29,13,7
+BTQ7,Brisbane,68,15:30,15:44,13,7
+BTQ7,Brisbane,79,15:45,15:59,13,7
+BTQ7,Brisbane,86,16:00,16:14,13,7
+BTQ7,Brisbane,93,16:15,16:29,13,7
+BTQ7,Brisbane,108,16:30,16:44,13,7
+BTQ7,Brisbane,100,16:45,16:59,13,7
+BTQ7,Brisbane,120,17:00,17:14,13,7
+BTQ7,Brisbane,100,17:15,17:29,13,7
+HSV7,Melbourne,93,15:00,15:14,13,7
+HSV7,Melbourne,91,15:15,15:29,13,7
+HSV7,Melbourne,89,15:30,15:44,13,7
+HSV7,Melbourne,104,15:45,15:59,13,7
+HSV7,Melbourne,120,16:00,16:14,13,7
+HSV7,Melbourne,118,16:15,16:29,13,7
+HSV7,Melbourne,115,16:30,16:44,13,7
+HSV7,Melbourne,115,16:45,16:59,13,7
+HSV7,Melbourne,137,17:00,17:14,13,7
+HSV7,Melbourne,122,17:15,17:29,13,7
+SAS7,Adelaide,7,15:00,15:14,13,7
+SAS7,Adelaide,15,15:15,15:29,13,7
+SAS7,Adelaide,16,15:30,15:44,13,7
+SAS7,Adelaide,19,15:45,15:59,13,7
+SAS7,Adelaide,23,16:00,16:14,13,7
+SAS7,Adelaide,26,16:15,16:29,13,7
+SAS7,Adelaide,26,16:30,16:44,13,7
+SAS7,Adelaide,23,16:45,16:59,13,7
+SAS7,Adelaide,30,17:00,17:14,13,7
+SAS7,Adelaide,24,17:15,17:29,13,7
+Southern Cross Tasmania,Tasmania,8,15:00,15:14,13,7
+Southern Cross Tasmania,Tasmania,8,15:15,15:29,13,7
+Southern Cross Tasmania,Tasmania,11,15:30,15:44,13,7
+Southern Cross Tasmania,Tasmania,11,15:45,15:59,13,7
+Southern Cross Tasmania,Tasmania,12,16:00,16:14,13,7
+Southern Cross Tasmania,Tasmania,10,16:15,16:29,13,7
+Southern Cross Tasmania,Tasmania,9,16:30,16:44,13,7
+Southern Cross Tasmania,Tasmania,8,16:45,16:59,13,7
+Southern Cross Tasmania,Tasmania,10,17:00,17:14,13,7
+Southern Cross Tasmania,Tasmania,9,17:15,17:29,13,7
+TVW7,Perth,21,15:00,15:14,13,7
+TVW7,Perth,21,15:15,15:29,13,7
+TVW7,Perth,23,15:30,15:44,13,7
+TVW7,Perth,27,15:45,15:59,13,7
+TVW7,Perth,29,16:00,16:14,13,7
+TVW7,Perth,35,16:15,16:29,13,7
+TVW7,Perth,35,16:30,16:44,13,7
+TVW7,Perth,31,16:45,16:59,13,7
+TVW7,Perth,38,17:00,17:14,13,7
+TVW7,Perth,26,17:15,17:29,13,7
+ATN7,Sydney,72,13:30,13:44,14,6
+ATN7,Sydney,94,13:45,13:59,14,6
+ATN7,Sydney,99,14:00,14:14,14,6
+ATN7,Sydney,96,14:15,14:29,14,6
+ATN7,Sydney,123,14:30,14:44,14,6
+ATN7,Sydney,123,14:45,14:59,14,6
+ATN7,Sydney,121,15:00,15:14,14,6
+ATN7,Sydney,132,15:15,15:29,14,6
+ATN7,Sydney,130,15:30,15:44,14,6
+ATN7,Sydney,125,15:45,15:59,14,6
+ATN7,Sydney,114,16:00,16:14,14,6
+ATN7,Sydney,108,16:15,16:29,14,6
+ATN7,Sydney,118,16:30,16:44,14,6
+ATN7,Sydney,159,16:45,16:59,14,6
+ATN7,Sydney,173,17:00,17:14,14,6
+ATN7,Sydney,175,17:15,17:29,14,6
+ATN7,Sydney,174,17:30,17:44,14,6
+ATN7,Sydney,170,17:45,17:59,14,6
+BTQ7,Brisbane,68,13:30,13:44,14,6
+BTQ7,Brisbane,73,13:45,13:59,14,6
+BTQ7,Brisbane,80,14:00,14:14,14,6
+BTQ7,Brisbane,92,14:15,14:29,14,6
+BTQ7,Brisbane,106,14:30,14:44,14,6
+BTQ7,Brisbane,109,14:45,14:59,14,6
+BTQ7,Brisbane,106,15:00,15:14,14,6
+BTQ7,Brisbane,102,15:15,15:29,14,6
+BTQ7,Brisbane,103,15:30,15:44,14,6
+BTQ7,Brisbane,97,15:45,15:59,14,6
+BTQ7,Brisbane,91,16:00,16:14,14,6
+BTQ7,Brisbane,91,16:15,16:29,14,6
+BTQ7,Brisbane,103,16:30,16:44,14,6
+BTQ7,Brisbane,116,16:45,16:59,14,6
+BTQ7,Brisbane,122,17:00,17:14,14,6
+BTQ7,Brisbane,122,17:15,17:29,14,6
+BTQ7,Brisbane,115,17:30,17:44,14,6
+BTQ7,Brisbane,132,17:45,17:59,14,6
+HSV7,Melbourne,45,13:30,13:44,14,6
+HSV7,Melbourne,50,13:45,13:59,14,6
+HSV7,Melbourne,83,14:00,14:14,14,6
+HSV7,Melbourne,82,14:15,14:29,14,6
+HSV7,Melbourne,91,14:30,14:44,14,6
+HSV7,Melbourne,86,14:45,14:59,14,6
+HSV7,Melbourne,80,15:00,15:14,14,6
+HSV7,Melbourne,83,15:15,15:29,14,6
+HSV7,Melbourne,83,15:30,15:44,14,6
+HSV7,Melbourne,79,15:45,15:59,14,6
+HSV7,Melbourne,78,16:00,16:14,14,6
+HSV7,Melbourne,86,16:15,16:29,14,6
+HSV7,Melbourne,86,16:30,16:44,14,6
+HSV7,Melbourne,98,16:45,16:59,14,6
+HSV7,Melbourne,111,17:00,17:14,14,6
+HSV7,Melbourne,134,17:15,17:29,14,6
+HSV7,Melbourne,124,17:30,17:44,14,6
+HSV7,Melbourne,138,17:45,17:59,14,6
+SAS7,Adelaide,21,13:30,13:44,14,6
+SAS7,Adelaide,23,13:45,13:59,14,6
+SAS7,Adelaide,25,14:00,14:14,14,6
+SAS7,Adelaide,27,14:15,14:29,14,6
+SAS7,Adelaide,34,14:30,14:44,14,6
+SAS7,Adelaide,37,14:45,14:59,14,6
+SAS7,Adelaide,33,15:00,15:14,14,6
+SAS7,Adelaide,36,15:15,15:29,14,6
+SAS7,Adelaide,35,15:30,15:44,14,6
+SAS7,Adelaide,27,15:45,15:59,14,6
+SAS7,Adelaide,30,16:00,16:14,14,6
+SAS7,Adelaide,28,16:15,16:29,14,6
+SAS7,Adelaide,31,16:30,16:44,14,6
+SAS7,Adelaide,42,16:45,16:59,14,6
+SAS7,Adelaide,43,17:00,17:14,14,6
+SAS7,Adelaide,45,17:15,17:29,14,6
+SAS7,Adelaide,36,17:30,17:44,14,6
+SAS7,Adelaide,41,17:45,17:59,14,6
+Southern Cross Tasmania,Tasmania,12,13:30,13:44,14,6
+Southern Cross Tasmania,Tasmania,11,13:45,13:59,14,6
+Southern Cross Tasmania,Tasmania,12,14:00,14:14,14,6
+Southern Cross Tasmania,Tasmania,13,14:15,14:29,14,6
+Southern Cross Tasmania,Tasmania,13,14:30,14:44,14,6
+Southern Cross Tasmania,Tasmania,12,14:45,14:59,14,6
+Southern Cross Tasmania,Tasmania,12,15:00,15:14,14,6
+Southern Cross Tasmania,Tasmania,13,15:15,15:29,14,6
+Southern Cross Tasmania,Tasmania,14,15:30,15:44,14,6
+Southern Cross Tasmania,Tasmania,14,15:45,15:59,14,6
+Southern Cross Tasmania,Tasmania,15,16:00,16:14,14,6
+Southern Cross Tasmania,Tasmania,16,16:15,16:29,14,6
+Southern Cross Tasmania,Tasmania,16,16:30,16:44,14,6
+Southern Cross Tasmania,Tasmania,19,16:45,16:59,14,6
+Southern Cross Tasmania,Tasmania,27,17:00,17:14,14,6
+Southern Cross Tasmania,Tasmania,30,17:15,17:29,14,6
+Southern Cross Tasmania,Tasmania,31,17:30,17:44,14,6
+Southern Cross Tasmania,Tasmania,31,17:45,17:59,14,6
+TVW7,Perth,31,13:30,13:44,14,6
+TVW7,Perth,30,13:45,13:59,14,6
+TVW7,Perth,31,14:00,14:14,14,6
+TVW7,Perth,30,14:15,14:29,14,6
+TVW7,Perth,35,14:30,14:44,14,6
+TVW7,Perth,36,14:45,14:59,14,6
+TVW7,Perth,38,15:00,15:14,14,6
+TVW7,Perth,37,15:15,15:29,14,6
+TVW7,Perth,34,15:30,15:44,14,6
+TVW7,Perth,27,15:45,15:59,14,6
+TVW7,Perth,34,16:00,16:14,14,6
+TVW7,Perth,31,16:15,16:29,14,6
+TVW7,Perth,30,16:30,16:44,14,6
+TVW7,Perth,42,16:45,16:59,14,6
+TVW7,Perth,45,17:00,17:14,14,6
+TVW7,Perth,45,17:15,17:29,14,6
+TVW7,Perth,46,17:30,17:44,14,6
+TVW7,Perth,51,17:45,17:59,14,6
+ATN7,Sydney,59,13:30,13:44,14,7
+ATN7,Sydney,79,13:45,13:59,14,7
+ATN7,Sydney,102,14:00,14:14,14,7
+ATN7,Sydney,119,14:15,14:29,14,7
+ATN7,Sydney,111,14:30,14:44,14,7
+ATN7,Sydney,122,14:45,14:59,14,7
+ATN7,Sydney,126,15:00,15:14,14,7
+ATN7,Sydney,133,15:15,15:29,14,7
+ATN7,Sydney,154,15:30,15:44,14,7
+ATN7,Sydney,172,15:45,15:59,14,7
+ATN7,Sydney,178,16:00,16:14,14,7
+ATN7,Sydney,181,16:15,16:29,14,7
+ATN7,Sydney,184,16:30,16:44,14,7
+ATN7,Sydney,187,16:45,16:59,14,7
+ATN7,Sydney,164,17:00,17:14,14,7
+ATN7,Sydney,136,17:15,17:29,14,7
+ATN7,Sydney,132,17:30,17:44,14,7
+ATN7,Sydney,114,17:45,17:59,14,7
+BTQ7,Brisbane,47,13:30,13:44,14,7
+BTQ7,Brisbane,59,13:45,13:59,14,7
+BTQ7,Brisbane,67,14:00,14:14,14,7
+BTQ7,Brisbane,74,14:15,14:29,14,7
+BTQ7,Brisbane,87,14:30,14:44,14,7
+BTQ7,Brisbane,92,14:45,14:59,14,7
+BTQ7,Brisbane,92,15:00,15:14,14,7
+BTQ7,Brisbane,101,15:15,15:29,14,7
+BTQ7,Brisbane,110,15:30,15:44,14,7
+BTQ7,Brisbane,124,15:45,15:59,14,7
+BTQ7,Brisbane,128,16:00,16:14,14,7
+BTQ7,Brisbane,122,16:15,16:29,14,7
+BTQ7,Brisbane,135,16:30,16:44,14,7
+BTQ7,Brisbane,137,16:45,16:59,14,7
+BTQ7,Brisbane,123,17:00,17:14,14,7
+BTQ7,Brisbane,104,17:15,17:29,14,7
+BTQ7,Brisbane,107,17:30,17:44,14,7
+BTQ7,Brisbane,89,17:45,17:59,14,7
+HSV7,Melbourne,59,13:30,13:44,14,7
+HSV7,Melbourne,83,13:45,13:59,14,7
+HSV7,Melbourne,103,14:00,14:14,14,7
+HSV7,Melbourne,108,14:15,14:29,14,7
+HSV7,Melbourne,99,14:30,14:44,14,7
+HSV7,Melbourne,102,14:45,14:59,14,7
+HSV7,Melbourne,112,15:00,15:14,14,7
+HSV7,Melbourne,129,15:15,15:29,14,7
+HSV7,Melbourne,142,15:30,15:44,14,7
+HSV7,Melbourne,163,15:45,15:59,14,7
+HSV7,Melbourne,161,16:00,16:14,14,7
+HSV7,Melbourne,174,16:15,16:29,14,7
+HSV7,Melbourne,187,16:30,16:44,14,7
+HSV7,Melbourne,188,16:45,16:59,14,7
+HSV7,Melbourne,172,17:00,17:14,14,7
+HSV7,Melbourne,142,17:15,17:29,14,7
+HSV7,Melbourne,148,17:30,17:44,14,7
+HSV7,Melbourne,158,17:45,17:59,14,7
+SAS7,Adelaide,35,13:30,13:44,14,7
+SAS7,Adelaide,38,13:45,13:59,14,7
+SAS7,Adelaide,41,14:00,14:14,14,7
+SAS7,Adelaide,37,14:15,14:29,14,7
+SAS7,Adelaide,40,14:30,14:44,14,7
+SAS7,Adelaide,43,14:45,14:59,14,7
+SAS7,Adelaide,40,15:00,15:14,14,7
+SAS7,Adelaide,41,15:15,15:29,14,7
+SAS7,Adelaide,53,15:30,15:44,14,7
+SAS7,Adelaide,61,15:45,15:59,14,7
+SAS7,Adelaide,58,16:00,16:14,14,7
+SAS7,Adelaide,55,16:15,16:29,14,7
+SAS7,Adelaide,63,16:30,16:44,14,7
+SAS7,Adelaide,60,16:45,16:59,14,7
+SAS7,Adelaide,55,17:00,17:14,14,7
+SAS7,Adelaide,44,17:15,17:29,14,7
+SAS7,Adelaide,44,17:30,17:44,14,7
+SAS7,Adelaide,47,17:45,17:59,14,7
+Southern Cross Tasmania,Tasmania,8,13:30,13:44,14,7
+Southern Cross Tasmania,Tasmania,13,13:45,13:59,14,7
+Southern Cross Tasmania,Tasmania,15,14:00,14:14,14,7
+Southern Cross Tasmania,Tasmania,13,14:15,14:29,14,7
+Southern Cross Tasmania,Tasmania,13,14:30,14:44,14,7
+Southern Cross Tasmania,Tasmania,15,14:45,14:59,14,7
+Southern Cross Tasmania,Tasmania,17,15:00,15:14,14,7
+Southern Cross Tasmania,Tasmania,19,15:15,15:29,14,7
+Southern Cross Tasmania,Tasmania,19,15:30,15:44,14,7
+Southern Cross Tasmania,Tasmania,21,15:45,15:59,14,7
+Southern Cross Tasmania,Tasmania,19,16:00,16:14,14,7
+Southern Cross Tasmania,Tasmania,19,16:15,16:29,14,7
+Southern Cross Tasmania,Tasmania,24,16:30,16:44,14,7
+Southern Cross Tasmania,Tasmania,32,16:45,16:59,14,7
+Southern Cross Tasmania,Tasmania,37,17:00,17:14,14,7
+Southern Cross Tasmania,Tasmania,25,17:15,17:29,14,7
+Southern Cross Tasmania,Tasmania,23,17:30,17:44,14,7
+Southern Cross Tasmania,Tasmania,29,17:45,17:59,14,7
+TVW7,Perth,27,13:30,13:44,14,7
+TVW7,Perth,24,13:45,13:59,14,7
+TVW7,Perth,29,14:00,14:14,14,7
+TVW7,Perth,28,14:15,14:29,14,7
+TVW7,Perth,30,14:30,14:44,14,7
+TVW7,Perth,28,14:45,14:59,14,7
+TVW7,Perth,32,15:00,15:14,14,7
+TVW7,Perth,35,15:15,15:29,14,7
+TVW7,Perth,36,15:30,15:44,14,7
+TVW7,Perth,44,15:45,15:59,14,7
+TVW7,Perth,46,16:00,16:14,14,7
+TVW7,Perth,45,16:15,16:29,14,7
+TVW7,Perth,48,16:30,16:44,14,7
+TVW7,Perth,53,16:45,16:59,14,7
+TVW7,Perth,47,17:00,17:14,14,7
+TVW7,Perth,35,17:15,17:29,14,7
+TVW7,Perth,30,17:30,17:44,14,7
+TVW7,Perth,29,17:45,17:59,14,7
